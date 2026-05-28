@@ -12,6 +12,7 @@ Ensures all Python code adheres strictly to PEP 8 standards, utilizing modern Py
 * Prefer list comprehensions or generator expressions over explicit `for` loops when the loop body is a single expression that maps or filters items (no side effects, no nested loops, no multi-step logic).
 * Never use mutable default arguments in functions (e.g., `def append_to(element, target=[]):`). Always use `target=None`.
 * Enforce the use of `pathlib.Path` instead of the legacy `os.path` module for file operations.
+* **Always use f-formatted strings** instead of `%` or `.format()` style formatting. Use f-strings for all string interpolation including logging, error messages, and output strings.
 
 ## Step-by-Step Workflow
 1. Analyze the proposed Python function or script.
@@ -39,4 +40,21 @@ def read_data(filename: str) -> str:
         return file_path.read_text(encoding="utf-8")
     except FileNotFoundError:
         return ""
+```
+
+### String Formatting (Anti-pattern vs Modern Solution):
+```python
+# 🚫 BAD: Using % or .format() style formatting
+name = "Alice"
+age = 30
+message = "Hello, %s. You are %d years old." % (name, age)
+logging.info("Processing file: %s", filename)
+error_msg = "Error: {}".format(error_code)
+
+# ✅ GOOD: Always use f-strings
+name = "Alice"
+age = 30
+message = f"Hello, {name}. You are {age} years old."
+logging.info(f"Processing file: {filename}")
+error_msg = f"Error: {error_code}"
 ```

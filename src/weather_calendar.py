@@ -56,7 +56,7 @@ if __name__ == "__main__":
     geocode_url = "https://geocoding-api.open-meteo.com/v1/search"
     geocode_params = {"name": args.location, "count": 1, "language": "en", "format": "json"}
 
-    logger.info("Resolving location: %s", args.location)
+    logger.info(f"Resolving location: {args.location}")
     geocode_response = retry_session.get(geocode_url, params=geocode_params, timeout=15)
     geocode_response.raise_for_status()
     geocode_data = geocode_response.json()
@@ -81,18 +81,14 @@ if __name__ == "__main__":
     }
 
     logger.info(
-        "Resolved location '%s' -> %.4f, %.4f (%s)",
-        display_location,
-        latitude,
-        longitude,
-        params["timezone"],
+        f"Resolved location '{display_location}' -> {latitude:.4f}, {longitude:.4f} ({params['timezone']})"
     )
 
     # 3. Define Open-Meteo endpoint and configurations for the selected location
     url = "https://api.open-meteo.com/v1/forecast"
 
     logger.info("Fetching weather data from Open-Meteo...")
-    logger.debug("Request params: %s", params)
+    logger.debug(f"Request params: {params}")
     responses = openmeteo.weather_api(url, params=params)
     if not responses:
         raise RuntimeError("Open-Meteo returned no forecast responses.")
@@ -104,10 +100,7 @@ if __name__ == "__main__":
     timezone = timezone_raw.decode() if isinstance(timezone_raw, bytes) else timezone_raw
 
     logger.debug(
-        "Response received — coordinates: %.4f°N %.4f°E, timezone: %s",
-        response.Latitude(),
-        response.Longitude(),
-        timezone,
+        f"Response received — coordinates: {response.Latitude():.4f}°N {response.Longitude():.4f}°E, timezone: {timezone}"
     )
 
     # 4. Extract the hourly variables
@@ -139,7 +132,7 @@ if __name__ == "__main__":
     if len(hourly_lengths) != 1:
         raise RuntimeError("Hourly forecast arrays have inconsistent lengths; cannot build calendar safely.")
 
-    logger.debug("Hourly time range: %s → %s (%d slots)", time_index[0], time_index[-1], len(time_index))
+    logger.debug(f"Hourly time range: {time_index[0]} → {time_index[-1]} ({len(time_index)} slots)")
 
     # 5. Initialize the iCalendar object
     cal = Calendar()
@@ -157,7 +150,7 @@ if __name__ == "__main__":
     forecast_df["date"] = forecast_df["timestamp"].dt.date
 
     daily_event_count = forecast_df["date"].nunique()
-    logger.info("Generating .ics calendar file (%d daily events)...", daily_event_count)
+    logger.info(f"Generating .ics calendar file ({daily_event_count} daily events)...")
 
     # 6. Build one full-day event per forecast day with an hourly table in the details
     for _, day_df in forecast_df.groupby("date", sort=True):
@@ -201,10 +194,10 @@ if __name__ == "__main__":
         event.add("uid", f"{safe_location}-weather-{day_date.strftime('%Y%m%d')}@myscript")
 
         cal.add_component(event)
-        logger.debug("Daily event added: %s — %s", day_date.isoformat(), summary)
+        logger.debug(f"Daily event added: {day_date.isoformat()} — {summary}")
 
     # 7. Save data into an iCalendar file
     output_path = Path(f"{safe_location}_weather.ics")
     output_path.write_bytes(cal.to_ical())
-    logger.debug("Wrote %d bytes to %s", output_path.stat().st_size, output_path)
-    logger.info("Finished! '%s' successfully created with rain details.", output_path)
+    logger.debug(f"Wrote {output_path.stat().st_size} bytes to {output_path}")
+    logger.info(f"Finished! '{output_path}' successfully created with rain details.")
