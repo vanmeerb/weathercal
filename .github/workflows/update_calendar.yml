@@ -24,7 +24,6 @@ jobs:
         cache-dependency-glob: |
           pyproject.toml
           uv.lock
-          requirements.txt
 
     - name: Install dependencies
       run: uv sync
