@@ -133,7 +133,7 @@ if __name__ == "__main__":
         max_temp = day_df["temp"].max()
         total_precip = day_df["precip"].sum()
 
-        summary = f"Leuven forecast | 🌡️ {min_temp:.0f}–{max_temp:.0f}°C | 🌧️ {total_precip:.1f}mm"
+        summary = f"🌡️ {min_temp:.0f}–{max_temp:.0f}°C | 🌧️ {total_precip:.1f}mm"
         event.add("summary", summary)
 
         # Full-day event: add only date-based DTSTART (no time component).
@@ -141,9 +141,9 @@ if __name__ == "__main__":
 
         hourly_lines = [
             (
-                f"{ts.strftime('%H:%M')} | "
-                f"🌡️ {temp_value:.0f}°C | "
-                f"💨 {wind_direction_arrow(float(dir_value))} {speed_value:.0f} m/s | "
+                f"{ts.strftime('%H:%M')}  | "
+                f"🌡️ {temp_value:.0f}°C  | "
+                f"💨 {wind_direction_arrow(float(dir_value))} {speed_value:.0f} m/s  | "
                 f"{'🌧️ ' + format(precip_value, '.1f') + 'mm' if precip_value > 0 else '☀️ 0.0mm'}"
             )
             for ts, temp_value, precip_value, speed_value, dir_value in zip(
@@ -156,9 +156,7 @@ if __name__ == "__main__":
         ]
 
         description_lines = [
-            f"Hourly forecast for {day_date.isoformat()} (local time)",
-            "Time  | Temp   | Wind             | Rain",
-            "--------------------------------------------",
+            f"Leuven Weather Forecast (hourly details): {day_date.isoformat()}",
             *hourly_lines,
         ]
         event.add("description", "\n".join(description_lines))
