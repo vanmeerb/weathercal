@@ -1,0 +1,965 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Leuven Weather and Rain Calendar//EN
+X-WR-CALNAME:Leuven Weather Forecast
+BEGIN:VEVENT
+SUMMARY:🌡️ 22°C | 💨 ↗ 3 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260528T000000
+DTEND;TZID=Europe/Brussels:20260528T010000
+UID:leuven-weather-202605d000000@myscript
+DESCRIPTION:Temperature: 21.6°C\nPrecipitation: 0.0 mm\nWind Speed: 3.0 m
+ /s\nWind Direction: ↗
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 21°C | 💨 ↗ 3 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260528T010000
+DTEND;TZID=Europe/Brussels:20260528T020000
+UID:leuven-weather-202605d010000@myscript
+DESCRIPTION:Temperature: 20.8°C\nPrecipitation: 0.0 mm\nWind Speed: 3.0 m
+ /s\nWind Direction: ↗
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 19°C | 💨 ↗ 3 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260528T020000
+DTEND;TZID=Europe/Brussels:20260528T030000
+UID:leuven-weather-202605d020000@myscript
+DESCRIPTION:Temperature: 19.4°C\nPrecipitation: 0.0 mm\nWind Speed: 2.9 m
+ /s\nWind Direction: ↗
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 19°C | 💨 → 3 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260528T030000
+DTEND;TZID=Europe/Brussels:20260528T040000
+UID:leuven-weather-202605d030000@myscript
+DESCRIPTION:Temperature: 18.5°C\nPrecipitation: 0.0 mm\nWind Speed: 2.7 m
+ /s\nWind Direction: →
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 18°C | 💨 ↗ 3 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260528T040000
+DTEND;TZID=Europe/Brussels:20260528T050000
+UID:leuven-weather-202605d040000@myscript
+DESCRIPTION:Temperature: 17.6°C\nPrecipitation: 0.0 mm\nWind Speed: 2.8 m
+ /s\nWind Direction: ↗
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 17°C | 💨 → 3 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260528T050000
+DTEND;TZID=Europe/Brussels:20260528T060000
+UID:leuven-weather-202605d050000@myscript
+DESCRIPTION:Temperature: 16.8°C\nPrecipitation: 0.0 mm\nWind Speed: 2.7 m
+ /s\nWind Direction: →
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 16°C | 💨 ↗ 3 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260528T060000
+DTEND;TZID=Europe/Brussels:20260528T070000
+UID:leuven-weather-202605d060000@myscript
+DESCRIPTION:Temperature: 16.4°C\nPrecipitation: 0.0 mm\nWind Speed: 2.7 m
+ /s\nWind Direction: ↗
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 16°C | 💨 → 2 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260528T070000
+DTEND;TZID=Europe/Brussels:20260528T080000
+UID:leuven-weather-202605d070000@myscript
+DESCRIPTION:Temperature: 16.0°C\nPrecipitation: 0.0 mm\nWind Speed: 2.0 m
+ /s\nWind Direction: →
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 17°C | 💨 → 2 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260528T080000
+DTEND;TZID=Europe/Brussels:20260528T090000
+UID:leuven-weather-202605d080000@myscript
+DESCRIPTION:Temperature: 16.9°C\nPrecipitation: 0.0 mm\nWind Speed: 2.2 m
+ /s\nWind Direction: →
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 18°C | 💨 → 2 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260528T090000
+DTEND;TZID=Europe/Brussels:20260528T100000
+UID:leuven-weather-202605d090000@myscript
+DESCRIPTION:Temperature: 18.5°C\nPrecipitation: 0.0 mm\nWind Speed: 2.5 m
+ /s\nWind Direction: →
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 21°C | 💨 → 2 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260528T100000
+DTEND;TZID=Europe/Brussels:20260528T110000
+UID:leuven-weather-202605d100000@myscript
+DESCRIPTION:Temperature: 20.5°C\nPrecipitation: 0.0 mm\nWind Speed: 2.1 m
+ /s\nWind Direction: →
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 23°C | 💨 → 3 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260528T110000
+DTEND;TZID=Europe/Brussels:20260528T120000
+UID:leuven-weather-202605d110000@myscript
+DESCRIPTION:Temperature: 22.6°C\nPrecipitation: 0.0 mm\nWind Speed: 2.6 m
+ /s\nWind Direction: →
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 24°C | 💨 → 3 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260528T120000
+DTEND;TZID=Europe/Brussels:20260528T130000
+UID:leuven-weather-202605d120000@myscript
+DESCRIPTION:Temperature: 24.4°C\nPrecipitation: 0.0 mm\nWind Speed: 2.6 m
+ /s\nWind Direction: →
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 26°C | 💨 → 3 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260528T130000
+DTEND;TZID=Europe/Brussels:20260528T140000
+UID:leuven-weather-202605d130000@myscript
+DESCRIPTION:Temperature: 25.9°C\nPrecipitation: 0.0 mm\nWind Speed: 2.7 m
+ /s\nWind Direction: →
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 27°C | 💨 → 3 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260528T140000
+DTEND;TZID=Europe/Brussels:20260528T150000
+UID:leuven-weather-202605d140000@myscript
+DESCRIPTION:Temperature: 27.1°C\nPrecipitation: 0.0 mm\nWind Speed: 2.6 m
+ /s\nWind Direction: →
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 28°C | 💨 → 2 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260528T150000
+DTEND;TZID=Europe/Brussels:20260528T160000
+UID:leuven-weather-202605d150000@myscript
+DESCRIPTION:Temperature: 27.9°C\nPrecipitation: 0.0 mm\nWind Speed: 2.4 m
+ /s\nWind Direction: →
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 28°C | 💨 → 2 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260528T160000
+DTEND;TZID=Europe/Brussels:20260528T170000
+UID:leuven-weather-202605d160000@myscript
+DESCRIPTION:Temperature: 28.4°C\nPrecipitation: 0.0 mm\nWind Speed: 2.3 m
+ /s\nWind Direction: →
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 29°C | 💨 → 2 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260528T170000
+DTEND;TZID=Europe/Brussels:20260528T180000
+UID:leuven-weather-202605d170000@myscript
+DESCRIPTION:Temperature: 28.5°C\nPrecipitation: 0.0 mm\nWind Speed: 2.5 m
+ /s\nWind Direction: →
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 29°C | 💨 → 2 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260528T180000
+DTEND;TZID=Europe/Brussels:20260528T190000
+UID:leuven-weather-202605d180000@myscript
+DESCRIPTION:Temperature: 28.5°C\nPrecipitation: 0.0 mm\nWind Speed: 2.0 m
+ /s\nWind Direction: →
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 28°C | 💨 ↘ 3 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260528T190000
+DTEND;TZID=Europe/Brussels:20260528T200000
+UID:leuven-weather-202605d190000@myscript
+DESCRIPTION:Temperature: 28.1°C\nPrecipitation: 0.0 mm\nWind Speed: 2.6 m
+ /s\nWind Direction: ↘
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 28°C | 💨 → 2 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260528T200000
+DTEND;TZID=Europe/Brussels:20260528T210000
+UID:leuven-weather-202605d200000@myscript
+DESCRIPTION:Temperature: 27.5°C\nPrecipitation: 0.0 mm\nWind Speed: 2.0 m
+ /s\nWind Direction: →
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 27°C | 💨 → 2 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260528T210000
+DTEND;TZID=Europe/Brussels:20260528T220000
+UID:leuven-weather-202605d210000@myscript
+DESCRIPTION:Temperature: 26.8°C\nPrecipitation: 0.0 mm\nWind Speed: 2.3 m
+ /s\nWind Direction: →
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 26°C | 💨 ↘ 2 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260528T220000
+DTEND;TZID=Europe/Brussels:20260528T230000
+UID:leuven-weather-202605d220000@myscript
+DESCRIPTION:Temperature: 26.0°C\nPrecipitation: 0.0 mm\nWind Speed: 2.0 m
+ /s\nWind Direction: ↘
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 25°C | 💨 → 3 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260528T230000
+DTEND;TZID=Europe/Brussels:20260529T000000
+UID:leuven-weather-202605d230000@myscript
+DESCRIPTION:Temperature: 24.6°C\nPrecipitation: 0.0 mm\nWind Speed: 2.6 m
+ /s\nWind Direction: →
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 23°C | 💨 ↘ 2 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260529T000000
+DTEND;TZID=Europe/Brussels:20260529T010000
+UID:leuven-weather-202605d000000@myscript
+DESCRIPTION:Temperature: 23.4°C\nPrecipitation: 0.0 mm\nWind Speed: 2.4 m
+ /s\nWind Direction: ↘
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 22°C | 💨 ↘ 2 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260529T010000
+DTEND;TZID=Europe/Brussels:20260529T020000
+UID:leuven-weather-202605d010000@myscript
+DESCRIPTION:Temperature: 22.4°C\nPrecipitation: 0.0 mm\nWind Speed: 2.5 m
+ /s\nWind Direction: ↘
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 22°C | 💨 ↘ 2 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260529T020000
+DTEND;TZID=Europe/Brussels:20260529T030000
+UID:leuven-weather-202605d020000@myscript
+DESCRIPTION:Temperature: 21.8°C\nPrecipitation: 0.0 mm\nWind Speed: 2.1 m
+ /s\nWind Direction: ↘
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 22°C | 💨 ↓ 2 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260529T030000
+DTEND;TZID=Europe/Brussels:20260529T040000
+UID:leuven-weather-202605d030000@myscript
+DESCRIPTION:Temperature: 21.6°C\nPrecipitation: 0.0 mm\nWind Speed: 1.6 m
+ /s\nWind Direction: ↓
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 21°C | 💨 ↓ 2 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260529T040000
+DTEND;TZID=Europe/Brussels:20260529T050000
+UID:leuven-weather-202605d040000@myscript
+DESCRIPTION:Temperature: 21.1°C\nPrecipitation: 0.0 mm\nWind Speed: 2.0 m
+ /s\nWind Direction: ↓
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 21°C | 💨 ↓ 2 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260529T050000
+DTEND;TZID=Europe/Brussels:20260529T060000
+UID:leuven-weather-202605d050000@myscript
+DESCRIPTION:Temperature: 20.8°C\nPrecipitation: 0.0 mm\nWind Speed: 1.9 m
+ /s\nWind Direction: ↓
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 21°C | 💨 ↓ 2 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260529T060000
+DTEND;TZID=Europe/Brussels:20260529T070000
+UID:leuven-weather-202605d060000@myscript
+DESCRIPTION:Temperature: 20.9°C\nPrecipitation: 0.0 mm\nWind Speed: 2.1 m
+ /s\nWind Direction: ↓
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 22°C | 💨 ↓ 2 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260529T070000
+DTEND;TZID=Europe/Brussels:20260529T080000
+UID:leuven-weather-202605d070000@myscript
+DESCRIPTION:Temperature: 22.1°C\nPrecipitation: 0.0 mm\nWind Speed: 2.4 m
+ /s\nWind Direction: ↓
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 23°C | 💨 ↓ 3 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260529T080000
+DTEND;TZID=Europe/Brussels:20260529T090000
+UID:leuven-weather-202605d080000@myscript
+DESCRIPTION:Temperature: 23.3°C\nPrecipitation: 0.0 mm\nWind Speed: 3.3 m
+ /s\nWind Direction: ↓
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 25°C | 💨 ↙ 3 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260529T090000
+DTEND;TZID=Europe/Brussels:20260529T100000
+UID:leuven-weather-202605d090000@myscript
+DESCRIPTION:Temperature: 25.1°C\nPrecipitation: 0.0 mm\nWind Speed: 2.9 m
+ /s\nWind Direction: ↙
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 27°C | 💨 ↙ 3 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260529T100000
+DTEND;TZID=Europe/Brussels:20260529T110000
+UID:leuven-weather-202605d100000@myscript
+DESCRIPTION:Temperature: 26.7°C\nPrecipitation: 0.0 mm\nWind Speed: 3.0 m
+ /s\nWind Direction: ↙
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 28°C | 💨 ↙ 3 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260529T110000
+DTEND;TZID=Europe/Brussels:20260529T120000
+UID:leuven-weather-202605d110000@myscript
+DESCRIPTION:Temperature: 27.5°C\nPrecipitation: 0.0 mm\nWind Speed: 3.4 m
+ /s\nWind Direction: ↙
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 30°C | 💨 ↙ 3 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260529T120000
+DTEND;TZID=Europe/Brussels:20260529T130000
+UID:leuven-weather-202605d120000@myscript
+DESCRIPTION:Temperature: 29.8°C\nPrecipitation: 0.0 mm\nWind Speed: 3.3 m
+ /s\nWind Direction: ↙
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 31°C | 💨 ↙ 3 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260529T130000
+DTEND;TZID=Europe/Brussels:20260529T140000
+UID:leuven-weather-202605d130000@myscript
+DESCRIPTION:Temperature: 31.1°C\nPrecipitation: 0.0 mm\nWind Speed: 3.4 m
+ /s\nWind Direction: ↙
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 31°C | 💨 ↙ 4 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260529T140000
+DTEND;TZID=Europe/Brussels:20260529T150000
+UID:leuven-weather-202605d140000@myscript
+DESCRIPTION:Temperature: 31.5°C\nPrecipitation: 0.0 mm\nWind Speed: 3.5 m
+ /s\nWind Direction: ↙
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 32°C | 💨 ↙ 4 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260529T150000
+DTEND;TZID=Europe/Brussels:20260529T160000
+UID:leuven-weather-202605d150000@myscript
+DESCRIPTION:Temperature: 32.0°C\nPrecipitation: 0.0 mm\nWind Speed: 3.5 m
+ /s\nWind Direction: ↙
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 33°C | 💨 ↙ 3 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260529T160000
+DTEND;TZID=Europe/Brussels:20260529T170000
+UID:leuven-weather-202605d160000@myscript
+DESCRIPTION:Temperature: 32.7°C\nPrecipitation: 0.0 mm\nWind Speed: 3.0 m
+ /s\nWind Direction: ↙
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 32°C | 💨 ← 4 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260529T170000
+DTEND;TZID=Europe/Brussels:20260529T180000
+UID:leuven-weather-202605d170000@myscript
+DESCRIPTION:Temperature: 31.8°C\nPrecipitation: 0.0 mm\nWind Speed: 4.1 m
+ /s\nWind Direction: ←
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 31°C | 💨 ↙ 3 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260529T180000
+DTEND;TZID=Europe/Brussels:20260529T190000
+UID:leuven-weather-202605d180000@myscript
+DESCRIPTION:Temperature: 31.4°C\nPrecipitation: 0.0 mm\nWind Speed: 3.4 m
+ /s\nWind Direction: ↙
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 27°C | 💨 ↑ 4 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260529T190000
+DTEND;TZID=Europe/Brussels:20260529T200000
+UID:leuven-weather-202605d190000@myscript
+DESCRIPTION:Temperature: 26.6°C\nPrecipitation: 0.0 mm\nWind Speed: 4.5 m
+ /s\nWind Direction: ↑
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 25°C | 💨 ↗ 3 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260529T200000
+DTEND;TZID=Europe/Brussels:20260529T210000
+UID:leuven-weather-202605d200000@myscript
+DESCRIPTION:Temperature: 24.6°C\nPrecipitation: 0.0 mm\nWind Speed: 2.9 m
+ /s\nWind Direction: ↗
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 24°C | 💨 → 3 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260529T210000
+DTEND;TZID=Europe/Brussels:20260529T220000
+UID:leuven-weather-202605d210000@myscript
+DESCRIPTION:Temperature: 23.9°C\nPrecipitation: 0.0 mm\nWind Speed: 2.8 m
+ /s\nWind Direction: →
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 23°C | 💨 ↘ 4 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260529T220000
+DTEND;TZID=Europe/Brussels:20260529T230000
+UID:leuven-weather-202605d220000@myscript
+DESCRIPTION:Temperature: 23.4°C\nPrecipitation: 0.0 mm\nWind Speed: 4.5 m
+ /s\nWind Direction: ↘
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 23°C | 💨 ↘ 5 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260529T230000
+DTEND;TZID=Europe/Brussels:20260530T000000
+UID:leuven-weather-202605d230000@myscript
+DESCRIPTION:Temperature: 22.8°C\nPrecipitation: 0.0 mm\nWind Speed: 4.8 m
+ /s\nWind Direction: ↘
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 22°C | 💨 ↘ 4 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260530T000000
+DTEND;TZID=Europe/Brussels:20260530T010000
+UID:leuven-weather-202605d000000@myscript
+DESCRIPTION:Temperature: 22.4°C\nPrecipitation: 0.0 mm\nWind Speed: 4.3 m
+ /s\nWind Direction: ↘
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 22°C | 💨 ↘ 2 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260530T010000
+DTEND;TZID=Europe/Brussels:20260530T020000
+UID:leuven-weather-202605d010000@myscript
+DESCRIPTION:Temperature: 22.2°C\nPrecipitation: 0.0 mm\nWind Speed: 2.4 m
+ /s\nWind Direction: ↘
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 22°C | 💨 ↘ 3 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260530T020000
+DTEND;TZID=Europe/Brussels:20260530T030000
+UID:leuven-weather-202605d020000@myscript
+DESCRIPTION:Temperature: 21.9°C\nPrecipitation: 0.0 mm\nWind Speed: 3.1 m
+ /s\nWind Direction: ↘
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 20°C | 💨 ↓ 2 m/s | 🌧️ 8.5mm
+DTSTART;TZID=Europe/Brussels:20260530T030000
+DTEND;TZID=Europe/Brussels:20260530T040000
+UID:leuven-weather-202605d030000@myscript
+DESCRIPTION:Temperature: 19.6°C\nPrecipitation: 8.5 mm\nWind Speed: 2.1 m
+ /s\nWind Direction: ↓
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 21°C | 💨 ↓ 6 m/s | 🌧️ 2.3mm
+DTSTART;TZID=Europe/Brussels:20260530T040000
+DTEND;TZID=Europe/Brussels:20260530T050000
+UID:leuven-weather-202605d040000@myscript
+DESCRIPTION:Temperature: 20.8°C\nPrecipitation: 2.3 mm\nWind Speed: 5.5 m
+ /s\nWind Direction: ↓
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 20°C | 💨 ← 3 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260530T050000
+DTEND;TZID=Europe/Brussels:20260530T060000
+UID:leuven-weather-202605d050000@myscript
+DESCRIPTION:Temperature: 20.2°C\nPrecipitation: 0.0 mm\nWind Speed: 2.8 m
+ /s\nWind Direction: ←
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 18°C | 💨 ↙ 6 m/s | 🌧️ 11.5mm
+DTSTART;TZID=Europe/Brussels:20260530T060000
+DTEND;TZID=Europe/Brussels:20260530T070000
+UID:leuven-weather-202605d060000@myscript
+DESCRIPTION:Temperature: 18.0°C\nPrecipitation: 11.5 mm\nWind Speed: 6.5 
+ m/s\nWind Direction: ↙
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 18°C | 💨 ↓ 3 m/s | 🌧️ 5.2mm
+DTSTART;TZID=Europe/Brussels:20260530T070000
+DTEND;TZID=Europe/Brussels:20260530T080000
+UID:leuven-weather-202605d070000@myscript
+DESCRIPTION:Temperature: 18.2°C\nPrecipitation: 5.2 mm\nWind Speed: 3.3 m
+ /s\nWind Direction: ↓
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 19°C | 💨 ↙ 5 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260530T080000
+DTEND;TZID=Europe/Brussels:20260530T090000
+UID:leuven-weather-202605d080000@myscript
+DESCRIPTION:Temperature: 18.6°C\nPrecipitation: 0.0 mm\nWind Speed: 5.0 m
+ /s\nWind Direction: ↙
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 19°C | 💨 ↙ 2 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260530T090000
+DTEND;TZID=Europe/Brussels:20260530T100000
+UID:leuven-weather-202605d090000@myscript
+DESCRIPTION:Temperature: 19.3°C\nPrecipitation: 0.0 mm\nWind Speed: 1.9 m
+ /s\nWind Direction: ↙
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 20°C | 💨 ↙ 3 m/s | 🌧️ 0.2mm
+DTSTART;TZID=Europe/Brussels:20260530T100000
+DTEND;TZID=Europe/Brussels:20260530T110000
+UID:leuven-weather-202605d100000@myscript
+DESCRIPTION:Temperature: 19.6°C\nPrecipitation: 0.2 mm\nWind Speed: 3.1 m
+ /s\nWind Direction: ↙
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 19°C | 💨 ↓ 3 m/s | 🌧️ 3.1mm
+DTSTART;TZID=Europe/Brussels:20260530T110000
+DTEND;TZID=Europe/Brussels:20260530T120000
+UID:leuven-weather-202605d110000@myscript
+DESCRIPTION:Temperature: 18.8°C\nPrecipitation: 3.1 mm\nWind Speed: 2.6 m
+ /s\nWind Direction: ↓
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 20°C | 💨 ↙ 1 m/s | 🌧️ 0.3mm
+DTSTART;TZID=Europe/Brussels:20260530T120000
+DTEND;TZID=Europe/Brussels:20260530T130000
+UID:leuven-weather-202605d120000@myscript
+DESCRIPTION:Temperature: 20.4°C\nPrecipitation: 0.3 mm\nWind Speed: 1.1 m
+ /s\nWind Direction: ↙
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 22°C | 💨 → 0 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260530T130000
+DTEND;TZID=Europe/Brussels:20260530T140000
+UID:leuven-weather-202605d130000@myscript
+DESCRIPTION:Temperature: 22.4°C\nPrecipitation: 0.0 mm\nWind Speed: 0.3 m
+ /s\nWind Direction: →
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 25°C | 💨 ← 1 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260530T140000
+DTEND;TZID=Europe/Brussels:20260530T150000
+UID:leuven-weather-202605d140000@myscript
+DESCRIPTION:Temperature: 24.6°C\nPrecipitation: 0.0 mm\nWind Speed: 0.7 m
+ /s\nWind Direction: ←
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 26°C | 💨 ← 2 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260530T150000
+DTEND;TZID=Europe/Brussels:20260530T160000
+UID:leuven-weather-202605d150000@myscript
+DESCRIPTION:Temperature: 26.5°C\nPrecipitation: 0.0 mm\nWind Speed: 1.6 m
+ /s\nWind Direction: ←
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 27°C | 💨 ↙ 2 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260530T160000
+DTEND;TZID=Europe/Brussels:20260530T170000
+UID:leuven-weather-202605d160000@myscript
+DESCRIPTION:Temperature: 26.9°C\nPrecipitation: 0.0 mm\nWind Speed: 2.1 m
+ /s\nWind Direction: ↙
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 28°C | 💨 ↓ 2 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260530T170000
+DTEND;TZID=Europe/Brussels:20260530T180000
+UID:leuven-weather-202605d170000@myscript
+DESCRIPTION:Temperature: 27.6°C\nPrecipitation: 0.0 mm\nWind Speed: 1.8 m
+ /s\nWind Direction: ↓
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 25°C | 💨 ↘ 2 m/s | 🌧️ 1.1mm
+DTSTART;TZID=Europe/Brussels:20260530T180000
+DTEND;TZID=Europe/Brussels:20260530T190000
+UID:leuven-weather-202605d180000@myscript
+DESCRIPTION:Temperature: 25.2°C\nPrecipitation: 1.1 mm\nWind Speed: 1.8 m
+ /s\nWind Direction: ↘
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 22°C | 💨 ↘ 2 m/s | 🌧️ 1.1mm
+DTSTART;TZID=Europe/Brussels:20260530T190000
+DTEND;TZID=Europe/Brussels:20260530T200000
+UID:leuven-weather-202605d190000@myscript
+DESCRIPTION:Temperature: 22.1°C\nPrecipitation: 1.1 mm\nWind Speed: 2.1 m
+ /s\nWind Direction: ↘
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 21°C | 💨 ↗ 0 m/s | 🌧️ 0.4mm
+DTSTART;TZID=Europe/Brussels:20260530T200000
+DTEND;TZID=Europe/Brussels:20260530T210000
+UID:leuven-weather-202605d200000@myscript
+DESCRIPTION:Temperature: 20.5°C\nPrecipitation: 0.4 mm\nWind Speed: 0.1 m
+ /s\nWind Direction: ↗
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 21°C | 💨 ↘ 1 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260530T210000
+DTEND;TZID=Europe/Brussels:20260530T220000
+UID:leuven-weather-202605d210000@myscript
+DESCRIPTION:Temperature: 20.8°C\nPrecipitation: 0.0 mm\nWind Speed: 0.7 m
+ /s\nWind Direction: ↘
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 20°C | 💨 ← 1 m/s | 🌧️ 0.2mm
+DTSTART;TZID=Europe/Brussels:20260530T220000
+DTEND;TZID=Europe/Brussels:20260530T230000
+UID:leuven-weather-202605d220000@myscript
+DESCRIPTION:Temperature: 20.0°C\nPrecipitation: 0.2 mm\nWind Speed: 0.5 m
+ /s\nWind Direction: ←
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 20°C | 💨 ↗ 1 m/s | 🌧️ 1.1mm
+DTSTART;TZID=Europe/Brussels:20260530T230000
+DTEND;TZID=Europe/Brussels:20260531T000000
+UID:leuven-weather-202605d230000@myscript
+DESCRIPTION:Temperature: 20.1°C\nPrecipitation: 1.1 mm\nWind Speed: 1.1 m
+ /s\nWind Direction: ↗
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 19°C | 💨 ↘ 1 m/s | 🌧️ 0.3mm
+DTSTART;TZID=Europe/Brussels:20260531T000000
+DTEND;TZID=Europe/Brussels:20260531T010000
+UID:leuven-weather-202605d000000@myscript
+DESCRIPTION:Temperature: 19.4°C\nPrecipitation: 0.3 mm\nWind Speed: 1.0 m
+ /s\nWind Direction: ↘
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 19°C | 💨 ↑ 1 m/s | 🌧️ 0.4mm
+DTSTART;TZID=Europe/Brussels:20260531T010000
+DTEND;TZID=Europe/Brussels:20260531T020000
+UID:leuven-weather-202605d010000@myscript
+DESCRIPTION:Temperature: 19.0°C\nPrecipitation: 0.4 mm\nWind Speed: 1.4 m
+ /s\nWind Direction: ↑
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 18°C | 💨 ↙ 0 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260531T020000
+DTEND;TZID=Europe/Brussels:20260531T030000
+UID:leuven-weather-202605d020000@myscript
+DESCRIPTION:Temperature: 18.4°C\nPrecipitation: 0.0 mm\nWind Speed: 0.4 m
+ /s\nWind Direction: ↙
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 18°C | 💨 ← 1 m/s | 🌧️ 0.5mm
+DTSTART;TZID=Europe/Brussels:20260531T030000
+DTEND;TZID=Europe/Brussels:20260531T040000
+UID:leuven-weather-202605d030000@myscript
+DESCRIPTION:Temperature: 18.4°C\nPrecipitation: 0.5 mm\nWind Speed: 1.3 m
+ /s\nWind Direction: ←
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 17°C | 💨 ↓ 1 m/s | 🌧️ 1.6mm
+DTSTART;TZID=Europe/Brussels:20260531T040000
+DTEND;TZID=Europe/Brussels:20260531T050000
+UID:leuven-weather-202605d040000@myscript
+DESCRIPTION:Temperature: 17.2°C\nPrecipitation: 1.6 mm\nWind Speed: 1.4 m
+ /s\nWind Direction: ↓
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 18°C | 💨 ← 0 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260531T050000
+DTEND;TZID=Europe/Brussels:20260531T060000
+UID:leuven-weather-202605d050000@myscript
+DESCRIPTION:Temperature: 17.5°C\nPrecipitation: 0.0 mm\nWind Speed: 0.5 m
+ /s\nWind Direction: ←
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 17°C | 💨 ↓ 2 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260531T060000
+DTEND;TZID=Europe/Brussels:20260531T070000
+UID:leuven-weather-202605d060000@myscript
+DESCRIPTION:Temperature: 16.9°C\nPrecipitation: 0.0 mm\nWind Speed: 2.0 m
+ /s\nWind Direction: ↓
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 17°C | 💨 ↓ 2 m/s | 🌧️ 0.1mm
+DTSTART;TZID=Europe/Brussels:20260531T070000
+DTEND;TZID=Europe/Brussels:20260531T080000
+UID:leuven-weather-202605d070000@myscript
+DESCRIPTION:Temperature: 17.4°C\nPrecipitation: 0.1 mm\nWind Speed: 1.7 m
+ /s\nWind Direction: ↓
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 18°C | 💨 ↙ 2 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260531T080000
+DTEND;TZID=Europe/Brussels:20260531T090000
+UID:leuven-weather-202605d080000@myscript
+DESCRIPTION:Temperature: 18.4°C\nPrecipitation: 0.0 mm\nWind Speed: 2.2 m
+ /s\nWind Direction: ↙
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 19°C | 💨 ↙ 2 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260531T090000
+DTEND;TZID=Europe/Brussels:20260531T100000
+UID:leuven-weather-202605d090000@myscript
+DESCRIPTION:Temperature: 19.3°C\nPrecipitation: 0.0 mm\nWind Speed: 2.1 m
+ /s\nWind Direction: ↙
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 21°C | 💨 ↙ 2 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260531T100000
+DTEND;TZID=Europe/Brussels:20260531T110000
+UID:leuven-weather-202605d100000@myscript
+DESCRIPTION:Temperature: 20.9°C\nPrecipitation: 0.0 mm\nWind Speed: 1.9 m
+ /s\nWind Direction: ↙
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 22°C | 💨 ← 2 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260531T110000
+DTEND;TZID=Europe/Brussels:20260531T120000
+UID:leuven-weather-202605d110000@myscript
+DESCRIPTION:Temperature: 22.0°C\nPrecipitation: 0.0 mm\nWind Speed: 2.0 m
+ /s\nWind Direction: ←
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 23°C | 💨 ← 3 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260531T120000
+DTEND;TZID=Europe/Brussels:20260531T130000
+UID:leuven-weather-202605d120000@myscript
+DESCRIPTION:Temperature: 23.1°C\nPrecipitation: 0.0 mm\nWind Speed: 2.5 m
+ /s\nWind Direction: ←
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 23°C | 💨 ← 3 m/s | 🌧️ 0.1mm
+DTSTART;TZID=Europe/Brussels:20260531T130000
+DTEND;TZID=Europe/Brussels:20260531T140000
+UID:leuven-weather-202605d130000@myscript
+DESCRIPTION:Temperature: 23.1°C\nPrecipitation: 0.1 mm\nWind Speed: 3.3 m
+ /s\nWind Direction: ←
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 23°C | 💨 ← 4 m/s | 🌧️ 0.1mm
+DTSTART;TZID=Europe/Brussels:20260531T140000
+DTEND;TZID=Europe/Brussels:20260531T150000
+UID:leuven-weather-202605d140000@myscript
+DESCRIPTION:Temperature: 22.9°C\nPrecipitation: 0.1 mm\nWind Speed: 4.0 m
+ /s\nWind Direction: ←
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 23°C | 💨 ← 5 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260531T150000
+DTEND;TZID=Europe/Brussels:20260531T160000
+UID:leuven-weather-202605d150000@myscript
+DESCRIPTION:Temperature: 23.5°C\nPrecipitation: 0.0 mm\nWind Speed: 4.9 m
+ /s\nWind Direction: ←
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 23°C | 💨 ← 5 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260531T160000
+DTEND;TZID=Europe/Brussels:20260531T170000
+UID:leuven-weather-202605d160000@myscript
+DESCRIPTION:Temperature: 22.6°C\nPrecipitation: 0.0 mm\nWind Speed: 4.9 m
+ /s\nWind Direction: ←
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 22°C | 💨 ↖ 5 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260531T170000
+DTEND;TZID=Europe/Brussels:20260531T180000
+UID:leuven-weather-202605d170000@myscript
+DESCRIPTION:Temperature: 21.8°C\nPrecipitation: 0.0 mm\nWind Speed: 5.2 m
+ /s\nWind Direction: ↖
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 19°C | 💨 ↖ 5 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260531T180000
+DTEND;TZID=Europe/Brussels:20260531T190000
+UID:leuven-weather-202605d180000@myscript
+DESCRIPTION:Temperature: 19.1°C\nPrecipitation: 0.0 mm\nWind Speed: 5.2 m
+ /s\nWind Direction: ↖
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 18°C | 💨 ↖ 3 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260531T190000
+DTEND;TZID=Europe/Brussels:20260531T200000
+UID:leuven-weather-202605d190000@myscript
+DESCRIPTION:Temperature: 17.9°C\nPrecipitation: 0.0 mm\nWind Speed: 3.1 m
+ /s\nWind Direction: ↖
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 18°C | 💨 ↖ 2 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260531T200000
+DTEND;TZID=Europe/Brussels:20260531T210000
+UID:leuven-weather-202605d200000@myscript
+DESCRIPTION:Temperature: 17.6°C\nPrecipitation: 0.0 mm\nWind Speed: 2.1 m
+ /s\nWind Direction: ↖
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 17°C | 💨 ← 2 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260531T210000
+DTEND;TZID=Europe/Brussels:20260531T220000
+UID:leuven-weather-202605d210000@myscript
+DESCRIPTION:Temperature: 17.2°C\nPrecipitation: 0.0 mm\nWind Speed: 1.9 m
+ /s\nWind Direction: ←
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 17°C | 💨 ← 2 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260531T220000
+DTEND;TZID=Europe/Brussels:20260531T230000
+UID:leuven-weather-202605d220000@myscript
+DESCRIPTION:Temperature: 17.2°C\nPrecipitation: 0.0 mm\nWind Speed: 2.0 m
+ /s\nWind Direction: ←
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 17°C | 💨 ← 2 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260531T230000
+DTEND;TZID=Europe/Brussels:20260601T000000
+UID:leuven-weather-202605d230000@myscript
+DESCRIPTION:Temperature: 17.1°C\nPrecipitation: 0.0 mm\nWind Speed: 2.3 m
+ /s\nWind Direction: ←
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 16°C | 💨 ← 3 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260601T000000
+DTEND;TZID=Europe/Brussels:20260601T010000
+UID:leuven-weather-202606d000000@myscript
+DESCRIPTION:Temperature: 16.5°C\nPrecipitation: 0.0 mm\nWind Speed: 2.7 m
+ /s\nWind Direction: ←
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 16°C | 💨 ← 3 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260601T010000
+DTEND;TZID=Europe/Brussels:20260601T020000
+UID:leuven-weather-202606d010000@myscript
+DESCRIPTION:Temperature: 15.6°C\nPrecipitation: 0.0 mm\nWind Speed: 3.2 m
+ /s\nWind Direction: ←
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 15°C | 💨 ↙ 3 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260601T020000
+DTEND;TZID=Europe/Brussels:20260601T030000
+UID:leuven-weather-202606d020000@myscript
+DESCRIPTION:Temperature: 14.9°C\nPrecipitation: 0.0 mm\nWind Speed: 3.5 m
+ /s\nWind Direction: ↙
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 14°C | 💨 ↙ 3 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260601T030000
+DTEND;TZID=Europe/Brussels:20260601T040000
+UID:leuven-weather-202606d030000@myscript
+DESCRIPTION:Temperature: 14.2°C\nPrecipitation: 0.0 mm\nWind Speed: 3.4 m
+ /s\nWind Direction: ↙
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 14°C | 💨 ↙ 3 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260601T040000
+DTEND;TZID=Europe/Brussels:20260601T050000
+UID:leuven-weather-202606d040000@myscript
+DESCRIPTION:Temperature: 13.7°C\nPrecipitation: 0.0 mm\nWind Speed: 3.3 m
+ /s\nWind Direction: ↙
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 14°C | 💨 ↙ 3 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260601T050000
+DTEND;TZID=Europe/Brussels:20260601T060000
+UID:leuven-weather-202606d050000@myscript
+DESCRIPTION:Temperature: 13.5°C\nPrecipitation: 0.0 mm\nWind Speed: 3.1 m
+ /s\nWind Direction: ↙
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 14°C | 💨 ↙ 3 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260601T060000
+DTEND;TZID=Europe/Brussels:20260601T070000
+UID:leuven-weather-202606d060000@myscript
+DESCRIPTION:Temperature: 13.8°C\nPrecipitation: 0.0 mm\nWind Speed: 3.0 m
+ /s\nWind Direction: ↙
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 14°C | 💨 ↙ 3 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260601T070000
+DTEND;TZID=Europe/Brussels:20260601T080000
+UID:leuven-weather-202606d070000@myscript
+DESCRIPTION:Temperature: 14.5°C\nPrecipitation: 0.0 mm\nWind Speed: 2.9 m
+ /s\nWind Direction: ↙
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 15°C | 💨 ↙ 3 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260601T080000
+DTEND;TZID=Europe/Brussels:20260601T090000
+UID:leuven-weather-202606d080000@myscript
+DESCRIPTION:Temperature: 15.4°C\nPrecipitation: 0.0 mm\nWind Speed: 2.9 m
+ /s\nWind Direction: ↙
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 17°C | 💨 ↙ 3 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260601T090000
+DTEND;TZID=Europe/Brussels:20260601T100000
+UID:leuven-weather-202606d090000@myscript
+DESCRIPTION:Temperature: 16.8°C\nPrecipitation: 0.0 mm\nWind Speed: 3.0 m
+ /s\nWind Direction: ↙
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 18°C | 💨 ↙ 3 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260601T100000
+DTEND;TZID=Europe/Brussels:20260601T110000
+UID:leuven-weather-202606d100000@myscript
+DESCRIPTION:Temperature: 18.4°C\nPrecipitation: 0.0 mm\nWind Speed: 3.3 m
+ /s\nWind Direction: ↙
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 20°C | 💨 ↙ 4 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260601T110000
+DTEND;TZID=Europe/Brussels:20260601T120000
+UID:leuven-weather-202606d110000@myscript
+DESCRIPTION:Temperature: 19.6°C\nPrecipitation: 0.0 mm\nWind Speed: 3.5 m
+ /s\nWind Direction: ↙
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 21°C | 💨 ↙ 4 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260601T120000
+DTEND;TZID=Europe/Brussels:20260601T130000
+UID:leuven-weather-202606d120000@myscript
+DESCRIPTION:Temperature: 20.5°C\nPrecipitation: 0.0 mm\nWind Speed: 3.8 m
+ /s\nWind Direction: ↙
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 21°C | 💨 ↙ 4 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260601T130000
+DTEND;TZID=Europe/Brussels:20260601T140000
+UID:leuven-weather-202606d130000@myscript
+DESCRIPTION:Temperature: 21.2°C\nPrecipitation: 0.0 mm\nWind Speed: 4.1 m
+ /s\nWind Direction: ↙
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 22°C | 💨 ↙ 4 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260601T140000
+DTEND;TZID=Europe/Brussels:20260601T150000
+UID:leuven-weather-202606d140000@myscript
+DESCRIPTION:Temperature: 21.6°C\nPrecipitation: 0.0 mm\nWind Speed: 4.2 m
+ /s\nWind Direction: ↙
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 22°C | 💨 ↙ 4 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260601T150000
+DTEND;TZID=Europe/Brussels:20260601T160000
+UID:leuven-weather-202606d150000@myscript
+DESCRIPTION:Temperature: 21.8°C\nPrecipitation: 0.0 mm\nWind Speed: 4.1 m
+ /s\nWind Direction: ↙
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 22°C | 💨 ↙ 4 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260601T160000
+DTEND;TZID=Europe/Brussels:20260601T170000
+UID:leuven-weather-202606d160000@myscript
+DESCRIPTION:Temperature: 21.5°C\nPrecipitation: 0.0 mm\nWind Speed: 3.8 m
+ /s\nWind Direction: ↙
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 21°C | 💨 ↙ 3 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260601T170000
+DTEND;TZID=Europe/Brussels:20260601T180000
+UID:leuven-weather-202606d170000@myscript
+DESCRIPTION:Temperature: 21.4°C\nPrecipitation: 0.0 mm\nWind Speed: 3.5 m
+ /s\nWind Direction: ↙
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 21°C | 💨 ↙ 3 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260601T180000
+DTEND;TZID=Europe/Brussels:20260601T190000
+UID:leuven-weather-202606d180000@myscript
+DESCRIPTION:Temperature: 21.2°C\nPrecipitation: 0.0 mm\nWind Speed: 3.2 m
+ /s\nWind Direction: ↙
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 21°C | 💨 ↙ 3 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260601T190000
+DTEND;TZID=Europe/Brussels:20260601T200000
+UID:leuven-weather-202606d190000@myscript
+DESCRIPTION:Temperature: 21.0°C\nPrecipitation: 0.0 mm\nWind Speed: 2.8 m
+ /s\nWind Direction: ↙
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 21°C | 💨 ↙ 2 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260601T200000
+DTEND;TZID=Europe/Brussels:20260601T210000
+UID:leuven-weather-202606d200000@myscript
+DESCRIPTION:Temperature: 20.6°C\nPrecipitation: 0.0 mm\nWind Speed: 2.5 m
+ /s\nWind Direction: ↙
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 20°C | 💨 ↓ 2 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260601T210000
+DTEND;TZID=Europe/Brussels:20260601T220000
+UID:leuven-weather-202606d210000@myscript
+DESCRIPTION:Temperature: 20.0°C\nPrecipitation: 0.0 mm\nWind Speed: 2.1 m
+ /s\nWind Direction: ↓
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 19°C | 💨 ↓ 2 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260601T220000
+DTEND;TZID=Europe/Brussels:20260601T230000
+UID:leuven-weather-202606d220000@myscript
+DESCRIPTION:Temperature: 19.1°C\nPrecipitation: 0.0 mm\nWind Speed: 2.0 m
+ /s\nWind Direction: ↓
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 18°C | 💨 ↓ 2 m/s | ☀️ 0mm
+DTSTART;TZID=Europe/Brussels:20260601T230000
+DTEND;TZID=Europe/Brussels:20260602T000000
+UID:leuven-weather-202606d230000@myscript
+DESCRIPTION:Temperature: 18.5°C\nPrecipitation: 0.0 mm\nWind Speed: 2.0 m
+ /s\nWind Direction: ↓
+END:VEVENT
+END:VCALENDAR
