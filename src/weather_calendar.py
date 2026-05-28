@@ -32,14 +32,11 @@ def wind_direction_arrow(direction_degrees: float) -> str:
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
-        description="Generate an iCalendar file with hourly weather forecasts for a location."
+        description="Generate an iCalendar file with hourly weather forecasts for a location.",
+        formatter_class=argparse.ArgumentDefaultsHelpFormatter,
     )
-    parser.add_argument(
-        "--location",
-        default="Leuven, Belgium",
-        help="Location name to geocode and fetch weather for (default: Leuven, Belgium)",
-    )
-    parser.add_argument("--debug", action="store_true", help="Enable debug logging")
+    parser.add_argument("-l", "--location", default="Leuven", help="Location name to fetch weather for")
+    parser.add_argument("-d", "--debug", action="store_true", help="Enable debug logging")
     args = parser.parse_args()
 
     logging.basicConfig(
@@ -73,6 +70,7 @@ if __name__ == "__main__":
     geocoded_name = top_result.get("name", args.location)
     geocoded_country = top_result.get("country")
     display_location = f"{geocoded_name}, {geocoded_country}" if geocoded_country else geocoded_name
+    safe_location = "_".join(geocoded_name.lower().split())
     geocoded_timezone = top_result.get("timezone")
 
     params = {
@@ -200,14 +198,12 @@ if __name__ == "__main__":
         event.add("description", "\n".join(description_lines))
 
         # Unique daily ID lets calendar clients overwrite the same day on refresh.
-        safe_location = "-".join(args.location.lower().replace(",", " ").split())
         event.add("uid", f"{safe_location}-weather-{day_date.strftime('%Y%m%d')}@myscript")
 
         cal.add_component(event)
         logger.debug("Daily event added: %s — %s", day_date.isoformat(), summary)
 
     # 7. Save data into an iCalendar file
-    safe_location = "-".join(args.location.lower().replace(",", " ").split())
     output_path = Path(f"{safe_location}_weather.ics")
     output_path.write_bytes(cal.to_ical())
     logger.debug("Wrote %d bytes to %s", output_path.stat().st_size, output_path)
