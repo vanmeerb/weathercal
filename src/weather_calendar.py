@@ -186,6 +186,7 @@ if __name__ == "__main__":
         description_lines = [
             f"{display_location} Weather Forecast (hourly details): {day_date.isoformat()}",
             *hourly_lines,
+            f"\nUpdated at: {pd.Timestamp.now(tz=timezone).strftime('%Y-%m-%d %H:%M:%S %Z')}",
             "\nData source: Open-Meteo (https://open-meteo.com/)",
         ]
         event.add("description", "\n".join(description_lines))
