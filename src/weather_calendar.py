@@ -1,5 +1,6 @@
 import logging
 import argparse
+from html import escape
 import pandas as pd
 from pathlib import Path
 from typing import Any, cast
@@ -167,29 +168,77 @@ if __name__ == "__main__":
         # Full-day event: add only date-based DTSTART (no time component).
         event.add("dtstart", day_date)
 
-        hourly_lines = [
-            (
-                f"{ts.strftime('%H:%M')}  | "
-                f"🌡️ {temp_value:.0f}°C  | "
-                f"💨 {wind_direction_arrow(float(dir_value))} {speed_value:.0f} m/s  | "
-                f"{'🌧️ ' + format(precip_value, '.1f') + 'mm' if precip_value > 0 else '☀️ 0.0mm'}"
-            )
-            for ts, temp_value, precip_value, speed_value, dir_value in zip(
+        hourly_lines = []
+        html_rows = []
+        for idx, (ts, temp_value, precip_value, speed_value, dir_value) in enumerate(
+            zip(
                 day_df["timestamp"],
                 day_df["temp"],
                 day_df["precip"],
                 day_df["wind_spd"],
                 day_df["wind_dir"],
             )
-        ]
+        ):
+            time_label = ts.strftime("%H:%M")
+            wind_arrow = wind_direction_arrow(float(dir_value))
+            rain_text = f"{precip_value:.1f} mm"
+            rain_emoji = "🌧️" if precip_value > 0 else "☀️"
+
+            hourly_lines.append(
+                f"{time_label}  | "
+                f"🌡️ {temp_value:.0f}°C  | "
+                f"💨 {wind_arrow} {speed_value:.0f} m/s  | "
+                f"{rain_emoji} {rain_text}"
+            )
+
+            row_bg = "#ffffff" if idx % 2 == 0 else "#f8fafc"
+            rain_color = "#0369a1" if precip_value > 0 else "#6b7280"
+            html_rows.append(
+                f"<tr style='border-bottom:1px solid #e5e7eb;background-color:{row_bg};'>"
+                f"<td style='padding:6px 8px;font-weight:600;color:#111827;'>{time_label}</td>"
+                f"<td style='padding:6px 8px;color:#1f2937;'>{temp_value:.0f}&deg;C</td>"
+                f"<td style='padding:6px 8px;color:#1f2937;'>{wind_arrow} {speed_value:.0f} m/s</td>"
+                f"<td style='padding:6px 8px;color:{rain_color};'>{rain_emoji} {rain_text}</td>"
+                "</tr>"
+            )
+
+        updated_at = pd.Timestamp.now(tz=timezone).strftime("%Y-%m-%d %H:%M:%S %Z")
 
         description_lines = [
             f"{display_location} Weather Forecast (hourly details): {day_date.isoformat()}",
             *hourly_lines,
-            f"\nUpdated at: {pd.Timestamp.now(tz=timezone).strftime('%Y-%m-%d %H:%M:%S %Z')}",
+            f"\nUpdated at: {updated_at}",
             "\nData source: Open-Meteo (https://open-meteo.com/)",
         ]
         event.add("description", "\n".join(description_lines))
+
+        html_description = (
+            "<div style=\"font-family:'Segoe UI',Arial,sans-serif;font-size:13px;color:#111827;\">"
+            '<div style="font-size:14px;font-weight:700;margin-bottom:8px;">'
+            f"{escape(display_location)} Weather Forecast - {day_date.isoformat()}"
+            "</div>"
+            '<div style="margin-bottom:10px;color:#374151;">'
+            f'<span style="margin-right:12px;">🌡️ {min_temp:.0f} to {max_temp:.0f}&deg;C</span>'
+            f"<span>🌧️ {total_precip:.1f} mm total</span>"
+            "</div>"
+            '<table style="border-collapse:collapse;width:100%;max-width:560px;border:1px solid #e5e7eb;border-radius:6px;overflow:hidden;">'
+            "<thead>"
+            '<tr style="background-color:#eef2ff;color:#1f2937;">'
+            '<th align="left" style="padding:7px 8px;font-weight:700;">Time</th>'
+            '<th align="left" style="padding:7px 8px;font-weight:700;">Temperature</th>'
+            '<th align="left" style="padding:7px 8px;font-weight:700;">Wind</th>'
+            '<th align="left" style="padding:7px 8px;font-weight:700;">Rain</th>'
+            "</tr>"
+            "</thead>"
+            f"<tbody>{''.join(html_rows)}</tbody>"
+            "</table>"
+            f'<div style="margin-top:10px;color:#6b7280;font-size:12px;">Updated at: {updated_at}</div>'
+            '<div style="margin-top:4px;color:#6b7280;font-size:12px;">'
+            "Data source: Open-Meteo (https://open-meteo.com/)"
+            "</div>"
+            "</div>"
+        )
+        event.add("X-ALT-DESC", html_description, parameters={"FMTTYPE": "text/html"})
 
         # Unique daily ID lets calendar clients overwrite the same day on refresh.
         event.add("uid", f"{safe_location}-weather-{day_date.strftime('%Y%m%d')}@myscript")
