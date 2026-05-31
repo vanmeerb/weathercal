@@ -3,186 +3,36 @@ VERSION:2.0
 PRODID:-//Leuven\, Belgium Weather and Rain Calendar//EN
 X-WR-CALNAME:Leuven\, Belgium Weather Forecast
 BEGIN:VEVENT
-SUMMARY:🌡️ 19–29°C | 🌧️ 1.8mm
-DTSTART;VALUE=DATE:20260530
-UID:leuven-weather-20260530@myscript
-DESCRIPTION:Leuven\, Belgium Weather Forecast (hourly details): 2026-05-30
- \n00:00  | 🌡️ 24°C  | 💨 ↑ 3 m/s  | ☀️ 0.0 mm\n01:00  | 🌡
- ️ 23°C  | 💨 → 3 m/s  | ☀️ 0.0 mm\n02:00  | 🌡️ 21°C  | 
- 💨 → 3 m/s  | ☀️ 0.0 mm\n03:00  | 🌡️ 21°C  | 💨 → 2 m/s 
-  | ☀️ 0.0 mm\n04:00  | 🌡️ 20°C  | 💨 ↑ 2 m/s  | ☀️ 0.0 m
- m\n05:00  | 🌡️ 20°C  | 💨 ↑ 2 m/s  | 🌧️ 0.2 mm\n06:00  | 
- 🌡️ 19°C  | 💨 ↘ 2 m/s  | 🌧️ 0.3 mm\n07:00  | 🌡️ 19°C 
-  | 💨 ↑ 1 m/s  | ☀️ 0.0 mm\n08:00  | 🌡️ 19°C  | 💨 ↑ 1 m
- /s  | ☀️ 0.0 mm\n09:00  | 🌡️ 20°C  | 💨 ↘ 2 m/s  | ☀️ 0.
- 0 mm\n10:00  | 🌡️ 20°C  | 💨 → 1 m/s  | ☀️ 0.0 mm\n11:00  | 
- 🌡️ 20°C  | 💨 → 2 m/s  | 🌧️ 1.3 mm\n12:00  | 🌡️ 24°C 
-  | 💨 → 1 m/s  | ☀️ 0.0 mm\n13:00  | 🌡️ 20°C  | 💨 ↘ 4 m
- /s  | ☀️ 0.0 mm\n14:00  | 🌡️ 25°C  | 💨 ↘ 2 m/s  | ☀️ 0.
- 0 mm\n15:00  | 🌡️ 28°C  | 💨 → 2 m/s  | ☀️ 0.0 mm\n16:00  | 
- 🌡️ 26°C  | 💨 ↗ 2 m/s  | ☀️ 0.0 mm\n17:00  | 🌡️ 29°C  
- | 💨 → 2 m/s  | ☀️ 0.0 mm\n18:00  | 🌡️ 29°C  | 💨 ↘ 1 m/
- s  | ☀️ 0.0 mm\n19:00  | 🌡️ 29°C  | 💨 ↓ 2 m/s  | ☀️ 0.0
-  mm\n20:00  | 🌡️ 28°C  | 💨 ↓ 2 m/s  | ☀️ 0.0 mm\n21:00  | 
- 🌡️ 25°C  | 💨 ↙ 4 m/s  | ☀️ 0.0 mm\n22:00  | 🌡️ 24°C  
- | 💨 ↙ 4 m/s  | ☀️ 0.0 mm\n23:00  | 🌡️ 22°C  | 💨 ↘ 3 m/
- s  | ☀️ 0.0 mm\n\nUpdated at: 2026-05-30 21:04:22 CEST\n\nData source:
-  Open-Meteo (https://open-meteo.com/)
-X-ALT-DESC;FMTTYPE=text/html:<div style="font-family:'Segoe UI'\,Arial\,sa
- ns-serif\;font-size:13px\;color:#111827\;"><div style="font-size:14px\;fon
- t-weight:700\;margin-bottom:8px\;">Leuven\, Belgium Weather Forecast - 202
- 6-05-30</div><div style="margin-bottom:10px\;color:#374151\;"><span style=
- "margin-right:12px\;">🌡️ 19 to 29&deg\;C</span><span>🌧️ 1.8 mm t
- otal</span></div><table style="border-collapse:collapse\;width:100%\;max-w
- idth:560px\;border:1px solid #e5e7eb\;border-radius:6px\;overflow:hidden\;
- "><thead><tr style="background-color:#eef2ff\;color:#1f2937\;"><th align="
- left" style="padding:7px 8px\;font-weight:700\;">Time</th><th align="left"
-  style="padding:7px 8px\;font-weight:700\;">Temperature</th><th align="lef
- t" style="padding:7px 8px\;font-weight:700\;">Wind</th><th align="left" st
- yle="padding:7px 8px\;font-weight:700\;">Rain</th></tr></thead><tbody><tr 
- style='border-bottom:1px solid #e5e7eb\;background-color:#ffffff\;'><td st
- yle='padding:6px 8px\;font-weight:600\;color:#111827\;'>00:00</td><td styl
- e='padding:6px 8px\;color:#1f2937\;'>24&deg\;C</td><td style='padding:6px 
- 8px\;color:#1f2937\;'>↑ 3 m/s</td><td style='padding:6px 8px\;color:#6b7
- 280\;'>☀️ 0.0 mm</td></tr><tr style='border-bottom:1px solid #e5e7eb\;
- background-color:#f8fafc\;'><td style='padding:6px 8px\;font-weight:600\;c
- olor:#111827\;'>01:00</td><td style='padding:6px 8px\;color:#1f2937\;'>23&
- deg\;C</td><td style='padding:6px 8px\;color:#1f2937\;'>→ 3 m/s</td><td 
- style='padding:6px 8px\;color:#6b7280\;'>☀️ 0.0 mm</td></tr><tr style=
- 'border-bottom:1px solid #e5e7eb\;background-color:#ffffff\;'><td style='p
- adding:6px 8px\;font-weight:600\;color:#111827\;'>02:00</td><td style='pad
- ding:6px 8px\;color:#1f2937\;'>21&deg\;C</td><td style='padding:6px 8px\;c
- olor:#1f2937\;'>→ 3 m/s</td><td style='padding:6px 8px\;color:#6b7280\;'
- >☀️ 0.0 mm</td></tr><tr style='border-bottom:1px solid #e5e7eb\;backgr
- ound-color:#f8fafc\;'><td style='padding:6px 8px\;font-weight:600\;color:#
- 111827\;'>03:00</td><td style='padding:6px 8px\;color:#1f2937\;'>21&deg\;C
- </td><td style='padding:6px 8px\;color:#1f2937\;'>→ 2 m/s</td><td style=
- 'padding:6px 8px\;color:#6b7280\;'>☀️ 0.0 mm</td></tr><tr style='borde
- r-bottom:1px solid #e5e7eb\;background-color:#ffffff\;'><td style='padding
- :6px 8px\;font-weight:600\;color:#111827\;'>04:00</td><td style='padding:6
- px 8px\;color:#1f2937\;'>20&deg\;C</td><td style='padding:6px 8px\;color:#
- 1f2937\;'>↑ 2 m/s</td><td style='padding:6px 8px\;color:#6b7280\;'>☀
- ️ 0.0 mm</td></tr><tr style='border-bottom:1px solid #e5e7eb\;background
- -color:#f8fafc\;'><td style='padding:6px 8px\;font-weight:600\;color:#1118
- 27\;'>05:00</td><td style='padding:6px 8px\;color:#1f2937\;'>20&deg\;C</td
- ><td style='padding:6px 8px\;color:#1f2937\;'>↑ 2 m/s</td><td style='pad
- ding:6px 8px\;color:#0369a1\;'>🌧️ 0.2 mm</td></tr><tr style='border-b
- ottom:1px solid #e5e7eb\;background-color:#ffffff\;'><td style='padding:6p
- x 8px\;font-weight:600\;color:#111827\;'>06:00</td><td style='padding:6px 
- 8px\;color:#1f2937\;'>19&deg\;C</td><td style='padding:6px 8px\;color:#1f2
- 937\;'>↘ 2 m/s</td><td style='padding:6px 8px\;color:#0369a1\;'>🌧️ 
- 0.3 mm</td></tr><tr style='border-bottom:1px solid #e5e7eb\;background-col
- or:#f8fafc\;'><td style='padding:6px 8px\;font-weight:600\;color:#111827\;
- '>07:00</td><td style='padding:6px 8px\;color:#1f2937\;'>19&deg\;C</td><td
-  style='padding:6px 8px\;color:#1f2937\;'>↑ 1 m/s</td><td style='padding
- :6px 8px\;color:#6b7280\;'>☀️ 0.0 mm</td></tr><tr style='border-bottom
- :1px solid #e5e7eb\;background-color:#ffffff\;'><td style='padding:6px 8px
- \;font-weight:600\;color:#111827\;'>08:00</td><td style='padding:6px 8px\;
- color:#1f2937\;'>19&deg\;C</td><td style='padding:6px 8px\;color:#1f2937\;
- '>↑ 1 m/s</td><td style='padding:6px 8px\;color:#6b7280\;'>☀️ 0.0 mm
- </td></tr><tr style='border-bottom:1px solid #e5e7eb\;background-color:#f8
- fafc\;'><td style='padding:6px 8px\;font-weight:600\;color:#111827\;'>09:0
- 0</td><td style='padding:6px 8px\;color:#1f2937\;'>20&deg\;C</td><td style
- ='padding:6px 8px\;color:#1f2937\;'>↘ 2 m/s</td><td style='padding:6px 8
- px\;color:#6b7280\;'>☀️ 0.0 mm</td></tr><tr style='border-bottom:1px s
- olid #e5e7eb\;background-color:#ffffff\;'><td style='padding:6px 8px\;font
- -weight:600\;color:#111827\;'>10:00</td><td style='padding:6px 8px\;color:
- #1f2937\;'>20&deg\;C</td><td style='padding:6px 8px\;color:#1f2937\;'>→ 
- 1 m/s</td><td style='padding:6px 8px\;color:#6b7280\;'>☀️ 0.0 mm</td><
- /tr><tr style='border-bottom:1px solid #e5e7eb\;background-color:#f8fafc\;
- '><td style='padding:6px 8px\;font-weight:600\;color:#111827\;'>11:00</td>
- <td style='padding:6px 8px\;color:#1f2937\;'>20&deg\;C</td><td style='padd
- ing:6px 8px\;color:#1f2937\;'>→ 2 m/s</td><td style='padding:6px 8px\;co
- lor:#0369a1\;'>🌧️ 1.3 mm</td></tr><tr style='border-bottom:1px solid 
- #e5e7eb\;background-color:#ffffff\;'><td style='padding:6px 8px\;font-weig
- ht:600\;color:#111827\;'>12:00</td><td style='padding:6px 8px\;color:#1f29
- 37\;'>24&deg\;C</td><td style='padding:6px 8px\;color:#1f2937\;'>→ 1 m/s
- </td><td style='padding:6px 8px\;color:#6b7280\;'>☀️ 0.0 mm</td></tr><
- tr style='border-bottom:1px solid #e5e7eb\;background-color:#f8fafc\;'><td
-  style='padding:6px 8px\;font-weight:600\;color:#111827\;'>13:00</td><td s
- tyle='padding:6px 8px\;color:#1f2937\;'>20&deg\;C</td><td style='padding:6
- px 8px\;color:#1f2937\;'>↘ 4 m/s</td><td style='padding:6px 8px\;color:#
- 6b7280\;'>☀️ 0.0 mm</td></tr><tr style='border-bottom:1px solid #e5e7e
- b\;background-color:#ffffff\;'><td style='padding:6px 8px\;font-weight:600
- \;color:#111827\;'>14:00</td><td style='padding:6px 8px\;color:#1f2937\;'>
- 25&deg\;C</td><td style='padding:6px 8px\;color:#1f2937\;'>↘ 2 m/s</td><
- td style='padding:6px 8px\;color:#6b7280\;'>☀️ 0.0 mm</td></tr><tr sty
- le='border-bottom:1px solid #e5e7eb\;background-color:#f8fafc\;'><td style
- ='padding:6px 8px\;font-weight:600\;color:#111827\;'>15:00</td><td style='
- padding:6px 8px\;color:#1f2937\;'>28&deg\;C</td><td style='padding:6px 8px
- \;color:#1f2937\;'>→ 2 m/s</td><td style='padding:6px 8px\;color:#6b7280
- \;'>☀️ 0.0 mm</td></tr><tr style='border-bottom:1px solid #e5e7eb\;bac
- kground-color:#ffffff\;'><td style='padding:6px 8px\;font-weight:600\;colo
- r:#111827\;'>16:00</td><td style='padding:6px 8px\;color:#1f2937\;'>26&deg
- \;C</td><td style='padding:6px 8px\;color:#1f2937\;'>↗ 2 m/s</td><td sty
- le='padding:6px 8px\;color:#6b7280\;'>☀️ 0.0 mm</td></tr><tr style='bo
- rder-bottom:1px solid #e5e7eb\;background-color:#f8fafc\;'><td style='padd
- ing:6px 8px\;font-weight:600\;color:#111827\;'>17:00</td><td style='paddin
- g:6px 8px\;color:#1f2937\;'>29&deg\;C</td><td style='padding:6px 8px\;colo
- r:#1f2937\;'>→ 2 m/s</td><td style='padding:6px 8px\;color:#6b7280\;'>
- ☀️ 0.0 mm</td></tr><tr style='border-bottom:1px solid #e5e7eb\;backgro
- und-color:#ffffff\;'><td style='padding:6px 8px\;font-weight:600\;color:#1
- 11827\;'>18:00</td><td style='padding:6px 8px\;color:#1f2937\;'>29&deg\;C<
- /td><td style='padding:6px 8px\;color:#1f2937\;'>↘ 1 m/s</td><td style='
- padding:6px 8px\;color:#6b7280\;'>☀️ 0.0 mm</td></tr><tr style='border
- -bottom:1px solid #e5e7eb\;background-color:#f8fafc\;'><td style='padding:
- 6px 8px\;font-weight:600\;color:#111827\;'>19:00</td><td style='padding:6p
- x 8px\;color:#1f2937\;'>29&deg\;C</td><td style='padding:6px 8px\;color:#1
- f2937\;'>↓ 2 m/s</td><td style='padding:6px 8px\;color:#6b7280\;'>☀️
-  0.0 mm</td></tr><tr style='border-bottom:1px solid #e5e7eb\;background-co
- lor:#ffffff\;'><td style='padding:6px 8px\;font-weight:600\;color:#111827\
- ;'>20:00</td><td style='padding:6px 8px\;color:#1f2937\;'>28&deg\;C</td><t
- d style='padding:6px 8px\;color:#1f2937\;'>↓ 2 m/s</td><td style='paddin
- g:6px 8px\;color:#6b7280\;'>☀️ 0.0 mm</td></tr><tr style='border-botto
- m:1px solid #e5e7eb\;background-color:#f8fafc\;'><td style='padding:6px 8p
- x\;font-weight:600\;color:#111827\;'>21:00</td><td style='padding:6px 8px\
- ;color:#1f2937\;'>25&deg\;C</td><td style='padding:6px 8px\;color:#1f2937\
- ;'>↙ 4 m/s</td><td style='padding:6px 8px\;color:#6b7280\;'>☀️ 0.0 m
- m</td></tr><tr style='border-bottom:1px solid #e5e7eb\;background-color:#f
- fffff\;'><td style='padding:6px 8px\;font-weight:600\;color:#111827\;'>22:
- 00</td><td style='padding:6px 8px\;color:#1f2937\;'>24&deg\;C</td><td styl
- e='padding:6px 8px\;color:#1f2937\;'>↙ 4 m/s</td><td style='padding:6px 
- 8px\;color:#6b7280\;'>☀️ 0.0 mm</td></tr><tr style='border-bottom:1px 
- solid #e5e7eb\;background-color:#f8fafc\;'><td style='padding:6px 8px\;fon
- t-weight:600\;color:#111827\;'>23:00</td><td style='padding:6px 8px\;color
- :#1f2937\;'>22&deg\;C</td><td style='padding:6px 8px\;color:#1f2937\;'>↘
-  3 m/s</td><td style='padding:6px 8px\;color:#6b7280\;'>☀️ 0.0 mm</td>
- </tr></tbody></table><div style="margin-top:10px\;color:#6b7280\;font-size
- :12px\;">Updated at: 2026-05-30 21:04:22 CEST</div><div style="margin-top:
- 4px\;color:#6b7280\;font-size:12px\;">Data source: Open-Meteo (https://ope
- n-meteo.com/)</div></div>
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🌡️ 20–23°C | 🌧️ 0.0mm
+SUMMARY:🌡️ 19–23°C | 🌧️ 0.0mm
 DTSTART;VALUE=DATE:20260531
 UID:leuven-weather-20260531@myscript
 DESCRIPTION:Leuven\, Belgium Weather Forecast (hourly details): 2026-05-31
- \n00:00  | 🌡️ 21°C  | 💨 ↘ 2 m/s  | ☀️ 0.0 mm\n01:00  | 🌡
- ️ 21°C  | 💨 ↘ 2 m/s  | ☀️ 0.0 mm\n02:00  | 🌡️ 21°C  | 
- 💨 ↓ 2 m/s  | ☀️ 0.0 mm\n03:00  | 🌡️ 20°C  | 💨 ↙ 1 m/s 
-  | ☀️ 0.0 mm\n04:00  | 🌡️ 20°C  | 💨 ↙ 3 m/s  | ☀️ 0.0 m
- m\n05:00  | 🌡️ 20°C  | 💨 ↙ 3 m/s  | ☀️ 0.0 mm\n06:00  | 
- 🌡️ 20°C  | 💨 ↙ 4 m/s  | ☀️ 0.0 mm\n07:00  | 🌡️ 20°C  
- | 💨 ↙ 4 m/s  | ☀️ 0.0 mm\n08:00  | 🌡️ 20°C  | 💨 ↙ 4 m/
+ \n00:00  | 🌡️ 21°C  | 💨 ↘ 1 m/s  | ☀️ 0.0 mm\n01:00  | 🌡
+ ️ 20°C  | 💨 ↓ 3 m/s  | ☀️ 0.0 mm\n02:00  | 🌡️ 23°C  | 
+ 💨 ↓ 2 m/s  | ☀️ 0.0 mm\n03:00  | 🌡️ 20°C  | 💨 ← 2 m/s 
+  | ☀️ 0.0 mm\n04:00  | 🌡️ 19°C  | 💨 ↓ 3 m/s  | ☀️ 0.0 m
+ m\n05:00  | 🌡️ 21°C  | 💨 ↙ 3 m/s  | ☀️ 0.0 mm\n06:00  | 
+ 🌡️ 19°C  | 💨 ↙ 4 m/s  | ☀️ 0.0 mm\n07:00  | 🌡️ 19°C  
+ | 💨 ↙ 3 m/s  | ☀️ 0.0 mm\n08:00  | 🌡️ 20°C  | 💨 ↙ 3 m/
  s  | ☀️ 0.0 mm\n09:00  | 🌡️ 20°C  | 💨 ↙ 4 m/s  | ☀️ 0.0
-  mm\n10:00  | 🌡️ 20°C  | 💨 ↙ 4 m/s  | ☀️ 0.0 mm\n11:00  | 
- 🌡️ 21°C  | 💨 ← 5 m/s  | ☀️ 0.0 mm\n12:00  | 🌡️ 21°C  
- | 💨 ← 5 m/s  | ☀️ 0.0 mm\n13:00  | 🌡️ 21°C  | 💨 ← 5 m/
- s  | ☀️ 0.0 mm\n14:00  | 🌡️ 21°C  | 💨 ← 5 m/s  | ☀️ 0.0
-  mm\n15:00  | 🌡️ 21°C  | 💨 ← 6 m/s  | ☀️ 0.0 mm\n16:00  | 
- 🌡️ 22°C  | 💨 ← 5 m/s  | ☀️ 0.0 mm\n17:00  | 🌡️ 23°C  
- | 💨 ← 5 m/s  | ☀️ 0.0 mm\n18:00  | 🌡️ 22°C  | 💨 ↖ 5 m/
- s  | ☀️ 0.0 mm\n19:00  | 🌡️ 22°C  | 💨 ← 4 m/s  | ☀️ 0.0
-  mm\n20:00  | 🌡️ 22°C  | 💨 ↖ 4 m/s  | ☀️ 0.0 mm\n21:00  | 
- 🌡️ 21°C  | 💨 ← 3 m/s  | ☀️ 0.0 mm\n22:00  | 🌡️ 21°C  
- | 💨 ↖ 1 m/s  | ☀️ 0.0 mm\n23:00  | 🌡️ 20°C  | 💨 ↙ 2 m/
- s  | ☀️ 0.0 mm\n\nUpdated at: 2026-05-30 21:04:22 CEST\n\nData source:
+  mm\n10:00  | 🌡️ 21°C  | 💨 ← 4 m/s  | ☀️ 0.0 mm\n11:00  | 
+ 🌡️ 21°C  | 💨 ← 4 m/s  | ☀️ 0.0 mm\n12:00  | 🌡️ 22°C  
+ | 💨 ↙ 5 m/s  | ☀️ 0.0 mm\n13:00  | 🌡️ 23°C  | 💨 ← 5 m/
+ s  | ☀️ 0.0 mm\n14:00  | 🌡️ 22°C  | 💨 ↙ 5 m/s  | ☀️ 0.0
+  mm\n15:00  | 🌡️ 21°C  | 💨 ← 5 m/s  | ☀️ 0.0 mm\n16:00  | 
+ 🌡️ 21°C  | 💨 ← 5 m/s  | ☀️ 0.0 mm\n17:00  | 🌡️ 20°C  
+ | 💨 ← 4 m/s  | ☀️ 0.0 mm\n18:00  | 🌡️ 21°C  | 💨 ← 4 m/
+ s  | ☀️ 0.0 mm\n19:00  | 🌡️ 20°C  | 💨 ↙ 3 m/s  | ☀️ 0.0
+  mm\n20:00  | 🌡️ 20°C  | 💨 ← 3 m/s  | ☀️ 0.0 mm\n21:00  | 
+ 🌡️ 20°C  | 💨 ← 4 m/s  | ☀️ 0.0 mm\n22:00  | 🌡️ 20°C  
+ | 💨 ← 2 m/s  | ☀️ 0.0 mm\n23:00  | 🌡️ 19°C  | 💨 ↙ 3 m/
+ s  | ☀️ 0.0 mm\n\nUpdated at: 2026-05-31 10:38:45 CEST\n\nData source:
   Open-Meteo (https://open-meteo.com/)
 X-ALT-DESC;FMTTYPE=text/html:<div style="font-family:'Segoe UI'\,Arial\,sa
  ns-serif\;font-size:13px\;color:#111827\;"><div style="font-size:14px\;fon
  t-weight:700\;margin-bottom:8px\;">Leuven\, Belgium Weather Forecast - 202
  6-05-31</div><div style="margin-bottom:10px\;color:#374151\;"><span style=
- "margin-right:12px\;">🌡️ 20 to 23&deg\;C</span><span>🌧️ 0.0 mm t
+ "margin-right:12px\;">🌡️ 19 to 23&deg\;C</span><span>🌧️ 0.0 mm t
  otal</span></div><table style="border-collapse:collapse\;width:100%\;max-w
  idth:560px\;border:1px solid #e5e7eb\;border-radius:6px\;overflow:hidden\;
  "><thead><tr style="background-color:#eef2ff\;color:#1f2937\;"><th align="
@@ -193,43 +43,43 @@ X-ALT-DESC;FMTTYPE=text/html:<div style="font-family:'Segoe UI'\,Arial\,sa
  style='border-bottom:1px solid #e5e7eb\;background-color:#ffffff\;'><td st
  yle='padding:6px 8px\;font-weight:600\;color:#111827\;'>00:00</td><td styl
  e='padding:6px 8px\;color:#1f2937\;'>21&deg\;C</td><td style='padding:6px 
- 8px\;color:#1f2937\;'>↘ 2 m/s</td><td style='padding:6px 8px\;color:#6b7
+ 8px\;color:#1f2937\;'>↘ 1 m/s</td><td style='padding:6px 8px\;color:#6b7
  280\;'>☀️ 0.0 mm</td></tr><tr style='border-bottom:1px solid #e5e7eb\;
  background-color:#f8fafc\;'><td style='padding:6px 8px\;font-weight:600\;c
- olor:#111827\;'>01:00</td><td style='padding:6px 8px\;color:#1f2937\;'>21&
- deg\;C</td><td style='padding:6px 8px\;color:#1f2937\;'>↘ 2 m/s</td><td 
+ olor:#111827\;'>01:00</td><td style='padding:6px 8px\;color:#1f2937\;'>20&
+ deg\;C</td><td style='padding:6px 8px\;color:#1f2937\;'>↓ 3 m/s</td><td 
  style='padding:6px 8px\;color:#6b7280\;'>☀️ 0.0 mm</td></tr><tr style=
  'border-bottom:1px solid #e5e7eb\;background-color:#ffffff\;'><td style='p
  adding:6px 8px\;font-weight:600\;color:#111827\;'>02:00</td><td style='pad
- ding:6px 8px\;color:#1f2937\;'>21&deg\;C</td><td style='padding:6px 8px\;c
+ ding:6px 8px\;color:#1f2937\;'>23&deg\;C</td><td style='padding:6px 8px\;c
  olor:#1f2937\;'>↓ 2 m/s</td><td style='padding:6px 8px\;color:#6b7280\;'
  >☀️ 0.0 mm</td></tr><tr style='border-bottom:1px solid #e5e7eb\;backgr
  ound-color:#f8fafc\;'><td style='padding:6px 8px\;font-weight:600\;color:#
  111827\;'>03:00</td><td style='padding:6px 8px\;color:#1f2937\;'>20&deg\;C
- </td><td style='padding:6px 8px\;color:#1f2937\;'>↙ 1 m/s</td><td style=
+ </td><td style='padding:6px 8px\;color:#1f2937\;'>← 2 m/s</td><td style=
  'padding:6px 8px\;color:#6b7280\;'>☀️ 0.0 mm</td></tr><tr style='borde
  r-bottom:1px solid #e5e7eb\;background-color:#ffffff\;'><td style='padding
  :6px 8px\;font-weight:600\;color:#111827\;'>04:00</td><td style='padding:6
- px 8px\;color:#1f2937\;'>20&deg\;C</td><td style='padding:6px 8px\;color:#
- 1f2937\;'>↙ 3 m/s</td><td style='padding:6px 8px\;color:#6b7280\;'>☀
+ px 8px\;color:#1f2937\;'>19&deg\;C</td><td style='padding:6px 8px\;color:#
+ 1f2937\;'>↓ 3 m/s</td><td style='padding:6px 8px\;color:#6b7280\;'>☀
  ️ 0.0 mm</td></tr><tr style='border-bottom:1px solid #e5e7eb\;background
  -color:#f8fafc\;'><td style='padding:6px 8px\;font-weight:600\;color:#1118
- 27\;'>05:00</td><td style='padding:6px 8px\;color:#1f2937\;'>20&deg\;C</td
+ 27\;'>05:00</td><td style='padding:6px 8px\;color:#1f2937\;'>21&deg\;C</td
  ><td style='padding:6px 8px\;color:#1f2937\;'>↙ 3 m/s</td><td style='pad
  ding:6px 8px\;color:#6b7280\;'>☀️ 0.0 mm</td></tr><tr style='border-bo
  ttom:1px solid #e5e7eb\;background-color:#ffffff\;'><td style='padding:6px
   8px\;font-weight:600\;color:#111827\;'>06:00</td><td style='padding:6px 8
- px\;color:#1f2937\;'>20&deg\;C</td><td style='padding:6px 8px\;color:#1f29
+ px\;color:#1f2937\;'>19&deg\;C</td><td style='padding:6px 8px\;color:#1f29
  37\;'>↙ 4 m/s</td><td style='padding:6px 8px\;color:#6b7280\;'>☀️ 0.
  0 mm</td></tr><tr style='border-bottom:1px solid #e5e7eb\;background-color
  :#f8fafc\;'><td style='padding:6px 8px\;font-weight:600\;color:#111827\;'>
- 07:00</td><td style='padding:6px 8px\;color:#1f2937\;'>20&deg\;C</td><td s
- tyle='padding:6px 8px\;color:#1f2937\;'>↙ 4 m/s</td><td style='padding:6
+ 07:00</td><td style='padding:6px 8px\;color:#1f2937\;'>19&deg\;C</td><td s
+ tyle='padding:6px 8px\;color:#1f2937\;'>↙ 3 m/s</td><td style='padding:6
  px 8px\;color:#6b7280\;'>☀️ 0.0 mm</td></tr><tr style='border-bottom:1
  px solid #e5e7eb\;background-color:#ffffff\;'><td style='padding:6px 8px\;
  font-weight:600\;color:#111827\;'>08:00</td><td style='padding:6px 8px\;co
  lor:#1f2937\;'>20&deg\;C</td><td style='padding:6px 8px\;color:#1f2937\;'>
- ↙ 4 m/s</td><td style='padding:6px 8px\;color:#6b7280\;'>☀️ 0.0 mm</
+ ↙ 3 m/s</td><td style='padding:6px 8px\;color:#6b7280\;'>☀️ 0.0 mm</
  td></tr><tr style='border-bottom:1px solid #e5e7eb\;background-color:#f8fa
  fc\;'><td style='padding:6px 8px\;font-weight:600\;color:#111827\;'>09:00<
  /td><td style='padding:6px 8px\;color:#1f2937\;'>20&deg\;C</td><td style='
@@ -237,102 +87,102 @@ X-ALT-DESC;FMTTYPE=text/html:<div style="font-family:'Segoe UI'\,Arial\,sa
  \;color:#6b7280\;'>☀️ 0.0 mm</td></tr><tr style='border-bottom:1px sol
  id #e5e7eb\;background-color:#ffffff\;'><td style='padding:6px 8px\;font-w
  eight:600\;color:#111827\;'>10:00</td><td style='padding:6px 8px\;color:#1
- f2937\;'>20&deg\;C</td><td style='padding:6px 8px\;color:#1f2937\;'>↙ 4 
+ f2937\;'>21&deg\;C</td><td style='padding:6px 8px\;color:#1f2937\;'>← 4 
  m/s</td><td style='padding:6px 8px\;color:#6b7280\;'>☀️ 0.0 mm</td></t
  r><tr style='border-bottom:1px solid #e5e7eb\;background-color:#f8fafc\;'>
  <td style='padding:6px 8px\;font-weight:600\;color:#111827\;'>11:00</td><t
  d style='padding:6px 8px\;color:#1f2937\;'>21&deg\;C</td><td style='paddin
- g:6px 8px\;color:#1f2937\;'>← 5 m/s</td><td style='padding:6px 8px\;colo
+ g:6px 8px\;color:#1f2937\;'>← 4 m/s</td><td style='padding:6px 8px\;colo
  r:#6b7280\;'>☀️ 0.0 mm</td></tr><tr style='border-bottom:1px solid #e5
  e7eb\;background-color:#ffffff\;'><td style='padding:6px 8px\;font-weight:
  600\;color:#111827\;'>12:00</td><td style='padding:6px 8px\;color:#1f2937\
- ;'>21&deg\;C</td><td style='padding:6px 8px\;color:#1f2937\;'>← 5 m/s</t
+ ;'>22&deg\;C</td><td style='padding:6px 8px\;color:#1f2937\;'>↙ 5 m/s</t
  d><td style='padding:6px 8px\;color:#6b7280\;'>☀️ 0.0 mm</td></tr><tr 
  style='border-bottom:1px solid #e5e7eb\;background-color:#f8fafc\;'><td st
  yle='padding:6px 8px\;font-weight:600\;color:#111827\;'>13:00</td><td styl
- e='padding:6px 8px\;color:#1f2937\;'>21&deg\;C</td><td style='padding:6px 
+ e='padding:6px 8px\;color:#1f2937\;'>23&deg\;C</td><td style='padding:6px 
  8px\;color:#1f2937\;'>← 5 m/s</td><td style='padding:6px 8px\;color:#6b7
  280\;'>☀️ 0.0 mm</td></tr><tr style='border-bottom:1px solid #e5e7eb\;
  background-color:#ffffff\;'><td style='padding:6px 8px\;font-weight:600\;c
- olor:#111827\;'>14:00</td><td style='padding:6px 8px\;color:#1f2937\;'>21&
- deg\;C</td><td style='padding:6px 8px\;color:#1f2937\;'>← 5 m/s</td><td 
+ olor:#111827\;'>14:00</td><td style='padding:6px 8px\;color:#1f2937\;'>22&
+ deg\;C</td><td style='padding:6px 8px\;color:#1f2937\;'>↙ 5 m/s</td><td 
  style='padding:6px 8px\;color:#6b7280\;'>☀️ 0.0 mm</td></tr><tr style=
  'border-bottom:1px solid #e5e7eb\;background-color:#f8fafc\;'><td style='p
  adding:6px 8px\;font-weight:600\;color:#111827\;'>15:00</td><td style='pad
  ding:6px 8px\;color:#1f2937\;'>21&deg\;C</td><td style='padding:6px 8px\;c
- olor:#1f2937\;'>← 6 m/s</td><td style='padding:6px 8px\;color:#6b7280\;'
+ olor:#1f2937\;'>← 5 m/s</td><td style='padding:6px 8px\;color:#6b7280\;'
  >☀️ 0.0 mm</td></tr><tr style='border-bottom:1px solid #e5e7eb\;backgr
  ound-color:#ffffff\;'><td style='padding:6px 8px\;font-weight:600\;color:#
- 111827\;'>16:00</td><td style='padding:6px 8px\;color:#1f2937\;'>22&deg\;C
+ 111827\;'>16:00</td><td style='padding:6px 8px\;color:#1f2937\;'>21&deg\;C
  </td><td style='padding:6px 8px\;color:#1f2937\;'>← 5 m/s</td><td style=
  'padding:6px 8px\;color:#6b7280\;'>☀️ 0.0 mm</td></tr><tr style='borde
  r-bottom:1px solid #e5e7eb\;background-color:#f8fafc\;'><td style='padding
  :6px 8px\;font-weight:600\;color:#111827\;'>17:00</td><td style='padding:6
- px 8px\;color:#1f2937\;'>23&deg\;C</td><td style='padding:6px 8px\;color:#
- 1f2937\;'>← 5 m/s</td><td style='padding:6px 8px\;color:#6b7280\;'>☀
+ px 8px\;color:#1f2937\;'>20&deg\;C</td><td style='padding:6px 8px\;color:#
+ 1f2937\;'>← 4 m/s</td><td style='padding:6px 8px\;color:#6b7280\;'>☀
  ️ 0.0 mm</td></tr><tr style='border-bottom:1px solid #e5e7eb\;background
  -color:#ffffff\;'><td style='padding:6px 8px\;font-weight:600\;color:#1118
- 27\;'>18:00</td><td style='padding:6px 8px\;color:#1f2937\;'>22&deg\;C</td
- ><td style='padding:6px 8px\;color:#1f2937\;'>↖ 5 m/s</td><td style='pad
+ 27\;'>18:00</td><td style='padding:6px 8px\;color:#1f2937\;'>21&deg\;C</td
+ ><td style='padding:6px 8px\;color:#1f2937\;'>← 4 m/s</td><td style='pad
  ding:6px 8px\;color:#6b7280\;'>☀️ 0.0 mm</td></tr><tr style='border-bo
  ttom:1px solid #e5e7eb\;background-color:#f8fafc\;'><td style='padding:6px
   8px\;font-weight:600\;color:#111827\;'>19:00</td><td style='padding:6px 8
- px\;color:#1f2937\;'>22&deg\;C</td><td style='padding:6px 8px\;color:#1f29
- 37\;'>← 4 m/s</td><td style='padding:6px 8px\;color:#6b7280\;'>☀️ 0.
+ px\;color:#1f2937\;'>20&deg\;C</td><td style='padding:6px 8px\;color:#1f29
+ 37\;'>↙ 3 m/s</td><td style='padding:6px 8px\;color:#6b7280\;'>☀️ 0.
  0 mm</td></tr><tr style='border-bottom:1px solid #e5e7eb\;background-color
  :#ffffff\;'><td style='padding:6px 8px\;font-weight:600\;color:#111827\;'>
- 20:00</td><td style='padding:6px 8px\;color:#1f2937\;'>22&deg\;C</td><td s
- tyle='padding:6px 8px\;color:#1f2937\;'>↖ 4 m/s</td><td style='padding:6
+ 20:00</td><td style='padding:6px 8px\;color:#1f2937\;'>20&deg\;C</td><td s
+ tyle='padding:6px 8px\;color:#1f2937\;'>← 3 m/s</td><td style='padding:6
  px 8px\;color:#6b7280\;'>☀️ 0.0 mm</td></tr><tr style='border-bottom:1
  px solid #e5e7eb\;background-color:#f8fafc\;'><td style='padding:6px 8px\;
  font-weight:600\;color:#111827\;'>21:00</td><td style='padding:6px 8px\;co
- lor:#1f2937\;'>21&deg\;C</td><td style='padding:6px 8px\;color:#1f2937\;'>
- ← 3 m/s</td><td style='padding:6px 8px\;color:#6b7280\;'>☀️ 0.0 mm</
+ lor:#1f2937\;'>20&deg\;C</td><td style='padding:6px 8px\;color:#1f2937\;'>
+ ← 4 m/s</td><td style='padding:6px 8px\;color:#6b7280\;'>☀️ 0.0 mm</
  td></tr><tr style='border-bottom:1px solid #e5e7eb\;background-color:#ffff
  ff\;'><td style='padding:6px 8px\;font-weight:600\;color:#111827\;'>22:00<
- /td><td style='padding:6px 8px\;color:#1f2937\;'>21&deg\;C</td><td style='
- padding:6px 8px\;color:#1f2937\;'>↖ 1 m/s</td><td style='padding:6px 8px
+ /td><td style='padding:6px 8px\;color:#1f2937\;'>20&deg\;C</td><td style='
+ padding:6px 8px\;color:#1f2937\;'>← 2 m/s</td><td style='padding:6px 8px
  \;color:#6b7280\;'>☀️ 0.0 mm</td></tr><tr style='border-bottom:1px sol
  id #e5e7eb\;background-color:#f8fafc\;'><td style='padding:6px 8px\;font-w
  eight:600\;color:#111827\;'>23:00</td><td style='padding:6px 8px\;color:#1
- f2937\;'>20&deg\;C</td><td style='padding:6px 8px\;color:#1f2937\;'>↙ 2 
+ f2937\;'>19&deg\;C</td><td style='padding:6px 8px\;color:#1f2937\;'>↙ 3 
  m/s</td><td style='padding:6px 8px\;color:#6b7280\;'>☀️ 0.0 mm</td></t
  r></tbody></table><div style="margin-top:10px\;color:#6b7280\;font-size:12
- px\;">Updated at: 2026-05-30 21:04:22 CEST</div><div style="margin-top:4px
+ px\;">Updated at: 2026-05-31 10:38:45 CEST</div><div style="margin-top:4px
  \;color:#6b7280\;font-size:12px\;">Data source: Open-Meteo (https://open-m
  eteo.com/)</div></div>
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🌡️ 16–25°C | 🌧️ 0.0mm
+SUMMARY:🌡️ 16–26°C | 🌧️ 0.0mm
 DTSTART;VALUE=DATE:20260601
 UID:leuven-weather-20260601@myscript
 DESCRIPTION:Leuven\, Belgium Weather Forecast (hourly details): 2026-06-01
- \n00:00  | 🌡️ 19°C  | 💨 ← 4 m/s  | ☀️ 0.0 mm\n01:00  | 🌡
- ️ 19°C  | 💨 ↙ 4 m/s  | ☀️ 0.0 mm\n02:00  | 🌡️ 18°C  | 
- 💨 ← 3 m/s  | ☀️ 0.0 mm\n03:00  | 🌡️ 18°C  | 💨 ← 3 m/s 
+ \n00:00  | 🌡️ 19°C  | 💨 ↙ 3 m/s  | ☀️ 0.0 mm\n01:00  | 🌡
+ ️ 18°C  | 💨 ↙ 3 m/s  | ☀️ 0.0 mm\n02:00  | 🌡️ 18°C  | 
+ 💨 ↙ 3 m/s  | ☀️ 0.0 mm\n03:00  | 🌡️ 17°C  | 💨 ↙ 3 m/s 
   | ☀️ 0.0 mm\n04:00  | 🌡️ 17°C  | 💨 ↙ 3 m/s  | ☀️ 0.0 m
- m\n05:00  | 🌡️ 17°C  | 💨 ↙ 2 m/s  | ☀️ 0.0 mm\n06:00  | 
- 🌡️ 17°C  | 💨 ↙ 2 m/s  | ☀️ 0.0 mm\n07:00  | 🌡️ 16°C  
- | 💨 ↙ 2 m/s  | ☀️ 0.0 mm\n08:00  | 🌡️ 17°C  | 💨 ↙ 2 m/
- s  | ☀️ 0.0 mm\n09:00  | 🌡️ 18°C  | 💨 ↙ 1 m/s  | ☀️ 0.0
-  mm\n10:00  | 🌡️ 20°C  | 💨 ↓ 1 m/s  | ☀️ 0.0 mm\n11:00  | 
- 🌡️ 21°C  | 💨 ↙ 2 m/s  | ☀️ 0.0 mm\n12:00  | 🌡️ 23°C  
- | 💨 ↙ 2 m/s  | ☀️ 0.0 mm\n13:00  | 🌡️ 24°C  | 💨 ↙ 2 m/
- s  | ☀️ 0.0 mm\n14:00  | 🌡️ 24°C  | 💨 ↙ 3 m/s  | ☀️ 0.0
-  mm\n15:00  | 🌡️ 25°C  | 💨 ↙ 3 m/s  | ☀️ 0.0 mm\n16:00  | 
- 🌡️ 25°C  | 💨 ↙ 3 m/s  | ☀️ 0.0 mm\n17:00  | 🌡️ 25°C  
- | 💨 ↙ 3 m/s  | ☀️ 0.0 mm\n18:00  | 🌡️ 25°C  | 💨 ↙ 3 m/
+ m\n05:00  | 🌡️ 16°C  | 💨 ↙ 2 m/s  | ☀️ 0.0 mm\n06:00  | 
+ 🌡️ 16°C  | 💨 ↙ 2 m/s  | ☀️ 0.0 mm\n07:00  | 🌡️ 16°C  
+ | 💨 ↙ 3 m/s  | ☀️ 0.0 mm\n08:00  | 🌡️ 16°C  | 💨 ↙ 2 m/
+ s  | ☀️ 0.0 mm\n09:00  | 🌡️ 18°C  | 💨 ↙ 2 m/s  | ☀️ 0.0
+  mm\n10:00  | 🌡️ 20°C  | 💨 ↙ 1 m/s  | ☀️ 0.0 mm\n11:00  | 
+ 🌡️ 22°C  | 💨 ↙ 2 m/s  | ☀️ 0.0 mm\n12:00  | 🌡️ 23°C  
+ | 💨 ↙ 3 m/s  | ☀️ 0.0 mm\n13:00  | 🌡️ 24°C  | 💨 ↙ 3 m/
+ s  | ☀️ 0.0 mm\n14:00  | 🌡️ 25°C  | 💨 ↙ 3 m/s  | ☀️ 0.0
+  mm\n15:00  | 🌡️ 25°C  | 💨 ↙ 4 m/s  | ☀️ 0.0 mm\n16:00  | 
+ 🌡️ 26°C  | 💨 ↙ 3 m/s  | ☀️ 0.0 mm\n17:00  | 🌡️ 26°C  
+ | 💨 ↙ 3 m/s  | ☀️ 0.0 mm\n18:00  | 🌡️ 26°C  | 💨 ↙ 3 m/
  s  | ☀️ 0.0 mm\n19:00  | 🌡️ 25°C  | 💨 ↙ 3 m/s  | ☀️ 0.0
-  mm\n20:00  | 🌡️ 24°C  | 💨 ↙ 3 m/s  | ☀️ 0.0 mm\n21:00  | 
- 🌡️ 23°C  | 💨 ↙ 2 m/s  | ☀️ 0.0 mm\n22:00  | 🌡️ 22°C  
- | 💨 ↑ 2 m/s  | ☀️ 0.0 mm\n23:00  | 🌡️ 21°C  | 💨 ↑ 2 m/
- s  | ☀️ 0.0 mm\n\nUpdated at: 2026-05-30 21:04:22 CEST\n\nData source:
+  mm\n20:00  | 🌡️ 24°C  | 💨 ↙ 2 m/s  | ☀️ 0.0 mm\n21:00  | 
+ 🌡️ 24°C  | 💨 ↙ 2 m/s  | ☀️ 0.0 mm\n22:00  | 🌡️ 23°C  
+ | 💨 ↓ 2 m/s  | ☀️ 0.0 mm\n23:00  | 🌡️ 22°C  | 💨 ↓ 2 m/
+ s  | ☀️ 0.0 mm\n\nUpdated at: 2026-05-31 10:38:45 CEST\n\nData source:
   Open-Meteo (https://open-meteo.com/)
 X-ALT-DESC;FMTTYPE=text/html:<div style="font-family:'Segoe UI'\,Arial\,sa
  ns-serif\;font-size:13px\;color:#111827\;"><div style="font-size:14px\;fon
  t-weight:700\;margin-bottom:8px\;">Leuven\, Belgium Weather Forecast - 202
  6-06-01</div><div style="margin-bottom:10px\;color:#374151\;"><span style=
- "margin-right:12px\;">🌡️ 16 to 25&deg\;C</span><span>🌧️ 0.0 mm t
+ "margin-right:12px\;">🌡️ 16 to 26&deg\;C</span><span>🌧️ 0.0 mm t
  otal</span></div><table style="border-collapse:collapse\;width:100%\;max-w
  idth:560px\;border:1px solid #e5e7eb\;border-radius:6px\;overflow:hidden\;
  "><thead><tr style="background-color:#eef2ff\;color:#1f2937\;"><th align="
@@ -343,20 +193,20 @@ X-ALT-DESC;FMTTYPE=text/html:<div style="font-family:'Segoe UI'\,Arial\,sa
  style='border-bottom:1px solid #e5e7eb\;background-color:#ffffff\;'><td st
  yle='padding:6px 8px\;font-weight:600\;color:#111827\;'>00:00</td><td styl
  e='padding:6px 8px\;color:#1f2937\;'>19&deg\;C</td><td style='padding:6px 
- 8px\;color:#1f2937\;'>← 4 m/s</td><td style='padding:6px 8px\;color:#6b7
+ 8px\;color:#1f2937\;'>↙ 3 m/s</td><td style='padding:6px 8px\;color:#6b7
  280\;'>☀️ 0.0 mm</td></tr><tr style='border-bottom:1px solid #e5e7eb\;
  background-color:#f8fafc\;'><td style='padding:6px 8px\;font-weight:600\;c
- olor:#111827\;'>01:00</td><td style='padding:6px 8px\;color:#1f2937\;'>19&
- deg\;C</td><td style='padding:6px 8px\;color:#1f2937\;'>↙ 4 m/s</td><td 
+ olor:#111827\;'>01:00</td><td style='padding:6px 8px\;color:#1f2937\;'>18&
+ deg\;C</td><td style='padding:6px 8px\;color:#1f2937\;'>↙ 3 m/s</td><td 
  style='padding:6px 8px\;color:#6b7280\;'>☀️ 0.0 mm</td></tr><tr style=
  'border-bottom:1px solid #e5e7eb\;background-color:#ffffff\;'><td style='p
  adding:6px 8px\;font-weight:600\;color:#111827\;'>02:00</td><td style='pad
  ding:6px 8px\;color:#1f2937\;'>18&deg\;C</td><td style='padding:6px 8px\;c
- olor:#1f2937\;'>← 3 m/s</td><td style='padding:6px 8px\;color:#6b7280\;'
+ olor:#1f2937\;'>↙ 3 m/s</td><td style='padding:6px 8px\;color:#6b7280\;'
  >☀️ 0.0 mm</td></tr><tr style='border-bottom:1px solid #e5e7eb\;backgr
  ound-color:#f8fafc\;'><td style='padding:6px 8px\;font-weight:600\;color:#
- 111827\;'>03:00</td><td style='padding:6px 8px\;color:#1f2937\;'>18&deg\;C
- </td><td style='padding:6px 8px\;color:#1f2937\;'>← 3 m/s</td><td style=
+ 111827\;'>03:00</td><td style='padding:6px 8px\;color:#1f2937\;'>17&deg\;C
+ </td><td style='padding:6px 8px\;color:#1f2937\;'>↙ 3 m/s</td><td style=
  'padding:6px 8px\;color:#6b7280\;'>☀️ 0.0 mm</td></tr><tr style='borde
  r-bottom:1px solid #e5e7eb\;background-color:#ffffff\;'><td style='padding
  :6px 8px\;font-weight:600\;color:#111827\;'>04:00</td><td style='padding:6
@@ -364,65 +214,65 @@ X-ALT-DESC;FMTTYPE=text/html:<div style="font-family:'Segoe UI'\,Arial\,sa
  1f2937\;'>↙ 3 m/s</td><td style='padding:6px 8px\;color:#6b7280\;'>☀
  ️ 0.0 mm</td></tr><tr style='border-bottom:1px solid #e5e7eb\;background
  -color:#f8fafc\;'><td style='padding:6px 8px\;font-weight:600\;color:#1118
- 27\;'>05:00</td><td style='padding:6px 8px\;color:#1f2937\;'>17&deg\;C</td
+ 27\;'>05:00</td><td style='padding:6px 8px\;color:#1f2937\;'>16&deg\;C</td
  ><td style='padding:6px 8px\;color:#1f2937\;'>↙ 2 m/s</td><td style='pad
  ding:6px 8px\;color:#6b7280\;'>☀️ 0.0 mm</td></tr><tr style='border-bo
  ttom:1px solid #e5e7eb\;background-color:#ffffff\;'><td style='padding:6px
   8px\;font-weight:600\;color:#111827\;'>06:00</td><td style='padding:6px 8
- px\;color:#1f2937\;'>17&deg\;C</td><td style='padding:6px 8px\;color:#1f29
+ px\;color:#1f2937\;'>16&deg\;C</td><td style='padding:6px 8px\;color:#1f29
  37\;'>↙ 2 m/s</td><td style='padding:6px 8px\;color:#6b7280\;'>☀️ 0.
  0 mm</td></tr><tr style='border-bottom:1px solid #e5e7eb\;background-color
  :#f8fafc\;'><td style='padding:6px 8px\;font-weight:600\;color:#111827\;'>
  07:00</td><td style='padding:6px 8px\;color:#1f2937\;'>16&deg\;C</td><td s
- tyle='padding:6px 8px\;color:#1f2937\;'>↙ 2 m/s</td><td style='padding:6
+ tyle='padding:6px 8px\;color:#1f2937\;'>↙ 3 m/s</td><td style='padding:6
  px 8px\;color:#6b7280\;'>☀️ 0.0 mm</td></tr><tr style='border-bottom:1
  px solid #e5e7eb\;background-color:#ffffff\;'><td style='padding:6px 8px\;
  font-weight:600\;color:#111827\;'>08:00</td><td style='padding:6px 8px\;co
- lor:#1f2937\;'>17&deg\;C</td><td style='padding:6px 8px\;color:#1f2937\;'>
+ lor:#1f2937\;'>16&deg\;C</td><td style='padding:6px 8px\;color:#1f2937\;'>
  ↙ 2 m/s</td><td style='padding:6px 8px\;color:#6b7280\;'>☀️ 0.0 mm</
  td></tr><tr style='border-bottom:1px solid #e5e7eb\;background-color:#f8fa
  fc\;'><td style='padding:6px 8px\;font-weight:600\;color:#111827\;'>09:00<
  /td><td style='padding:6px 8px\;color:#1f2937\;'>18&deg\;C</td><td style='
- padding:6px 8px\;color:#1f2937\;'>↙ 1 m/s</td><td style='padding:6px 8px
+ padding:6px 8px\;color:#1f2937\;'>↙ 2 m/s</td><td style='padding:6px 8px
  \;color:#6b7280\;'>☀️ 0.0 mm</td></tr><tr style='border-bottom:1px sol
  id #e5e7eb\;background-color:#ffffff\;'><td style='padding:6px 8px\;font-w
  eight:600\;color:#111827\;'>10:00</td><td style='padding:6px 8px\;color:#1
- f2937\;'>20&deg\;C</td><td style='padding:6px 8px\;color:#1f2937\;'>↓ 1 
+ f2937\;'>20&deg\;C</td><td style='padding:6px 8px\;color:#1f2937\;'>↙ 1 
  m/s</td><td style='padding:6px 8px\;color:#6b7280\;'>☀️ 0.0 mm</td></t
  r><tr style='border-bottom:1px solid #e5e7eb\;background-color:#f8fafc\;'>
  <td style='padding:6px 8px\;font-weight:600\;color:#111827\;'>11:00</td><t
- d style='padding:6px 8px\;color:#1f2937\;'>21&deg\;C</td><td style='paddin
+ d style='padding:6px 8px\;color:#1f2937\;'>22&deg\;C</td><td style='paddin
  g:6px 8px\;color:#1f2937\;'>↙ 2 m/s</td><td style='padding:6px 8px\;colo
  r:#6b7280\;'>☀️ 0.0 mm</td></tr><tr style='border-bottom:1px solid #e5
  e7eb\;background-color:#ffffff\;'><td style='padding:6px 8px\;font-weight:
  600\;color:#111827\;'>12:00</td><td style='padding:6px 8px\;color:#1f2937\
- ;'>23&deg\;C</td><td style='padding:6px 8px\;color:#1f2937\;'>↙ 2 m/s</t
+ ;'>23&deg\;C</td><td style='padding:6px 8px\;color:#1f2937\;'>↙ 3 m/s</t
  d><td style='padding:6px 8px\;color:#6b7280\;'>☀️ 0.0 mm</td></tr><tr 
  style='border-bottom:1px solid #e5e7eb\;background-color:#f8fafc\;'><td st
  yle='padding:6px 8px\;font-weight:600\;color:#111827\;'>13:00</td><td styl
  e='padding:6px 8px\;color:#1f2937\;'>24&deg\;C</td><td style='padding:6px 
- 8px\;color:#1f2937\;'>↙ 2 m/s</td><td style='padding:6px 8px\;color:#6b7
+ 8px\;color:#1f2937\;'>↙ 3 m/s</td><td style='padding:6px 8px\;color:#6b7
  280\;'>☀️ 0.0 mm</td></tr><tr style='border-bottom:1px solid #e5e7eb\;
  background-color:#ffffff\;'><td style='padding:6px 8px\;font-weight:600\;c
- olor:#111827\;'>14:00</td><td style='padding:6px 8px\;color:#1f2937\;'>24&
+ olor:#111827\;'>14:00</td><td style='padding:6px 8px\;color:#1f2937\;'>25&
  deg\;C</td><td style='padding:6px 8px\;color:#1f2937\;'>↙ 3 m/s</td><td 
  style='padding:6px 8px\;color:#6b7280\;'>☀️ 0.0 mm</td></tr><tr style=
  'border-bottom:1px solid #e5e7eb\;background-color:#f8fafc\;'><td style='p
  adding:6px 8px\;font-weight:600\;color:#111827\;'>15:00</td><td style='pad
  ding:6px 8px\;color:#1f2937\;'>25&deg\;C</td><td style='padding:6px 8px\;c
- olor:#1f2937\;'>↙ 3 m/s</td><td style='padding:6px 8px\;color:#6b7280\;'
+ olor:#1f2937\;'>↙ 4 m/s</td><td style='padding:6px 8px\;color:#6b7280\;'
  >☀️ 0.0 mm</td></tr><tr style='border-bottom:1px solid #e5e7eb\;backgr
  ound-color:#ffffff\;'><td style='padding:6px 8px\;font-weight:600\;color:#
- 111827\;'>16:00</td><td style='padding:6px 8px\;color:#1f2937\;'>25&deg\;C
+ 111827\;'>16:00</td><td style='padding:6px 8px\;color:#1f2937\;'>26&deg\;C
  </td><td style='padding:6px 8px\;color:#1f2937\;'>↙ 3 m/s</td><td style=
  'padding:6px 8px\;color:#6b7280\;'>☀️ 0.0 mm</td></tr><tr style='borde
  r-bottom:1px solid #e5e7eb\;background-color:#f8fafc\;'><td style='padding
  :6px 8px\;font-weight:600\;color:#111827\;'>17:00</td><td style='padding:6
- px 8px\;color:#1f2937\;'>25&deg\;C</td><td style='padding:6px 8px\;color:#
+ px 8px\;color:#1f2937\;'>26&deg\;C</td><td style='padding:6px 8px\;color:#
  1f2937\;'>↙ 3 m/s</td><td style='padding:6px 8px\;color:#6b7280\;'>☀
  ️ 0.0 mm</td></tr><tr style='border-bottom:1px solid #e5e7eb\;background
  -color:#ffffff\;'><td style='padding:6px 8px\;font-weight:600\;color:#1118
- 27\;'>18:00</td><td style='padding:6px 8px\;color:#1f2937\;'>25&deg\;C</td
+ 27\;'>18:00</td><td style='padding:6px 8px\;color:#1f2937\;'>26&deg\;C</td
  ><td style='padding:6px 8px\;color:#1f2937\;'>↙ 3 m/s</td><td style='pad
  ding:6px 8px\;color:#6b7280\;'>☀️ 0.0 mm</td></tr><tr style='border-bo
  ttom:1px solid #e5e7eb\;background-color:#f8fafc\;'><td style='padding:6px
@@ -432,207 +282,207 @@ X-ALT-DESC;FMTTYPE=text/html:<div style="font-family:'Segoe UI'\,Arial\,sa
  0 mm</td></tr><tr style='border-bottom:1px solid #e5e7eb\;background-color
  :#ffffff\;'><td style='padding:6px 8px\;font-weight:600\;color:#111827\;'>
  20:00</td><td style='padding:6px 8px\;color:#1f2937\;'>24&deg\;C</td><td s
- tyle='padding:6px 8px\;color:#1f2937\;'>↙ 3 m/s</td><td style='padding:6
+ tyle='padding:6px 8px\;color:#1f2937\;'>↙ 2 m/s</td><td style='padding:6
  px 8px\;color:#6b7280\;'>☀️ 0.0 mm</td></tr><tr style='border-bottom:1
  px solid #e5e7eb\;background-color:#f8fafc\;'><td style='padding:6px 8px\;
  font-weight:600\;color:#111827\;'>21:00</td><td style='padding:6px 8px\;co
- lor:#1f2937\;'>23&deg\;C</td><td style='padding:6px 8px\;color:#1f2937\;'>
+ lor:#1f2937\;'>24&deg\;C</td><td style='padding:6px 8px\;color:#1f2937\;'>
  ↙ 2 m/s</td><td style='padding:6px 8px\;color:#6b7280\;'>☀️ 0.0 mm</
  td></tr><tr style='border-bottom:1px solid #e5e7eb\;background-color:#ffff
  ff\;'><td style='padding:6px 8px\;font-weight:600\;color:#111827\;'>22:00<
- /td><td style='padding:6px 8px\;color:#1f2937\;'>22&deg\;C</td><td style='
- padding:6px 8px\;color:#1f2937\;'>↑ 2 m/s</td><td style='padding:6px 8px
+ /td><td style='padding:6px 8px\;color:#1f2937\;'>23&deg\;C</td><td style='
+ padding:6px 8px\;color:#1f2937\;'>↓ 2 m/s</td><td style='padding:6px 8px
  \;color:#6b7280\;'>☀️ 0.0 mm</td></tr><tr style='border-bottom:1px sol
  id #e5e7eb\;background-color:#f8fafc\;'><td style='padding:6px 8px\;font-w
  eight:600\;color:#111827\;'>23:00</td><td style='padding:6px 8px\;color:#1
- f2937\;'>21&deg\;C</td><td style='padding:6px 8px\;color:#1f2937\;'>↑ 2 
+ f2937\;'>22&deg\;C</td><td style='padding:6px 8px\;color:#1f2937\;'>↓ 2 
  m/s</td><td style='padding:6px 8px\;color:#6b7280\;'>☀️ 0.0 mm</td></t
  r></tbody></table><div style="margin-top:10px\;color:#6b7280\;font-size:12
- px\;">Updated at: 2026-05-30 21:04:22 CEST</div><div style="margin-top:4px
+ px\;">Updated at: 2026-05-31 10:38:45 CEST</div><div style="margin-top:4px
  \;color:#6b7280\;font-size:12px\;">Data source: Open-Meteo (https://open-m
  eteo.com/)</div></div>
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🌡️ 15–23°C | 🌧️ 10.8mm
+SUMMARY:🌡️ 15–24°C | 🌧️ 4.6mm
 DTSTART;VALUE=DATE:20260602
 UID:leuven-weather-20260602@myscript
 DESCRIPTION:Leuven\, Belgium Weather Forecast (hourly details): 2026-06-02
- \n00:00  | 🌡️ 21°C  | 💨 ↑ 2 m/s  | ☀️ 0.0 mm\n01:00  | 🌡
- ️ 20°C  | 💨 ↗ 2 m/s  | ☀️ 0.0 mm\n02:00  | 🌡️ 20°C  | 
- 💨 ↗ 2 m/s  | ☀️ 0.0 mm\n03:00  | 🌡️ 19°C  | 💨 → 2 m/s 
-  | ☀️ 0.0 mm\n04:00  | 🌡️ 18°C  | 💨 → 2 m/s  | ☀️ 0.0 m
- m\n05:00  | 🌡️ 17°C  | 💨 ↘ 2 m/s  | ☀️ 0.0 mm\n06:00  | 
- 🌡️ 16°C  | 💨 ↓ 2 m/s  | ☀️ 0.0 mm\n07:00  | 🌡️ 16°C  
- | 💨 ↓ 3 m/s  | ☀️ 0.0 mm\n08:00  | 🌡️ 18°C  | 💨 ↓ 3 m/
- s  | ☀️ 0.0 mm\n09:00  | 🌡️ 19°C  | 💨 ↓ 4 m/s  | ☀️ 0.0
-  mm\n10:00  | 🌡️ 20°C  | 💨 ↓ 3 m/s  | ☀️ 0.0 mm\n11:00  | 
- 🌡️ 22°C  | 💨 ↓ 2 m/s  | ☀️ 0.0 mm\n12:00  | 🌡️ 23°C  
- | 💨 ↓ 2 m/s  | ☀️ 0.0 mm\n13:00  | 🌡️ 19°C  | 💨 ↙ 6 m/
- s  | 🌧️ 2.4 mm\n14:00  | 🌡️ 19°C  | 💨 ↓ 1 m/s  | 🌧️ 1
- .1 mm\n15:00  | 🌡️ 19°C  | 💨 ↑ 0 m/s  | 🌧️ 2.9 mm\n16:00  
- | 🌡️ 19°C  | 💨 ↓ 2 m/s  | 🌧️ 1.1 mm\n17:00  | 🌡️ 21°
- C  | 💨 ↙ 2 m/s  | 🌧️ 0.1 mm\n18:00  | 🌡️ 22°C  | 💨 ↙ 
- 3 m/s  | ☀️ 0.0 mm\n19:00  | 🌡️ 16°C  | 💨 ← 5 m/s  | 🌧
- ️ 0.9 mm\n20:00  | 🌡️ 16°C  | 💨 ← 4 m/s  | 🌧️ 1.1 mm\n21
- :00  | 🌡️ 15°C  | 💨 ← 3 m/s  | 🌧️ 1.1 mm\n22:00  | 🌡️
-  15°C  | 💨 ← 3 m/s  | ☀️ 0.0 mm\n23:00  | 🌡️ 15°C  | 💨 
- ↙ 3 m/s  | 🌧️ 0.1 mm\n\nUpdated at: 2026-05-30 21:04:22 CEST\n\nDat
- a source: Open-Meteo (https://open-meteo.com/)
+ \n00:00  | 🌡️ 21°C  | 💨 ↓ 3 m/s  | ☀️ 0.0 mm\n01:00  | 🌡
+ ️ 21°C  | 💨 ↓ 3 m/s  | ☀️ 0.0 mm\n02:00  | 🌡️ 21°C  | 
+ 💨 ↓ 3 m/s  | ☀️ 0.0 mm\n03:00  | 🌡️ 20°C  | 💨 ↓ 3 m/s 
+  | ☀️ 0.0 mm\n04:00  | 🌡️ 20°C  | 💨 ↓ 3 m/s  | ☀️ 0.0 m
+ m\n05:00  | 🌡️ 20°C  | 💨 ↓ 3 m/s  | ☀️ 0.0 mm\n06:00  | 
+ 🌡️ 20°C  | 💨 ↓ 3 m/s  | ☀️ 0.0 mm\n07:00  | 🌡️ 20°C  
+ | 💨 ↓ 2 m/s  | ☀️ 0.0 mm\n08:00  | 🌡️ 20°C  | 💨 ↘ 2 m/
+ s  | ☀️ 0.0 mm\n09:00  | 🌡️ 20°C  | 💨 ↓ 5 m/s  | 🌧️ 0.
+ 2 mm\n10:00  | 🌡️ 19°C  | 💨 ↘ 3 m/s  | ☀️ 0.0 mm\n11:00  | 
+ 🌡️ 21°C  | 💨 ↘ 4 m/s  | ☀️ 0.0 mm\n12:00  | 🌡️ 23°C  
+ | 💨 ↓ 4 m/s  | ☀️ 0.0 mm\n13:00  | 🌡️ 24°C  | 💨 ↓ 5 m/
+ s  | ☀️ 0.0 mm\n14:00  | 🌡️ 23°C  | 💨 ↙ 5 m/s  | ☀️ 0.0
+  mm\n15:00  | 🌡️ 22°C  | 💨 ↙ 4 m/s  | ☀️ 0.0 mm\n16:00  | 
+ 🌡️ 17°C  | 💨 ← 7 m/s  | 🌧️ 2.5 mm\n17:00  | 🌡️ 16°C 
+  | 💨 ↙ 4 m/s  | 🌧️ 1.3 mm\n18:00  | 🌡️ 17°C  | 💨 ↙ 3 
+ m/s  | 🌧️ 0.2 mm\n19:00  | 🌡️ 17°C  | 💨 ↙ 4 m/s  | 🌧️
+  0.3 mm\n20:00  | 🌡️ 17°C  | 💨 ↙ 4 m/s  | ☀️ 0.0 mm\n21:00 
+  | 🌡️ 16°C  | 💨 ↙ 4 m/s  | 🌧️ 0.1 mm\n22:00  | 🌡️ 16
+ °C  | 💨 ↙ 4 m/s  | ☀️ 0.0 mm\n23:00  | 🌡️ 15°C  | 💨 ↙
+  5 m/s  | ☀️ 0.0 mm\n\nUpdated at: 2026-05-31 10:38:45 CEST\n\nData so
+ urce: Open-Meteo (https://open-meteo.com/)
 X-ALT-DESC;FMTTYPE=text/html:<div style="font-family:'Segoe UI'\,Arial\,sa
  ns-serif\;font-size:13px\;color:#111827\;"><div style="font-size:14px\;fon
  t-weight:700\;margin-bottom:8px\;">Leuven\, Belgium Weather Forecast - 202
  6-06-02</div><div style="margin-bottom:10px\;color:#374151\;"><span style=
- "margin-right:12px\;">🌡️ 15 to 23&deg\;C</span><span>🌧️ 10.8 mm 
- total</span></div><table style="border-collapse:collapse\;width:100%\;max-
- width:560px\;border:1px solid #e5e7eb\;border-radius:6px\;overflow:hidden\
- ;"><thead><tr style="background-color:#eef2ff\;color:#1f2937\;"><th align=
- "left" style="padding:7px 8px\;font-weight:700\;">Time</th><th align="left
- " style="padding:7px 8px\;font-weight:700\;">Temperature</th><th align="le
- ft" style="padding:7px 8px\;font-weight:700\;">Wind</th><th align="left" s
- tyle="padding:7px 8px\;font-weight:700\;">Rain</th></tr></thead><tbody><tr
-  style='border-bottom:1px solid #e5e7eb\;background-color:#ffffff\;'><td s
- tyle='padding:6px 8px\;font-weight:600\;color:#111827\;'>00:00</td><td sty
- le='padding:6px 8px\;color:#1f2937\;'>21&deg\;C</td><td style='padding:6px
-  8px\;color:#1f2937\;'>↑ 2 m/s</td><td style='padding:6px 8px\;color:#6b
- 7280\;'>☀️ 0.0 mm</td></tr><tr style='border-bottom:1px solid #e5e7eb\
- ;background-color:#f8fafc\;'><td style='padding:6px 8px\;font-weight:600\;
- color:#111827\;'>01:00</td><td style='padding:6px 8px\;color:#1f2937\;'>20
- &deg\;C</td><td style='padding:6px 8px\;color:#1f2937\;'>↗ 2 m/s</td><td
-  style='padding:6px 8px\;color:#6b7280\;'>☀️ 0.0 mm</td></tr><tr style
- ='border-bottom:1px solid #e5e7eb\;background-color:#ffffff\;'><td style='
- padding:6px 8px\;font-weight:600\;color:#111827\;'>02:00</td><td style='pa
- dding:6px 8px\;color:#1f2937\;'>20&deg\;C</td><td style='padding:6px 8px\;
- color:#1f2937\;'>↗ 2 m/s</td><td style='padding:6px 8px\;color:#6b7280\;
- '>☀️ 0.0 mm</td></tr><tr style='border-bottom:1px solid #e5e7eb\;backg
- round-color:#f8fafc\;'><td style='padding:6px 8px\;font-weight:600\;color:
- #111827\;'>03:00</td><td style='padding:6px 8px\;color:#1f2937\;'>19&deg\;
- C</td><td style='padding:6px 8px\;color:#1f2937\;'>→ 2 m/s</td><td style
- ='padding:6px 8px\;color:#6b7280\;'>☀️ 0.0 mm</td></tr><tr style='bord
- er-bottom:1px solid #e5e7eb\;background-color:#ffffff\;'><td style='paddin
- g:6px 8px\;font-weight:600\;color:#111827\;'>04:00</td><td style='padding:
- 6px 8px\;color:#1f2937\;'>18&deg\;C</td><td style='padding:6px 8px\;color:
- #1f2937\;'>→ 2 m/s</td><td style='padding:6px 8px\;color:#6b7280\;'>☀
+ "margin-right:12px\;">🌡️ 15 to 24&deg\;C</span><span>🌧️ 4.6 mm t
+ otal</span></div><table style="border-collapse:collapse\;width:100%\;max-w
+ idth:560px\;border:1px solid #e5e7eb\;border-radius:6px\;overflow:hidden\;
+ "><thead><tr style="background-color:#eef2ff\;color:#1f2937\;"><th align="
+ left" style="padding:7px 8px\;font-weight:700\;">Time</th><th align="left"
+  style="padding:7px 8px\;font-weight:700\;">Temperature</th><th align="lef
+ t" style="padding:7px 8px\;font-weight:700\;">Wind</th><th align="left" st
+ yle="padding:7px 8px\;font-weight:700\;">Rain</th></tr></thead><tbody><tr 
+ style='border-bottom:1px solid #e5e7eb\;background-color:#ffffff\;'><td st
+ yle='padding:6px 8px\;font-weight:600\;color:#111827\;'>00:00</td><td styl
+ e='padding:6px 8px\;color:#1f2937\;'>21&deg\;C</td><td style='padding:6px 
+ 8px\;color:#1f2937\;'>↓ 3 m/s</td><td style='padding:6px 8px\;color:#6b7
+ 280\;'>☀️ 0.0 mm</td></tr><tr style='border-bottom:1px solid #e5e7eb\;
+ background-color:#f8fafc\;'><td style='padding:6px 8px\;font-weight:600\;c
+ olor:#111827\;'>01:00</td><td style='padding:6px 8px\;color:#1f2937\;'>21&
+ deg\;C</td><td style='padding:6px 8px\;color:#1f2937\;'>↓ 3 m/s</td><td 
+ style='padding:6px 8px\;color:#6b7280\;'>☀️ 0.0 mm</td></tr><tr style=
+ 'border-bottom:1px solid #e5e7eb\;background-color:#ffffff\;'><td style='p
+ adding:6px 8px\;font-weight:600\;color:#111827\;'>02:00</td><td style='pad
+ ding:6px 8px\;color:#1f2937\;'>21&deg\;C</td><td style='padding:6px 8px\;c
+ olor:#1f2937\;'>↓ 3 m/s</td><td style='padding:6px 8px\;color:#6b7280\;'
+ >☀️ 0.0 mm</td></tr><tr style='border-bottom:1px solid #e5e7eb\;backgr
+ ound-color:#f8fafc\;'><td style='padding:6px 8px\;font-weight:600\;color:#
+ 111827\;'>03:00</td><td style='padding:6px 8px\;color:#1f2937\;'>20&deg\;C
+ </td><td style='padding:6px 8px\;color:#1f2937\;'>↓ 3 m/s</td><td style=
+ 'padding:6px 8px\;color:#6b7280\;'>☀️ 0.0 mm</td></tr><tr style='borde
+ r-bottom:1px solid #e5e7eb\;background-color:#ffffff\;'><td style='padding
+ :6px 8px\;font-weight:600\;color:#111827\;'>04:00</td><td style='padding:6
+ px 8px\;color:#1f2937\;'>20&deg\;C</td><td style='padding:6px 8px\;color:#
+ 1f2937\;'>↓ 3 m/s</td><td style='padding:6px 8px\;color:#6b7280\;'>☀
  ️ 0.0 mm</td></tr><tr style='border-bottom:1px solid #e5e7eb\;background
  -color:#f8fafc\;'><td style='padding:6px 8px\;font-weight:600\;color:#1118
- 27\;'>05:00</td><td style='padding:6px 8px\;color:#1f2937\;'>17&deg\;C</td
- ><td style='padding:6px 8px\;color:#1f2937\;'>↘ 2 m/s</td><td style='pad
+ 27\;'>05:00</td><td style='padding:6px 8px\;color:#1f2937\;'>20&deg\;C</td
+ ><td style='padding:6px 8px\;color:#1f2937\;'>↓ 3 m/s</td><td style='pad
  ding:6px 8px\;color:#6b7280\;'>☀️ 0.0 mm</td></tr><tr style='border-bo
  ttom:1px solid #e5e7eb\;background-color:#ffffff\;'><td style='padding:6px
   8px\;font-weight:600\;color:#111827\;'>06:00</td><td style='padding:6px 8
- px\;color:#1f2937\;'>16&deg\;C</td><td style='padding:6px 8px\;color:#1f29
- 37\;'>↓ 2 m/s</td><td style='padding:6px 8px\;color:#6b7280\;'>☀️ 0.
+ px\;color:#1f2937\;'>20&deg\;C</td><td style='padding:6px 8px\;color:#1f29
+ 37\;'>↓ 3 m/s</td><td style='padding:6px 8px\;color:#6b7280\;'>☀️ 0.
  0 mm</td></tr><tr style='border-bottom:1px solid #e5e7eb\;background-color
  :#f8fafc\;'><td style='padding:6px 8px\;font-weight:600\;color:#111827\;'>
- 07:00</td><td style='padding:6px 8px\;color:#1f2937\;'>16&deg\;C</td><td s
- tyle='padding:6px 8px\;color:#1f2937\;'>↓ 3 m/s</td><td style='padding:6
+ 07:00</td><td style='padding:6px 8px\;color:#1f2937\;'>20&deg\;C</td><td s
+ tyle='padding:6px 8px\;color:#1f2937\;'>↓ 2 m/s</td><td style='padding:6
  px 8px\;color:#6b7280\;'>☀️ 0.0 mm</td></tr><tr style='border-bottom:1
  px solid #e5e7eb\;background-color:#ffffff\;'><td style='padding:6px 8px\;
  font-weight:600\;color:#111827\;'>08:00</td><td style='padding:6px 8px\;co
- lor:#1f2937\;'>18&deg\;C</td><td style='padding:6px 8px\;color:#1f2937\;'>
- ↓ 3 m/s</td><td style='padding:6px 8px\;color:#6b7280\;'>☀️ 0.0 mm</
+ lor:#1f2937\;'>20&deg\;C</td><td style='padding:6px 8px\;color:#1f2937\;'>
+ ↘ 2 m/s</td><td style='padding:6px 8px\;color:#6b7280\;'>☀️ 0.0 mm</
  td></tr><tr style='border-bottom:1px solid #e5e7eb\;background-color:#f8fa
  fc\;'><td style='padding:6px 8px\;font-weight:600\;color:#111827\;'>09:00<
- /td><td style='padding:6px 8px\;color:#1f2937\;'>19&deg\;C</td><td style='
- padding:6px 8px\;color:#1f2937\;'>↓ 4 m/s</td><td style='padding:6px 8px
- \;color:#6b7280\;'>☀️ 0.0 mm</td></tr><tr style='border-bottom:1px sol
- id #e5e7eb\;background-color:#ffffff\;'><td style='padding:6px 8px\;font-w
- eight:600\;color:#111827\;'>10:00</td><td style='padding:6px 8px\;color:#1
- f2937\;'>20&deg\;C</td><td style='padding:6px 8px\;color:#1f2937\;'>↓ 3 
- m/s</td><td style='padding:6px 8px\;color:#6b7280\;'>☀️ 0.0 mm</td></t
- r><tr style='border-bottom:1px solid #e5e7eb\;background-color:#f8fafc\;'>
- <td style='padding:6px 8px\;font-weight:600\;color:#111827\;'>11:00</td><t
- d style='padding:6px 8px\;color:#1f2937\;'>22&deg\;C</td><td style='paddin
- g:6px 8px\;color:#1f2937\;'>↓ 2 m/s</td><td style='padding:6px 8px\;colo
- r:#6b7280\;'>☀️ 0.0 mm</td></tr><tr style='border-bottom:1px solid #e5
- e7eb\;background-color:#ffffff\;'><td style='padding:6px 8px\;font-weight:
- 600\;color:#111827\;'>12:00</td><td style='padding:6px 8px\;color:#1f2937\
- ;'>23&deg\;C</td><td style='padding:6px 8px\;color:#1f2937\;'>↓ 2 m/s</t
- d><td style='padding:6px 8px\;color:#6b7280\;'>☀️ 0.0 mm</td></tr><tr 
- style='border-bottom:1px solid #e5e7eb\;background-color:#f8fafc\;'><td st
- yle='padding:6px 8px\;font-weight:600\;color:#111827\;'>13:00</td><td styl
- e='padding:6px 8px\;color:#1f2937\;'>19&deg\;C</td><td style='padding:6px 
- 8px\;color:#1f2937\;'>↙ 6 m/s</td><td style='padding:6px 8px\;color:#036
- 9a1\;'>🌧️ 2.4 mm</td></tr><tr style='border-bottom:1px solid #e5e7eb\
+ /td><td style='padding:6px 8px\;color:#1f2937\;'>20&deg\;C</td><td style='
+ padding:6px 8px\;color:#1f2937\;'>↓ 5 m/s</td><td style='padding:6px 8px
+ \;color:#0369a1\;'>🌧️ 0.2 mm</td></tr><tr style='border-bottom:1px so
+ lid #e5e7eb\;background-color:#ffffff\;'><td style='padding:6px 8px\;font-
+ weight:600\;color:#111827\;'>10:00</td><td style='padding:6px 8px\;color:#
+ 1f2937\;'>19&deg\;C</td><td style='padding:6px 8px\;color:#1f2937\;'>↘ 3
+  m/s</td><td style='padding:6px 8px\;color:#6b7280\;'>☀️ 0.0 mm</td></
+ tr><tr style='border-bottom:1px solid #e5e7eb\;background-color:#f8fafc\;'
+ ><td style='padding:6px 8px\;font-weight:600\;color:#111827\;'>11:00</td><
+ td style='padding:6px 8px\;color:#1f2937\;'>21&deg\;C</td><td style='paddi
+ ng:6px 8px\;color:#1f2937\;'>↘ 4 m/s</td><td style='padding:6px 8px\;col
+ or:#6b7280\;'>☀️ 0.0 mm</td></tr><tr style='border-bottom:1px solid #e
+ 5e7eb\;background-color:#ffffff\;'><td style='padding:6px 8px\;font-weight
+ :600\;color:#111827\;'>12:00</td><td style='padding:6px 8px\;color:#1f2937
+ \;'>23&deg\;C</td><td style='padding:6px 8px\;color:#1f2937\;'>↓ 4 m/s</
+ td><td style='padding:6px 8px\;color:#6b7280\;'>☀️ 0.0 mm</td></tr><tr
+  style='border-bottom:1px solid #e5e7eb\;background-color:#f8fafc\;'><td s
+ tyle='padding:6px 8px\;font-weight:600\;color:#111827\;'>13:00</td><td sty
+ le='padding:6px 8px\;color:#1f2937\;'>24&deg\;C</td><td style='padding:6px
+  8px\;color:#1f2937\;'>↓ 5 m/s</td><td style='padding:6px 8px\;color:#6b
+ 7280\;'>☀️ 0.0 mm</td></tr><tr style='border-bottom:1px solid #e5e7eb\
  ;background-color:#ffffff\;'><td style='padding:6px 8px\;font-weight:600\;
- color:#111827\;'>14:00</td><td style='padding:6px 8px\;color:#1f2937\;'>19
- &deg\;C</td><td style='padding:6px 8px\;color:#1f2937\;'>↓ 1 m/s</td><td
-  style='padding:6px 8px\;color:#0369a1\;'>🌧️ 1.1 mm</td></tr><tr styl
- e='border-bottom:1px solid #e5e7eb\;background-color:#f8fafc\;'><td style=
- 'padding:6px 8px\;font-weight:600\;color:#111827\;'>15:00</td><td style='p
- adding:6px 8px\;color:#1f2937\;'>19&deg\;C</td><td style='padding:6px 8px\
- ;color:#1f2937\;'>↑ 0 m/s</td><td style='padding:6px 8px\;color:#0369a1\
- ;'>🌧️ 2.9 mm</td></tr><tr style='border-bottom:1px solid #e5e7eb\;bac
- kground-color:#ffffff\;'><td style='padding:6px 8px\;font-weight:600\;colo
- r:#111827\;'>16:00</td><td style='padding:6px 8px\;color:#1f2937\;'>19&deg
- \;C</td><td style='padding:6px 8px\;color:#1f2937\;'>↓ 2 m/s</td><td sty
- le='padding:6px 8px\;color:#0369a1\;'>🌧️ 1.1 mm</td></tr><tr style='b
- order-bottom:1px solid #e5e7eb\;background-color:#f8fafc\;'><td style='pad
- ding:6px 8px\;font-weight:600\;color:#111827\;'>17:00</td><td style='paddi
- ng:6px 8px\;color:#1f2937\;'>21&deg\;C</td><td style='padding:6px 8px\;col
- or:#1f2937\;'>↙ 2 m/s</td><td style='padding:6px 8px\;color:#0369a1\;'>
- 🌧️ 0.1 mm</td></tr><tr style='border-bottom:1px solid #e5e7eb\;backgr
+ color:#111827\;'>14:00</td><td style='padding:6px 8px\;color:#1f2937\;'>23
+ &deg\;C</td><td style='padding:6px 8px\;color:#1f2937\;'>↙ 5 m/s</td><td
+  style='padding:6px 8px\;color:#6b7280\;'>☀️ 0.0 mm</td></tr><tr style
+ ='border-bottom:1px solid #e5e7eb\;background-color:#f8fafc\;'><td style='
+ padding:6px 8px\;font-weight:600\;color:#111827\;'>15:00</td><td style='pa
+ dding:6px 8px\;color:#1f2937\;'>22&deg\;C</td><td style='padding:6px 8px\;
+ color:#1f2937\;'>↙ 4 m/s</td><td style='padding:6px 8px\;color:#6b7280\;
+ '>☀️ 0.0 mm</td></tr><tr style='border-bottom:1px solid #e5e7eb\;backg
+ round-color:#ffffff\;'><td style='padding:6px 8px\;font-weight:600\;color:
+ #111827\;'>16:00</td><td style='padding:6px 8px\;color:#1f2937\;'>17&deg\;
+ C</td><td style='padding:6px 8px\;color:#1f2937\;'>← 7 m/s</td><td style
+ ='padding:6px 8px\;color:#0369a1\;'>🌧️ 2.5 mm</td></tr><tr style='bor
+ der-bottom:1px solid #e5e7eb\;background-color:#f8fafc\;'><td style='paddi
+ ng:6px 8px\;font-weight:600\;color:#111827\;'>17:00</td><td style='padding
+ :6px 8px\;color:#1f2937\;'>16&deg\;C</td><td style='padding:6px 8px\;color
+ :#1f2937\;'>↙ 4 m/s</td><td style='padding:6px 8px\;color:#0369a1\;'>
+ 🌧️ 1.3 mm</td></tr><tr style='border-bottom:1px solid #e5e7eb\;backgr
  ound-color:#ffffff\;'><td style='padding:6px 8px\;font-weight:600\;color:#
- 111827\;'>18:00</td><td style='padding:6px 8px\;color:#1f2937\;'>22&deg\;C
+ 111827\;'>18:00</td><td style='padding:6px 8px\;color:#1f2937\;'>17&deg\;C
  </td><td style='padding:6px 8px\;color:#1f2937\;'>↙ 3 m/s</td><td style=
- 'padding:6px 8px\;color:#6b7280\;'>☀️ 0.0 mm</td></tr><tr style='borde
- r-bottom:1px solid #e5e7eb\;background-color:#f8fafc\;'><td style='padding
- :6px 8px\;font-weight:600\;color:#111827\;'>19:00</td><td style='padding:6
- px 8px\;color:#1f2937\;'>16&deg\;C</td><td style='padding:6px 8px\;color:#
- 1f2937\;'>← 5 m/s</td><td style='padding:6px 8px\;color:#0369a1\;'>🌧
- ️ 0.9 mm</td></tr><tr style='border-bottom:1px solid #e5e7eb\;background
+ 'padding:6px 8px\;color:#0369a1\;'>🌧️ 0.2 mm</td></tr><tr style='bord
+ er-bottom:1px solid #e5e7eb\;background-color:#f8fafc\;'><td style='paddin
+ g:6px 8px\;font-weight:600\;color:#111827\;'>19:00</td><td style='padding:
+ 6px 8px\;color:#1f2937\;'>17&deg\;C</td><td style='padding:6px 8px\;color:
+ #1f2937\;'>↙ 4 m/s</td><td style='padding:6px 8px\;color:#0369a1\;'>🌧
+ ️ 0.3 mm</td></tr><tr style='border-bottom:1px solid #e5e7eb\;background
  -color:#ffffff\;'><td style='padding:6px 8px\;font-weight:600\;color:#1118
- 27\;'>20:00</td><td style='padding:6px 8px\;color:#1f2937\;'>16&deg\;C</td
- ><td style='padding:6px 8px\;color:#1f2937\;'>← 4 m/s</td><td style='pad
- ding:6px 8px\;color:#0369a1\;'>🌧️ 1.1 mm</td></tr><tr style='border-b
- ottom:1px solid #e5e7eb\;background-color:#f8fafc\;'><td style='padding:6p
- x 8px\;font-weight:600\;color:#111827\;'>21:00</td><td style='padding:6px 
- 8px\;color:#1f2937\;'>15&deg\;C</td><td style='padding:6px 8px\;color:#1f2
- 937\;'>← 3 m/s</td><td style='padding:6px 8px\;color:#0369a1\;'>🌧️ 
- 1.1 mm</td></tr><tr style='border-bottom:1px solid #e5e7eb\;background-col
- or:#ffffff\;'><td style='padding:6px 8px\;font-weight:600\;color:#111827\;
- '>22:00</td><td style='padding:6px 8px\;color:#1f2937\;'>15&deg\;C</td><td
-  style='padding:6px 8px\;color:#1f2937\;'>← 3 m/s</td><td style='padding
- :6px 8px\;color:#6b7280\;'>☀️ 0.0 mm</td></tr><tr style='border-bottom
- :1px solid #e5e7eb\;background-color:#f8fafc\;'><td style='padding:6px 8px
- \;font-weight:600\;color:#111827\;'>23:00</td><td style='padding:6px 8px\;
- color:#1f2937\;'>15&deg\;C</td><td style='padding:6px 8px\;color:#1f2937\;
- '>↙ 3 m/s</td><td style='padding:6px 8px\;color:#0369a1\;'>🌧️ 0.1 m
- m</td></tr></tbody></table><div style="margin-top:10px\;color:#6b7280\;fon
- t-size:12px\;">Updated at: 2026-05-30 21:04:22 CEST</div><div style="margi
- n-top:4px\;color:#6b7280\;font-size:12px\;">Data source: Open-Meteo (https
- ://open-meteo.com/)</div></div>
+ 27\;'>20:00</td><td style='padding:6px 8px\;color:#1f2937\;'>17&deg\;C</td
+ ><td style='padding:6px 8px\;color:#1f2937\;'>↙ 4 m/s</td><td style='pad
+ ding:6px 8px\;color:#6b7280\;'>☀️ 0.0 mm</td></tr><tr style='border-bo
+ ttom:1px solid #e5e7eb\;background-color:#f8fafc\;'><td style='padding:6px
+  8px\;font-weight:600\;color:#111827\;'>21:00</td><td style='padding:6px 8
+ px\;color:#1f2937\;'>16&deg\;C</td><td style='padding:6px 8px\;color:#1f29
+ 37\;'>↙ 4 m/s</td><td style='padding:6px 8px\;color:#0369a1\;'>🌧️ 0
+ .1 mm</td></tr><tr style='border-bottom:1px solid #e5e7eb\;background-colo
+ r:#ffffff\;'><td style='padding:6px 8px\;font-weight:600\;color:#111827\;'
+ >22:00</td><td style='padding:6px 8px\;color:#1f2937\;'>16&deg\;C</td><td 
+ style='padding:6px 8px\;color:#1f2937\;'>↙ 4 m/s</td><td style='padding:
+ 6px 8px\;color:#6b7280\;'>☀️ 0.0 mm</td></tr><tr style='border-bottom:
+ 1px solid #e5e7eb\;background-color:#f8fafc\;'><td style='padding:6px 8px\
+ ;font-weight:600\;color:#111827\;'>23:00</td><td style='padding:6px 8px\;c
+ olor:#1f2937\;'>15&deg\;C</td><td style='padding:6px 8px\;color:#1f2937\;'
+ >↙ 5 m/s</td><td style='padding:6px 8px\;color:#6b7280\;'>☀️ 0.0 mm<
+ /td></tr></tbody></table><div style="margin-top:10px\;color:#6b7280\;font-
+ size:12px\;">Updated at: 2026-05-31 10:38:45 CEST</div><div style="margin-
+ top:4px\;color:#6b7280\;font-size:12px\;">Data source: Open-Meteo (https:/
+ /open-meteo.com/)</div></div>
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🌡️ 13–22°C | 🌧️ 1.2mm
+SUMMARY:🌡️ 12–19°C | 🌧️ 5.2mm
 DTSTART;VALUE=DATE:20260603
 UID:leuven-weather-20260603@myscript
 DESCRIPTION:Leuven\, Belgium Weather Forecast (hourly details): 2026-06-03
- \n00:00  | 🌡️ 14°C  | 💨 ↙ 4 m/s  | ☀️ 0.0 mm\n01:00  | 🌡
- ️ 14°C  | 💨 ↙ 4 m/s  | ☀️ 0.0 mm\n02:00  | 🌡️ 13°C  | 
- 💨 ↙ 4 m/s  | ☀️ 0.0 mm\n03:00  | 🌡️ 13°C  | 💨 ↙ 4 m/s 
-  | ☀️ 0.0 mm\n04:00  | 🌡️ 13°C  | 💨 ↙ 4 m/s  | ☀️ 0.0 m
- m\n05:00  | 🌡️ 13°C  | 💨 ↙ 4 m/s  | ☀️ 0.0 mm\n06:00  | 
- 🌡️ 13°C  | 💨 ↙ 4 m/s  | ☀️ 0.0 mm\n07:00  | 🌡️ 13°C  
- | 💨 ↙ 4 m/s  | ☀️ 0.0 mm\n08:00  | 🌡️ 14°C  | 💨 ↙ 5 m/
- s  | ☀️ 0.0 mm\n09:00  | 🌡️ 15°C  | 💨 ↙ 5 m/s  | 🌧️ 0.
- 1 mm\n10:00  | 🌡️ 16°C  | 💨 ← 5 m/s  | 🌧️ 0.1 mm\n11:00  |
-  🌡️ 17°C  | 💨 ← 5 m/s  | 🌧️ 0.1 mm\n12:00  | 🌡️ 18°C
-   | 💨 ← 5 m/s  | 🌧️ 0.2 mm\n13:00  | 🌡️ 20°C  | 💨 ← 5
-  m/s  | 🌧️ 0.2 mm\n14:00  | 🌡️ 21°C  | 💨 ← 5 m/s  | 🌧
- ️ 0.2 mm\n15:00  | 🌡️ 21°C  | 💨 ← 5 m/s  | 🌧️ 0.1 mm\n16
- :00  | 🌡️ 22°C  | 💨 ← 6 m/s  | 🌧️ 0.1 mm\n17:00  | 🌡️
-  22°C  | 💨 ← 6 m/s  | 🌧️ 0.1 mm\n18:00  | 🌡️ 21°C  | 💨
-  ← 5 m/s  | ☀️ 0.0 mm\n19:00  | 🌡️ 20°C  | 💨 ← 4 m/s  | 
- ☀️ 0.0 mm\n20:00  | 🌡️ 19°C  | 💨 ↙ 3 m/s  | ☀️ 0.0 mm\n
+ \n00:00  | 🌡️ 14°C  | 💨 ↙ 5 m/s  | ☀️ 0.0 mm\n01:00  | 🌡
+ ️ 14°C  | 💨 ↙ 5 m/s  | ☀️ 0.0 mm\n02:00  | 🌡️ 13°C  | 
+ 💨 ↙ 5 m/s  | 🌧️ 0.5 mm\n03:00  | 🌡️ 13°C  | 💨 ↙ 5 m/s
+   | 🌧️ 0.7 mm\n04:00  | 🌡️ 12°C  | 💨 ↙ 5 m/s  | 🌧️ 0.
+ 6 mm\n05:00  | 🌡️ 12°C  | 💨 ↙ 5 m/s  | 🌧️ 0.7 mm\n06:00  |
+  🌡️ 12°C  | 💨 ↙ 5 m/s  | 🌧️ 1.2 mm\n07:00  | 🌡️ 13°C
+   | 💨 ↙ 5 m/s  | 🌧️ 0.6 mm\n08:00  | 🌡️ 14°C  | 💨 ↙ 5
+  m/s  | 🌧️ 0.1 mm\n09:00  | 🌡️ 15°C  | 💨 ↙ 5 m/s  | ☀️
+  0.0 mm\n10:00  | 🌡️ 16°C  | 💨 ↙ 5 m/s  | 🌧️ 0.2 mm\n11:00
+   | 🌡️ 17°C  | 💨 ← 5 m/s  | ☀️ 0.0 mm\n12:00  | 🌡️ 18
+ °C  | 💨 ← 6 m/s  | ☀️ 0.0 mm\n13:00  | 🌡️ 18°C  | 💨 ←
+  5 m/s  | ☀️ 0.0 mm\n14:00  | 🌡️ 19°C  | 💨 ← 5 m/s  | ☀
+ ️ 0.0 mm\n15:00  | 🌡️ 19°C  | 💨 ← 5 m/s  | 🌧️ 0.2 mm\n16
+ :00  | 🌡️ 19°C  | 💨 ← 5 m/s  | 🌧️ 0.3 mm\n17:00  | 🌡️
+  19°C  | 💨 ← 6 m/s  | 🌧️ 0.1 mm\n18:00  | 🌡️ 19°C  | 💨
+  ← 5 m/s  | ☀️ 0.0 mm\n19:00  | 🌡️ 19°C  | 💨 ← 4 m/s  | 
+ ☀️ 0.0 mm\n20:00  | 🌡️ 18°C  | 💨 ↙ 3 m/s  | ☀️ 0.0 mm\n
  21:00  | 🌡️ 18°C  | 💨 ↙ 3 m/s  | ☀️ 0.0 mm\n22:00  | 🌡
- ️ 18°C  | 💨 ↙ 3 m/s  | ☀️ 0.0 mm\n23:00  | 🌡️ 17°C  | 
- 💨 ↓ 4 m/s  | ☀️ 0.0 mm\n\nUpdated at: 2026-05-30 21:04:22 CEST\n\
+ ️ 17°C  | 💨 ↓ 4 m/s  | ☀️ 0.0 mm\n23:00  | 🌡️ 17°C  | 
+ 💨 ↓ 4 m/s  | ☀️ 0.0 mm\n\nUpdated at: 2026-05-31 10:38:45 CEST\n\
  nData source: Open-Meteo (https://open-meteo.com/)
 X-ALT-DESC;FMTTYPE=text/html:<div style="font-family:'Segoe UI'\,Arial\,sa
  ns-serif\;font-size:13px\;color:#111827\;"><div style="font-size:14px\;fon
  t-weight:700\;margin-bottom:8px\;">Leuven\, Belgium Weather Forecast - 202
  6-06-03</div><div style="margin-bottom:10px\;color:#374151\;"><span style=
- "margin-right:12px\;">🌡️ 13 to 22&deg\;C</span><span>🌧️ 1.2 mm t
+ "margin-right:12px\;">🌡️ 12 to 19&deg\;C</span><span>🌧️ 5.2 mm t
  otal</span></div><table style="border-collapse:collapse\;width:100%\;max-w
  idth:560px\;border:1px solid #e5e7eb\;border-radius:6px\;overflow:hidden\;
  "><thead><tr style="background-color:#eef2ff\;color:#1f2937\;"><th align="
@@ -643,113 +493,263 @@ X-ALT-DESC;FMTTYPE=text/html:<div style="font-family:'Segoe UI'\,Arial\,sa
  style='border-bottom:1px solid #e5e7eb\;background-color:#ffffff\;'><td st
  yle='padding:6px 8px\;font-weight:600\;color:#111827\;'>00:00</td><td styl
  e='padding:6px 8px\;color:#1f2937\;'>14&deg\;C</td><td style='padding:6px 
- 8px\;color:#1f2937\;'>↙ 4 m/s</td><td style='padding:6px 8px\;color:#6b7
+ 8px\;color:#1f2937\;'>↙ 5 m/s</td><td style='padding:6px 8px\;color:#6b7
  280\;'>☀️ 0.0 mm</td></tr><tr style='border-bottom:1px solid #e5e7eb\;
  background-color:#f8fafc\;'><td style='padding:6px 8px\;font-weight:600\;c
  olor:#111827\;'>01:00</td><td style='padding:6px 8px\;color:#1f2937\;'>14&
- deg\;C</td><td style='padding:6px 8px\;color:#1f2937\;'>↙ 4 m/s</td><td 
+ deg\;C</td><td style='padding:6px 8px\;color:#1f2937\;'>↙ 5 m/s</td><td 
  style='padding:6px 8px\;color:#6b7280\;'>☀️ 0.0 mm</td></tr><tr style=
  'border-bottom:1px solid #e5e7eb\;background-color:#ffffff\;'><td style='p
  adding:6px 8px\;font-weight:600\;color:#111827\;'>02:00</td><td style='pad
  ding:6px 8px\;color:#1f2937\;'>13&deg\;C</td><td style='padding:6px 8px\;c
- olor:#1f2937\;'>↙ 4 m/s</td><td style='padding:6px 8px\;color:#6b7280\;'
+ olor:#1f2937\;'>↙ 5 m/s</td><td style='padding:6px 8px\;color:#0369a1\;'
+ >🌧️ 0.5 mm</td></tr><tr style='border-bottom:1px solid #e5e7eb\;backg
+ round-color:#f8fafc\;'><td style='padding:6px 8px\;font-weight:600\;color:
+ #111827\;'>03:00</td><td style='padding:6px 8px\;color:#1f2937\;'>13&deg\;
+ C</td><td style='padding:6px 8px\;color:#1f2937\;'>↙ 5 m/s</td><td style
+ ='padding:6px 8px\;color:#0369a1\;'>🌧️ 0.7 mm</td></tr><tr style='bor
+ der-bottom:1px solid #e5e7eb\;background-color:#ffffff\;'><td style='paddi
+ ng:6px 8px\;font-weight:600\;color:#111827\;'>04:00</td><td style='padding
+ :6px 8px\;color:#1f2937\;'>12&deg\;C</td><td style='padding:6px 8px\;color
+ :#1f2937\;'>↙ 5 m/s</td><td style='padding:6px 8px\;color:#0369a1\;'>
+ 🌧️ 0.6 mm</td></tr><tr style='border-bottom:1px solid #e5e7eb\;backgr
+ ound-color:#f8fafc\;'><td style='padding:6px 8px\;font-weight:600\;color:#
+ 111827\;'>05:00</td><td style='padding:6px 8px\;color:#1f2937\;'>12&deg\;C
+ </td><td style='padding:6px 8px\;color:#1f2937\;'>↙ 5 m/s</td><td style=
+ 'padding:6px 8px\;color:#0369a1\;'>🌧️ 0.7 mm</td></tr><tr style='bord
+ er-bottom:1px solid #e5e7eb\;background-color:#ffffff\;'><td style='paddin
+ g:6px 8px\;font-weight:600\;color:#111827\;'>06:00</td><td style='padding:
+ 6px 8px\;color:#1f2937\;'>12&deg\;C</td><td style='padding:6px 8px\;color:
+ #1f2937\;'>↙ 5 m/s</td><td style='padding:6px 8px\;color:#0369a1\;'>🌧
+ ️ 1.2 mm</td></tr><tr style='border-bottom:1px solid #e5e7eb\;background
+ -color:#f8fafc\;'><td style='padding:6px 8px\;font-weight:600\;color:#1118
+ 27\;'>07:00</td><td style='padding:6px 8px\;color:#1f2937\;'>13&deg\;C</td
+ ><td style='padding:6px 8px\;color:#1f2937\;'>↙ 5 m/s</td><td style='pad
+ ding:6px 8px\;color:#0369a1\;'>🌧️ 0.6 mm</td></tr><tr style='border-b
+ ottom:1px solid #e5e7eb\;background-color:#ffffff\;'><td style='padding:6p
+ x 8px\;font-weight:600\;color:#111827\;'>08:00</td><td style='padding:6px 
+ 8px\;color:#1f2937\;'>14&deg\;C</td><td style='padding:6px 8px\;color:#1f2
+ 937\;'>↙ 5 m/s</td><td style='padding:6px 8px\;color:#0369a1\;'>🌧️ 
+ 0.1 mm</td></tr><tr style='border-bottom:1px solid #e5e7eb\;background-col
+ or:#f8fafc\;'><td style='padding:6px 8px\;font-weight:600\;color:#111827\;
+ '>09:00</td><td style='padding:6px 8px\;color:#1f2937\;'>15&deg\;C</td><td
+  style='padding:6px 8px\;color:#1f2937\;'>↙ 5 m/s</td><td style='padding
+ :6px 8px\;color:#6b7280\;'>☀️ 0.0 mm</td></tr><tr style='border-bottom
+ :1px solid #e5e7eb\;background-color:#ffffff\;'><td style='padding:6px 8px
+ \;font-weight:600\;color:#111827\;'>10:00</td><td style='padding:6px 8px\;
+ color:#1f2937\;'>16&deg\;C</td><td style='padding:6px 8px\;color:#1f2937\;
+ '>↙ 5 m/s</td><td style='padding:6px 8px\;color:#0369a1\;'>🌧️ 0.2 m
+ m</td></tr><tr style='border-bottom:1px solid #e5e7eb\;background-color:#f
+ 8fafc\;'><td style='padding:6px 8px\;font-weight:600\;color:#111827\;'>11:
+ 00</td><td style='padding:6px 8px\;color:#1f2937\;'>17&deg\;C</td><td styl
+ e='padding:6px 8px\;color:#1f2937\;'>← 5 m/s</td><td style='padding:6px 
+ 8px\;color:#6b7280\;'>☀️ 0.0 mm</td></tr><tr style='border-bottom:1px 
+ solid #e5e7eb\;background-color:#ffffff\;'><td style='padding:6px 8px\;fon
+ t-weight:600\;color:#111827\;'>12:00</td><td style='padding:6px 8px\;color
+ :#1f2937\;'>18&deg\;C</td><td style='padding:6px 8px\;color:#1f2937\;'>←
+  6 m/s</td><td style='padding:6px 8px\;color:#6b7280\;'>☀️ 0.0 mm</td>
+ </tr><tr style='border-bottom:1px solid #e5e7eb\;background-color:#f8fafc\
+ ;'><td style='padding:6px 8px\;font-weight:600\;color:#111827\;'>13:00</td
+ ><td style='padding:6px 8px\;color:#1f2937\;'>18&deg\;C</td><td style='pad
+ ding:6px 8px\;color:#1f2937\;'>← 5 m/s</td><td style='padding:6px 8px\;c
+ olor:#6b7280\;'>☀️ 0.0 mm</td></tr><tr style='border-bottom:1px solid 
+ #e5e7eb\;background-color:#ffffff\;'><td style='padding:6px 8px\;font-weig
+ ht:600\;color:#111827\;'>14:00</td><td style='padding:6px 8px\;color:#1f29
+ 37\;'>19&deg\;C</td><td style='padding:6px 8px\;color:#1f2937\;'>← 5 m/s
+ </td><td style='padding:6px 8px\;color:#6b7280\;'>☀️ 0.0 mm</td></tr><
+ tr style='border-bottom:1px solid #e5e7eb\;background-color:#f8fafc\;'><td
+  style='padding:6px 8px\;font-weight:600\;color:#111827\;'>15:00</td><td s
+ tyle='padding:6px 8px\;color:#1f2937\;'>19&deg\;C</td><td style='padding:6
+ px 8px\;color:#1f2937\;'>← 5 m/s</td><td style='padding:6px 8px\;color:#
+ 0369a1\;'>🌧️ 0.2 mm</td></tr><tr style='border-bottom:1px solid #e5e7
+ eb\;background-color:#ffffff\;'><td style='padding:6px 8px\;font-weight:60
+ 0\;color:#111827\;'>16:00</td><td style='padding:6px 8px\;color:#1f2937\;'
+ >19&deg\;C</td><td style='padding:6px 8px\;color:#1f2937\;'>← 5 m/s</td>
+ <td style='padding:6px 8px\;color:#0369a1\;'>🌧️ 0.3 mm</td></tr><tr s
+ tyle='border-bottom:1px solid #e5e7eb\;background-color:#f8fafc\;'><td sty
+ le='padding:6px 8px\;font-weight:600\;color:#111827\;'>17:00</td><td style
+ ='padding:6px 8px\;color:#1f2937\;'>19&deg\;C</td><td style='padding:6px 8
+ px\;color:#1f2937\;'>← 6 m/s</td><td style='padding:6px 8px\;color:#0369
+ a1\;'>🌧️ 0.1 mm</td></tr><tr style='border-bottom:1px solid #e5e7eb\;
+ background-color:#ffffff\;'><td style='padding:6px 8px\;font-weight:600\;c
+ olor:#111827\;'>18:00</td><td style='padding:6px 8px\;color:#1f2937\;'>19&
+ deg\;C</td><td style='padding:6px 8px\;color:#1f2937\;'>← 5 m/s</td><td 
+ style='padding:6px 8px\;color:#6b7280\;'>☀️ 0.0 mm</td></tr><tr style=
+ 'border-bottom:1px solid #e5e7eb\;background-color:#f8fafc\;'><td style='p
+ adding:6px 8px\;font-weight:600\;color:#111827\;'>19:00</td><td style='pad
+ ding:6px 8px\;color:#1f2937\;'>19&deg\;C</td><td style='padding:6px 8px\;c
+ olor:#1f2937\;'>← 4 m/s</td><td style='padding:6px 8px\;color:#6b7280\;'
+ >☀️ 0.0 mm</td></tr><tr style='border-bottom:1px solid #e5e7eb\;backgr
+ ound-color:#ffffff\;'><td style='padding:6px 8px\;font-weight:600\;color:#
+ 111827\;'>20:00</td><td style='padding:6px 8px\;color:#1f2937\;'>18&deg\;C
+ </td><td style='padding:6px 8px\;color:#1f2937\;'>↙ 3 m/s</td><td style=
+ 'padding:6px 8px\;color:#6b7280\;'>☀️ 0.0 mm</td></tr><tr style='borde
+ r-bottom:1px solid #e5e7eb\;background-color:#f8fafc\;'><td style='padding
+ :6px 8px\;font-weight:600\;color:#111827\;'>21:00</td><td style='padding:6
+ px 8px\;color:#1f2937\;'>18&deg\;C</td><td style='padding:6px 8px\;color:#
+ 1f2937\;'>↙ 3 m/s</td><td style='padding:6px 8px\;color:#6b7280\;'>☀
+ ️ 0.0 mm</td></tr><tr style='border-bottom:1px solid #e5e7eb\;background
+ -color:#ffffff\;'><td style='padding:6px 8px\;font-weight:600\;color:#1118
+ 27\;'>22:00</td><td style='padding:6px 8px\;color:#1f2937\;'>17&deg\;C</td
+ ><td style='padding:6px 8px\;color:#1f2937\;'>↓ 4 m/s</td><td style='pad
+ ding:6px 8px\;color:#6b7280\;'>☀️ 0.0 mm</td></tr><tr style='border-bo
+ ttom:1px solid #e5e7eb\;background-color:#f8fafc\;'><td style='padding:6px
+  8px\;font-weight:600\;color:#111827\;'>23:00</td><td style='padding:6px 8
+ px\;color:#1f2937\;'>17&deg\;C</td><td style='padding:6px 8px\;color:#1f29
+ 37\;'>↓ 4 m/s</td><td style='padding:6px 8px\;color:#6b7280\;'>☀️ 0.
+ 0 mm</td></tr></tbody></table><div style="margin-top:10px\;color:#6b7280\;
+ font-size:12px\;">Updated at: 2026-05-31 10:38:45 CEST</div><div style="ma
+ rgin-top:4px\;color:#6b7280\;font-size:12px\;">Data source: Open-Meteo (ht
+ tps://open-meteo.com/)</div></div>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌡️ 14–20°C | 🌧️ 5.1mm
+DTSTART;VALUE=DATE:20260604
+UID:leuven-weather-20260604@myscript
+DESCRIPTION:Leuven\, Belgium Weather Forecast (hourly details): 2026-06-04
+ \n00:00  | 🌡️ 16°C  | 💨 ↓ 5 m/s  | ☀️ 0.0 mm\n01:00  | 🌡
+ ️ 16°C  | 💨 ↓ 5 m/s  | ☀️ 0.0 mm\n02:00  | 🌡️ 16°C  | 
+ 💨 ↓ 5 m/s  | ☀️ 0.0 mm\n03:00  | 🌡️ 16°C  | 💨 ↓ 5 m/s 
+  | 🌧️ 0.1 mm\n04:00  | 🌡️ 15°C  | 💨 ↓ 5 m/s  | 🌧️ 0.1
+  mm\n05:00  | 🌡️ 15°C  | 💨 ↓ 6 m/s  | 🌧️ 0.1 mm\n06:00  | 
+ 🌡️ 15°C  | 💨 ↓ 6 m/s  | 🌧️ 0.7 mm\n07:00  | 🌡️ 14°C 
+  | 💨 ↓ 6 m/s  | 🌧️ 0.7 mm\n08:00  | 🌡️ 14°C  | 💨 ↓ 6 
+ m/s  | 🌧️ 0.7 mm\n09:00  | 🌡️ 15°C  | 💨 ↙ 6 m/s  | 🌧️
+  0.1 mm\n10:00  | 🌡️ 17°C  | 💨 ↙ 6 m/s  | 🌧️ 0.1 mm\n11:00
+   | 🌡️ 18°C  | 💨 ↙ 6 m/s  | 🌧️ 0.1 mm\n12:00  | 🌡️ 19
+ °C  | 💨 ↙ 6 m/s  | 🌧️ 0.1 mm\n13:00  | 🌡️ 19°C  | 💨 
+ ↙ 6 m/s  | 🌧️ 0.1 mm\n14:00  | 🌡️ 20°C  | 💨 ↙ 6 m/s  | 
+ 🌧️ 0.1 mm\n15:00  | 🌡️ 19°C  | 💨 ↙ 6 m/s  | 🌧️ 0.5 mm
+ \n16:00  | 🌡️ 18°C  | 💨 ← 6 m/s  | 🌧️ 0.5 mm\n17:00  | 
+ 🌡️ 17°C  | 💨 ← 6 m/s  | 🌧️ 0.5 mm\n18:00  | 🌡️ 17°C 
+  | 💨 ← 6 m/s  | 🌧️ 0.2 mm\n19:00  | 🌡️ 17°C  | 💨 ↙ 5 
+ m/s  | 🌧️ 0.2 mm\n20:00  | 🌡️ 17°C  | 💨 ↙ 5 m/s  | 🌧️
+  0.2 mm\n21:00  | 🌡️ 16°C  | 💨 ↙ 5 m/s  | ☀️ 0.0 mm\n22:00 
+  | 🌡️ 15°C  | 💨 ↙ 5 m/s  | ☀️ 0.0 mm\n23:00  | 🌡️ 14°
+ C  | 💨 ↙ 4 m/s  | ☀️ 0.0 mm\n\nUpdated at: 2026-05-31 10:38:45 CE
+ ST\n\nData source: Open-Meteo (https://open-meteo.com/)
+X-ALT-DESC;FMTTYPE=text/html:<div style="font-family:'Segoe UI'\,Arial\,sa
+ ns-serif\;font-size:13px\;color:#111827\;"><div style="font-size:14px\;fon
+ t-weight:700\;margin-bottom:8px\;">Leuven\, Belgium Weather Forecast - 202
+ 6-06-04</div><div style="margin-bottom:10px\;color:#374151\;"><span style=
+ "margin-right:12px\;">🌡️ 14 to 20&deg\;C</span><span>🌧️ 5.1 mm t
+ otal</span></div><table style="border-collapse:collapse\;width:100%\;max-w
+ idth:560px\;border:1px solid #e5e7eb\;border-radius:6px\;overflow:hidden\;
+ "><thead><tr style="background-color:#eef2ff\;color:#1f2937\;"><th align="
+ left" style="padding:7px 8px\;font-weight:700\;">Time</th><th align="left"
+  style="padding:7px 8px\;font-weight:700\;">Temperature</th><th align="lef
+ t" style="padding:7px 8px\;font-weight:700\;">Wind</th><th align="left" st
+ yle="padding:7px 8px\;font-weight:700\;">Rain</th></tr></thead><tbody><tr 
+ style='border-bottom:1px solid #e5e7eb\;background-color:#ffffff\;'><td st
+ yle='padding:6px 8px\;font-weight:600\;color:#111827\;'>00:00</td><td styl
+ e='padding:6px 8px\;color:#1f2937\;'>16&deg\;C</td><td style='padding:6px 
+ 8px\;color:#1f2937\;'>↓ 5 m/s</td><td style='padding:6px 8px\;color:#6b7
+ 280\;'>☀️ 0.0 mm</td></tr><tr style='border-bottom:1px solid #e5e7eb\;
+ background-color:#f8fafc\;'><td style='padding:6px 8px\;font-weight:600\;c
+ olor:#111827\;'>01:00</td><td style='padding:6px 8px\;color:#1f2937\;'>16&
+ deg\;C</td><td style='padding:6px 8px\;color:#1f2937\;'>↓ 5 m/s</td><td 
+ style='padding:6px 8px\;color:#6b7280\;'>☀️ 0.0 mm</td></tr><tr style=
+ 'border-bottom:1px solid #e5e7eb\;background-color:#ffffff\;'><td style='p
+ adding:6px 8px\;font-weight:600\;color:#111827\;'>02:00</td><td style='pad
+ ding:6px 8px\;color:#1f2937\;'>16&deg\;C</td><td style='padding:6px 8px\;c
+ olor:#1f2937\;'>↓ 5 m/s</td><td style='padding:6px 8px\;color:#6b7280\;'
  >☀️ 0.0 mm</td></tr><tr style='border-bottom:1px solid #e5e7eb\;backgr
  ound-color:#f8fafc\;'><td style='padding:6px 8px\;font-weight:600\;color:#
- 111827\;'>03:00</td><td style='padding:6px 8px\;color:#1f2937\;'>13&deg\;C
- </td><td style='padding:6px 8px\;color:#1f2937\;'>↙ 4 m/s</td><td style=
- 'padding:6px 8px\;color:#6b7280\;'>☀️ 0.0 mm</td></tr><tr style='borde
- r-bottom:1px solid #e5e7eb\;background-color:#ffffff\;'><td style='padding
- :6px 8px\;font-weight:600\;color:#111827\;'>04:00</td><td style='padding:6
- px 8px\;color:#1f2937\;'>13&deg\;C</td><td style='padding:6px 8px\;color:#
- 1f2937\;'>↙ 4 m/s</td><td style='padding:6px 8px\;color:#6b7280\;'>☀
- ️ 0.0 mm</td></tr><tr style='border-bottom:1px solid #e5e7eb\;background
+ 111827\;'>03:00</td><td style='padding:6px 8px\;color:#1f2937\;'>16&deg\;C
+ </td><td style='padding:6px 8px\;color:#1f2937\;'>↓ 5 m/s</td><td style=
+ 'padding:6px 8px\;color:#0369a1\;'>🌧️ 0.1 mm</td></tr><tr style='bord
+ er-bottom:1px solid #e5e7eb\;background-color:#ffffff\;'><td style='paddin
+ g:6px 8px\;font-weight:600\;color:#111827\;'>04:00</td><td style='padding:
+ 6px 8px\;color:#1f2937\;'>15&deg\;C</td><td style='padding:6px 8px\;color:
+ #1f2937\;'>↓ 5 m/s</td><td style='padding:6px 8px\;color:#0369a1\;'>🌧
+ ️ 0.1 mm</td></tr><tr style='border-bottom:1px solid #e5e7eb\;background
  -color:#f8fafc\;'><td style='padding:6px 8px\;font-weight:600\;color:#1118
- 27\;'>05:00</td><td style='padding:6px 8px\;color:#1f2937\;'>13&deg\;C</td
- ><td style='padding:6px 8px\;color:#1f2937\;'>↙ 4 m/s</td><td style='pad
- ding:6px 8px\;color:#6b7280\;'>☀️ 0.0 mm</td></tr><tr style='border-bo
- ttom:1px solid #e5e7eb\;background-color:#ffffff\;'><td style='padding:6px
-  8px\;font-weight:600\;color:#111827\;'>06:00</td><td style='padding:6px 8
- px\;color:#1f2937\;'>13&deg\;C</td><td style='padding:6px 8px\;color:#1f29
- 37\;'>↙ 4 m/s</td><td style='padding:6px 8px\;color:#6b7280\;'>☀️ 0.
- 0 mm</td></tr><tr style='border-bottom:1px solid #e5e7eb\;background-color
- :#f8fafc\;'><td style='padding:6px 8px\;font-weight:600\;color:#111827\;'>
- 07:00</td><td style='padding:6px 8px\;color:#1f2937\;'>13&deg\;C</td><td s
- tyle='padding:6px 8px\;color:#1f2937\;'>↙ 4 m/s</td><td style='padding:6
- px 8px\;color:#6b7280\;'>☀️ 0.0 mm</td></tr><tr style='border-bottom:1
- px solid #e5e7eb\;background-color:#ffffff\;'><td style='padding:6px 8px\;
- font-weight:600\;color:#111827\;'>08:00</td><td style='padding:6px 8px\;co
- lor:#1f2937\;'>14&deg\;C</td><td style='padding:6px 8px\;color:#1f2937\;'>
- ↙ 5 m/s</td><td style='padding:6px 8px\;color:#6b7280\;'>☀️ 0.0 mm</
- td></tr><tr style='border-bottom:1px solid #e5e7eb\;background-color:#f8fa
- fc\;'><td style='padding:6px 8px\;font-weight:600\;color:#111827\;'>09:00<
- /td><td style='padding:6px 8px\;color:#1f2937\;'>15&deg\;C</td><td style='
- padding:6px 8px\;color:#1f2937\;'>↙ 5 m/s</td><td style='padding:6px 8px
- \;color:#0369a1\;'>🌧️ 0.1 mm</td></tr><tr style='border-bottom:1px so
- lid #e5e7eb\;background-color:#ffffff\;'><td style='padding:6px 8px\;font-
- weight:600\;color:#111827\;'>10:00</td><td style='padding:6px 8px\;color:#
- 1f2937\;'>16&deg\;C</td><td style='padding:6px 8px\;color:#1f2937\;'>← 5
-  m/s</td><td style='padding:6px 8px\;color:#0369a1\;'>🌧️ 0.1 mm</td><
- /tr><tr style='border-bottom:1px solid #e5e7eb\;background-color:#f8fafc\;
- '><td style='padding:6px 8px\;font-weight:600\;color:#111827\;'>11:00</td>
- <td style='padding:6px 8px\;color:#1f2937\;'>17&deg\;C</td><td style='padd
- ing:6px 8px\;color:#1f2937\;'>← 5 m/s</td><td style='padding:6px 8px\;co
- lor:#0369a1\;'>🌧️ 0.1 mm</td></tr><tr style='border-bottom:1px solid 
- #e5e7eb\;background-color:#ffffff\;'><td style='padding:6px 8px\;font-weig
- ht:600\;color:#111827\;'>12:00</td><td style='padding:6px 8px\;color:#1f29
- 37\;'>18&deg\;C</td><td style='padding:6px 8px\;color:#1f2937\;'>← 5 m/s
- </td><td style='padding:6px 8px\;color:#0369a1\;'>🌧️ 0.2 mm</td></tr>
- <tr style='border-bottom:1px solid #e5e7eb\;background-color:#f8fafc\;'><t
- d style='padding:6px 8px\;font-weight:600\;color:#111827\;'>13:00</td><td 
- style='padding:6px 8px\;color:#1f2937\;'>20&deg\;C</td><td style='padding:
- 6px 8px\;color:#1f2937\;'>← 5 m/s</td><td style='padding:6px 8px\;color:
- #0369a1\;'>🌧️ 0.2 mm</td></tr><tr style='border-bottom:1px solid #e5e
- 7eb\;background-color:#ffffff\;'><td style='padding:6px 8px\;font-weight:6
- 00\;color:#111827\;'>14:00</td><td style='padding:6px 8px\;color:#1f2937\;
- '>21&deg\;C</td><td style='padding:6px 8px\;color:#1f2937\;'>← 5 m/s</td
- ><td style='padding:6px 8px\;color:#0369a1\;'>🌧️ 0.2 mm</td></tr><tr 
- style='border-bottom:1px solid #e5e7eb\;background-color:#f8fafc\;'><td st
- yle='padding:6px 8px\;font-weight:600\;color:#111827\;'>15:00</td><td styl
- e='padding:6px 8px\;color:#1f2937\;'>21&deg\;C</td><td style='padding:6px 
- 8px\;color:#1f2937\;'>← 5 m/s</td><td style='padding:6px 8px\;color:#036
- 9a1\;'>🌧️ 0.1 mm</td></tr><tr style='border-bottom:1px solid #e5e7eb\
- ;background-color:#ffffff\;'><td style='padding:6px 8px\;font-weight:600\;
- color:#111827\;'>16:00</td><td style='padding:6px 8px\;color:#1f2937\;'>22
- &deg\;C</td><td style='padding:6px 8px\;color:#1f2937\;'>← 6 m/s</td><td
-  style='padding:6px 8px\;color:#0369a1\;'>🌧️ 0.1 mm</td></tr><tr styl
- e='border-bottom:1px solid #e5e7eb\;background-color:#f8fafc\;'><td style=
- 'padding:6px 8px\;font-weight:600\;color:#111827\;'>17:00</td><td style='p
- adding:6px 8px\;color:#1f2937\;'>22&deg\;C</td><td style='padding:6px 8px\
- ;color:#1f2937\;'>← 6 m/s</td><td style='padding:6px 8px\;color:#0369a1\
- ;'>🌧️ 0.1 mm</td></tr><tr style='border-bottom:1px solid #e5e7eb\;bac
- kground-color:#ffffff\;'><td style='padding:6px 8px\;font-weight:600\;colo
- r:#111827\;'>18:00</td><td style='padding:6px 8px\;color:#1f2937\;'>21&deg
- \;C</td><td style='padding:6px 8px\;color:#1f2937\;'>← 5 m/s</td><td sty
- le='padding:6px 8px\;color:#6b7280\;'>☀️ 0.0 mm</td></tr><tr style='bo
- rder-bottom:1px solid #e5e7eb\;background-color:#f8fafc\;'><td style='padd
- ing:6px 8px\;font-weight:600\;color:#111827\;'>19:00</td><td style='paddin
- g:6px 8px\;color:#1f2937\;'>20&deg\;C</td><td style='padding:6px 8px\;colo
- r:#1f2937\;'>← 4 m/s</td><td style='padding:6px 8px\;color:#6b7280\;'>
+ 27\;'>05:00</td><td style='padding:6px 8px\;color:#1f2937\;'>15&deg\;C</td
+ ><td style='padding:6px 8px\;color:#1f2937\;'>↓ 6 m/s</td><td style='pad
+ ding:6px 8px\;color:#0369a1\;'>🌧️ 0.1 mm</td></tr><tr style='border-b
+ ottom:1px solid #e5e7eb\;background-color:#ffffff\;'><td style='padding:6p
+ x 8px\;font-weight:600\;color:#111827\;'>06:00</td><td style='padding:6px 
+ 8px\;color:#1f2937\;'>15&deg\;C</td><td style='padding:6px 8px\;color:#1f2
+ 937\;'>↓ 6 m/s</td><td style='padding:6px 8px\;color:#0369a1\;'>🌧️ 
+ 0.7 mm</td></tr><tr style='border-bottom:1px solid #e5e7eb\;background-col
+ or:#f8fafc\;'><td style='padding:6px 8px\;font-weight:600\;color:#111827\;
+ '>07:00</td><td style='padding:6px 8px\;color:#1f2937\;'>14&deg\;C</td><td
+  style='padding:6px 8px\;color:#1f2937\;'>↓ 6 m/s</td><td style='padding
+ :6px 8px\;color:#0369a1\;'>🌧️ 0.7 mm</td></tr><tr style='border-botto
+ m:1px solid #e5e7eb\;background-color:#ffffff\;'><td style='padding:6px 8p
+ x\;font-weight:600\;color:#111827\;'>08:00</td><td style='padding:6px 8px\
+ ;color:#1f2937\;'>14&deg\;C</td><td style='padding:6px 8px\;color:#1f2937\
+ ;'>↓ 6 m/s</td><td style='padding:6px 8px\;color:#0369a1\;'>🌧️ 0.7 
+ mm</td></tr><tr style='border-bottom:1px solid #e5e7eb\;background-color:#
+ f8fafc\;'><td style='padding:6px 8px\;font-weight:600\;color:#111827\;'>09
+ :00</td><td style='padding:6px 8px\;color:#1f2937\;'>15&deg\;C</td><td sty
+ le='padding:6px 8px\;color:#1f2937\;'>↙ 6 m/s</td><td style='padding:6px
+  8px\;color:#0369a1\;'>🌧️ 0.1 mm</td></tr><tr style='border-bottom:1p
+ x solid #e5e7eb\;background-color:#ffffff\;'><td style='padding:6px 8px\;f
+ ont-weight:600\;color:#111827\;'>10:00</td><td style='padding:6px 8px\;col
+ or:#1f2937\;'>17&deg\;C</td><td style='padding:6px 8px\;color:#1f2937\;'>
+ ↙ 6 m/s</td><td style='padding:6px 8px\;color:#0369a1\;'>🌧️ 0.1 mm<
+ /td></tr><tr style='border-bottom:1px solid #e5e7eb\;background-color:#f8f
+ afc\;'><td style='padding:6px 8px\;font-weight:600\;color:#111827\;'>11:00
+ </td><td style='padding:6px 8px\;color:#1f2937\;'>18&deg\;C</td><td style=
+ 'padding:6px 8px\;color:#1f2937\;'>↙ 6 m/s</td><td style='padding:6px 8p
+ x\;color:#0369a1\;'>🌧️ 0.1 mm</td></tr><tr style='border-bottom:1px s
+ olid #e5e7eb\;background-color:#ffffff\;'><td style='padding:6px 8px\;font
+ -weight:600\;color:#111827\;'>12:00</td><td style='padding:6px 8px\;color:
+ #1f2937\;'>19&deg\;C</td><td style='padding:6px 8px\;color:#1f2937\;'>↙ 
+ 6 m/s</td><td style='padding:6px 8px\;color:#0369a1\;'>🌧️ 0.1 mm</td>
+ </tr><tr style='border-bottom:1px solid #e5e7eb\;background-color:#f8fafc\
+ ;'><td style='padding:6px 8px\;font-weight:600\;color:#111827\;'>13:00</td
+ ><td style='padding:6px 8px\;color:#1f2937\;'>19&deg\;C</td><td style='pad
+ ding:6px 8px\;color:#1f2937\;'>↙ 6 m/s</td><td style='padding:6px 8px\;c
+ olor:#0369a1\;'>🌧️ 0.1 mm</td></tr><tr style='border-bottom:1px solid
+  #e5e7eb\;background-color:#ffffff\;'><td style='padding:6px 8px\;font-wei
+ ght:600\;color:#111827\;'>14:00</td><td style='padding:6px 8px\;color:#1f2
+ 937\;'>20&deg\;C</td><td style='padding:6px 8px\;color:#1f2937\;'>↙ 6 m/
+ s</td><td style='padding:6px 8px\;color:#0369a1\;'>🌧️ 0.1 mm</td></tr
+ ><tr style='border-bottom:1px solid #e5e7eb\;background-color:#f8fafc\;'><
+ td style='padding:6px 8px\;font-weight:600\;color:#111827\;'>15:00</td><td
+  style='padding:6px 8px\;color:#1f2937\;'>19&deg\;C</td><td style='padding
+ :6px 8px\;color:#1f2937\;'>↙ 6 m/s</td><td style='padding:6px 8px\;color
+ :#0369a1\;'>🌧️ 0.5 mm</td></tr><tr style='border-bottom:1px solid #e5
+ e7eb\;background-color:#ffffff\;'><td style='padding:6px 8px\;font-weight:
+ 600\;color:#111827\;'>16:00</td><td style='padding:6px 8px\;color:#1f2937\
+ ;'>18&deg\;C</td><td style='padding:6px 8px\;color:#1f2937\;'>← 6 m/s</t
+ d><td style='padding:6px 8px\;color:#0369a1\;'>🌧️ 0.5 mm</td></tr><tr
+  style='border-bottom:1px solid #e5e7eb\;background-color:#f8fafc\;'><td s
+ tyle='padding:6px 8px\;font-weight:600\;color:#111827\;'>17:00</td><td sty
+ le='padding:6px 8px\;color:#1f2937\;'>17&deg\;C</td><td style='padding:6px
+  8px\;color:#1f2937\;'>← 6 m/s</td><td style='padding:6px 8px\;color:#03
+ 69a1\;'>🌧️ 0.5 mm</td></tr><tr style='border-bottom:1px solid #e5e7eb
+ \;background-color:#ffffff\;'><td style='padding:6px 8px\;font-weight:600\
+ ;color:#111827\;'>18:00</td><td style='padding:6px 8px\;color:#1f2937\;'>1
+ 7&deg\;C</td><td style='padding:6px 8px\;color:#1f2937\;'>← 6 m/s</td><t
+ d style='padding:6px 8px\;color:#0369a1\;'>🌧️ 0.2 mm</td></tr><tr sty
+ le='border-bottom:1px solid #e5e7eb\;background-color:#f8fafc\;'><td style
+ ='padding:6px 8px\;font-weight:600\;color:#111827\;'>19:00</td><td style='
+ padding:6px 8px\;color:#1f2937\;'>17&deg\;C</td><td style='padding:6px 8px
+ \;color:#1f2937\;'>↙ 5 m/s</td><td style='padding:6px 8px\;color:#0369a1
+ \;'>🌧️ 0.2 mm</td></tr><tr style='border-bottom:1px solid #e5e7eb\;ba
+ ckground-color:#ffffff\;'><td style='padding:6px 8px\;font-weight:600\;col
+ or:#111827\;'>20:00</td><td style='padding:6px 8px\;color:#1f2937\;'>17&de
+ g\;C</td><td style='padding:6px 8px\;color:#1f2937\;'>↙ 5 m/s</td><td st
+ yle='padding:6px 8px\;color:#0369a1\;'>🌧️ 0.2 mm</td></tr><tr style='
+ border-bottom:1px solid #e5e7eb\;background-color:#f8fafc\;'><td style='pa
+ dding:6px 8px\;font-weight:600\;color:#111827\;'>21:00</td><td style='padd
+ ing:6px 8px\;color:#1f2937\;'>16&deg\;C</td><td style='padding:6px 8px\;co
+ lor:#1f2937\;'>↙ 5 m/s</td><td style='padding:6px 8px\;color:#6b7280\;'>
  ☀️ 0.0 mm</td></tr><tr style='border-bottom:1px solid #e5e7eb\;backgro
  und-color:#ffffff\;'><td style='padding:6px 8px\;font-weight:600\;color:#1
- 11827\;'>20:00</td><td style='padding:6px 8px\;color:#1f2937\;'>19&deg\;C<
- /td><td style='padding:6px 8px\;color:#1f2937\;'>↙ 3 m/s</td><td style='
+ 11827\;'>22:00</td><td style='padding:6px 8px\;color:#1f2937\;'>15&deg\;C<
+ /td><td style='padding:6px 8px\;color:#1f2937\;'>↙ 5 m/s</td><td style='
  padding:6px 8px\;color:#6b7280\;'>☀️ 0.0 mm</td></tr><tr style='border
  -bottom:1px solid #e5e7eb\;background-color:#f8fafc\;'><td style='padding:
- 6px 8px\;font-weight:600\;color:#111827\;'>21:00</td><td style='padding:6p
- x 8px\;color:#1f2937\;'>18&deg\;C</td><td style='padding:6px 8px\;color:#1
- f2937\;'>↙ 3 m/s</td><td style='padding:6px 8px\;color:#6b7280\;'>☀️
-  0.0 mm</td></tr><tr style='border-bottom:1px solid #e5e7eb\;background-co
- lor:#ffffff\;'><td style='padding:6px 8px\;font-weight:600\;color:#111827\
- ;'>22:00</td><td style='padding:6px 8px\;color:#1f2937\;'>18&deg\;C</td><t
- d style='padding:6px 8px\;color:#1f2937\;'>↙ 3 m/s</td><td style='paddin
- g:6px 8px\;color:#6b7280\;'>☀️ 0.0 mm</td></tr><tr style='border-botto
- m:1px solid #e5e7eb\;background-color:#f8fafc\;'><td style='padding:6px 8p
- x\;font-weight:600\;color:#111827\;'>23:00</td><td style='padding:6px 8px\
- ;color:#1f2937\;'>17&deg\;C</td><td style='padding:6px 8px\;color:#1f2937\
- ;'>↓ 4 m/s</td><td style='padding:6px 8px\;color:#6b7280\;'>☀️ 0.0 m
- m</td></tr></tbody></table><div style="margin-top:10px\;color:#6b7280\;fon
- t-size:12px\;">Updated at: 2026-05-30 21:04:22 CEST</div><div style="margi
- n-top:4px\;color:#6b7280\;font-size:12px\;">Data source: Open-Meteo (https
- ://open-meteo.com/)</div></div>
+ 6px 8px\;font-weight:600\;color:#111827\;'>23:00</td><td style='padding:6p
+ x 8px\;color:#1f2937\;'>14&deg\;C</td><td style='padding:6px 8px\;color:#1
+ f2937\;'>↙ 4 m/s</td><td style='padding:6px 8px\;color:#6b7280\;'>☀️
+  0.0 mm</td></tr></tbody></table><div style="margin-top:10px\;color:#6b728
+ 0\;font-size:12px\;">Updated at: 2026-05-31 10:38:45 CEST</div><div style=
+ "margin-top:4px\;color:#6b7280\;font-size:12px\;">Data source: Open-Meteo 
+ (https://open-meteo.com/)</div></div>
 END:VEVENT
 END:VCALENDAR
