@@ -8,6 +8,9 @@ on:
     - cron: '0 17 * * *'
   workflow_dispatch: # Allows you to manually trigger the script anytime via the GitHub UI
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true 
+  
 jobs:
   build-and-update:
     runs-on: ubuntu-latest
