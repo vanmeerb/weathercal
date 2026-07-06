@@ -25,7 +25,7 @@ DESCRIPTION:Leuven\, Belgium Weather Forecast (hourly details): 2026-07-06
  ← 17 kmh  | ☀️ 0.0 mm\n20u  | 🌡️ 29°  | 💨 ← 15 kmh  | ☀
  ️ 0.0 mm\n21u  | 🌡️ 28°  | 💨 ← 15 kmh  | ☀️ 0.0 mm\n22u  
  | 🌡️ 26°  | 💨 ↙ 13 kmh  | ☀️ 0.0 mm\n23u  | 🌡️ 25°  |
-  💨 ↙ 15 kmh  | ☀️ 0.0 mm\n\nUpdated at: 2026-07-06 15:31:09 CEST\
+  💨 ↙ 15 kmh  | ☀️ 0.0 mm\n\nUpdated at: 2026-07-06 15:36:35 CEST\
  n\nData source: Open-Meteo (https://open-meteo.com/)
 END:VEVENT
 BEGIN:VEVENT
@@ -51,7 +51,7 @@ DESCRIPTION:Leuven\, Belgium Weather Forecast (hourly details): 2026-07-07
   💨 ↖ 15 kmh  | ☀️ 0.0 mm\n20u  | 🌡️ 26°  | 💨 ↖ 14 kmh 
   | ☀️ 0.0 mm\n21u  | 🌡️ 24°  | 💨 ↑ 15 kmh  | ☀️ 0.0 mm\
  n22u  | 🌡️ 23°  | 💨 ↑ 11 kmh  | ☀️ 0.0 mm\n23u  | 🌡️ 2
- 2°  | 💨 ↖ 8 kmh  | ☀️ 0.0 mm\n\nUpdated at: 2026-07-06 15:31:09 
+ 2°  | 💨 ↖ 8 kmh  | ☀️ 0.0 mm\n\nUpdated at: 2026-07-06 15:36:35 
  CEST\n\nData source: Open-Meteo (https://open-meteo.com/)
 END:VEVENT
 BEGIN:VEVENT
@@ -77,7 +77,7 @@ DESCRIPTION:Leuven\, Belgium Weather Forecast (hourly details): 2026-07-08
  | ☀️ 0.0 mm\n20u  | 🌡️ 27°  | 💨 ↑ 9 kmh  | ☀️ 0.0 mm\n2
  1u  | 🌡️ 26°  | 💨 ↑ 10 kmh  | ☀️ 0.0 mm\n22u  | 🌡️ 25
  °  | 💨 ↑ 10 kmh  | ☀️ 0.0 mm\n23u  | 🌡️ 23°  | 💨 ↓ 9 
- kmh  | ☀️ 0.0 mm\n\nUpdated at: 2026-07-06 15:31:09 CEST\n\nData sourc
+ kmh  | ☀️ 0.0 mm\n\nUpdated at: 2026-07-06 15:36:35 CEST\n\nData sourc
  e: Open-Meteo (https://open-meteo.com/)
 END:VEVENT
 BEGIN:VEVENT
@@ -103,7 +103,7 @@ DESCRIPTION:Leuven\, Belgium Weather Forecast (hourly details): 2026-07-09
    | ☀️ 0.0 mm\n20u  | 🌡️ 27°  | 💨 ↗ 13 kmh  | ☀️ 0.0 mm
  \n21u  | 🌡️ 26°  | 💨 ↗ 12 kmh  | ☀️ 0.0 mm\n22u  | 🌡️ 
  25°  | 💨 ↗ 11 kmh  | ☀️ 0.0 mm\n23u  | 🌡️ 23°  | 💨 ↗ 
- 10 kmh  | ☀️ 0.0 mm\n\nUpdated at: 2026-07-06 15:31:09 CEST\n\nData so
+ 10 kmh  | ☀️ 0.0 mm\n\nUpdated at: 2026-07-06 15:36:35 CEST\n\nData so
  urce: Open-Meteo (https://open-meteo.com/)
 END:VEVENT
 BEGIN:VEVENT
@@ -129,7 +129,7 @@ DESCRIPTION:Leuven\, Belgium Weather Forecast (hourly details): 2026-07-10
  💨 ↗ 14 kmh  | ☀️ 0.0 mm\n20u  | 🌡️ 28°  | 💨 ↗ 14 kmh  
  | ☀️ 0.0 mm\n21u  | 🌡️ 27°  | 💨 ↗ 13 kmh  | ☀️ 0.0 mm\n
  22u  | 🌡️ 26°  | 💨 ↗ 13 kmh  | ☀️ 0.0 mm\n23u  | 🌡️ 24
- °  | 💨 ↗ 13 kmh  | ☀️ 0.0 mm\n\nUpdated at: 2026-07-06 15:31:09 
+ °  | 💨 ↗ 13 kmh  | ☀️ 0.0 mm\n\nUpdated at: 2026-07-06 15:36:35 
  CEST\n\nData source: Open-Meteo (https://open-meteo.com/)
 END:VEVENT
 END:VCALENDAR
