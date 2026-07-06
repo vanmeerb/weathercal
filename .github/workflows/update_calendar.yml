@@ -40,7 +40,7 @@ jobs:
         uv run src/render_landing_page.py
 
     - name: Upload GitHub Pages artifact
-      uses: actions/upload-pages-artifact@v4
+      uses: actions/upload-pages-artifact@v5
       with:
         path: public
 
@@ -70,7 +70,7 @@ jobs:
 
     steps:
     - name: Setup Pages
-      uses: actions/configure-pages@v5
+      uses: actions/configure-pages@v6
 
     - name: Deploy to GitHub Pages
       id: deployment
