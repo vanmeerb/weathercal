@@ -71,6 +71,10 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
 
+    # Force Node.js 24 for all steps in this job
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
     steps:
     - name: Deploy to GitHub Pages
       id: deployment
