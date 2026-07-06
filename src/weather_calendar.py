@@ -177,7 +177,7 @@ if __name__ == "__main__":
             day_df["wind_spd"],
             day_df["wind_dir"],
         ):
-            time_label = ts.strftime("%H:%M")
+            time_label = ts.strftime("%Hu")
             wind_arrow = wind_direction_arrow(float(dir_value))
             wind_speed_kmh = float(speed_value) * 3.6
             rain_text = f"{precip_value:.1f} mm"
@@ -185,8 +185,8 @@ if __name__ == "__main__":
 
             hourly_lines.append(
                 f"{time_label}  | "
-                f"🌡️ {temp_value:.0f}°C  | "
-                f"💨 {wind_arrow} {wind_speed_kmh:.0f} km/h  | "
+                f"🌡️ {temp_value:.0f}°  | "
+                f"💨 {wind_arrow} {wind_speed_kmh:.0f} kmh  | "
                 f"{rain_emoji} {rain_text}"
             )
 
