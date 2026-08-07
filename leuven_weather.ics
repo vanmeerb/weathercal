@@ -11,99 +11,99 @@ DESCRIPTION:Leuven\, Belgium Weather Forecast (hourly details): 2026-08-07
  7°  | 💨 ↑ 3 kmh  | ☀️ 0.0 mm\n02u  | 🌡️ 17°  | 💨 ← 4 
  kmh  | ☀️ 0.0 mm\n03u  | 🌡️ 16°  | 💨 ← 3 kmh  | ☀️ 0.0 
  mm\n04u  | 🌡️ 15°  | 💨 ↙ 5 kmh  | ☀️ 0.0 mm\n05u  | 🌡️
-  15°  | 💨 ↙ 2 kmh  | ☀️ 0.0 mm\n06u  | 🌡️ 13°  | 💨 ↙ 
- 5 kmh  | ☀️ 0.0 mm\n07u  | 🌡️ 13°  | 💨 ↙ 4 kmh  | ☀️ 0.
- 0 mm\n08u  | 🌡️ 15°  | 💨 ↙ 4 kmh  | ☀️ 0.0 mm\n09u  | 🌡
- ️ 17°  | 💨 ↓ 4 kmh  | ☀️ 0.0 mm\n10u  | 🌡️ 18°  | 💨 
- ↘ 3 kmh  | ☀️ 0.0 mm\n11u  | 🌡️ 20°  | 💨 ↑ 1 kmh  | ☀
- ️ 0.0 mm\n12u  | 🌡️ 21°  | 💨 ↗ 3 kmh  | ☀️ 0.0 mm\n13u  |
-  🌡️ 22°  | 💨 ↑ 5 kmh  | ☀️ 0.0 mm\n14u  | 🌡️ 23°  | 
+  15°  | 💨 ↙ 2 kmh  | ☀️ 0.0 mm\n06u  | 🌡️ 13°  | 💨 ↓ 
+ 6 kmh  | ☀️ 0.0 mm\n07u  | 🌡️ 13°  | 💨 ↙ 5 kmh  | ☀️ 0.
+ 0 mm\n08u  | 🌡️ 15°  | 💨 ↓ 5 kmh  | ☀️ 0.0 mm\n09u  | 🌡
+ ️ 17°  | 💨 ↘ 3 kmh  | ☀️ 0.0 mm\n10u  | 🌡️ 19°  | 💨 
+ ↘ 1 kmh  | ☀️ 0.0 mm\n11u  | 🌡️ 20°  | 💨 ↗ 2 kmh  | ☀
+ ️ 0.0 mm\n12u  | 🌡️ 21°  | 💨 ↑ 4 kmh  | ☀️ 0.0 mm\n13u  |
+  🌡️ 23°  | 💨 ↑ 5 kmh  | ☀️ 0.0 mm\n14u  | 🌡️ 23°  | 
  💨 ↑ 5 kmh  | ☀️ 0.0 mm\n15u  | 🌡️ 24°  | 💨 ↑ 6 kmh  | 
- ☀️ 0.0 mm\n16u  | 🌡️ 24°  | 💨 ↑ 6 kmh  | ☀️ 0.0 mm\n17u
-   | 🌡️ 25°  | 💨 ↑ 7 kmh  | ☀️ 0.0 mm\n18u  | 🌡️ 25°  
- | 💨 ↑ 7 kmh  | ☀️ 0.0 mm\n19u  | 🌡️ 25°  | 💨 ↗ 8 kmh  
- | ☀️ 0.0 mm\n20u  | 🌡️ 24°  | 💨 ↑ 8 kmh  | ☀️ 0.0 mm\n2
+ ☀️ 0.0 mm\n16u  | 🌡️ 24°  | 💨 ↑ 5 kmh  | ☀️ 0.0 mm\n17u
+   | 🌡️ 25°  | 💨 ↑ 6 kmh  | ☀️ 0.0 mm\n18u  | 🌡️ 25°  
+ | 💨 ↑ 7 kmh  | ☀️ 0.0 mm\n19u  | 🌡️ 25°  | 💨 ↑ 9 kmh  
+ | ☀️ 0.0 mm\n20u  | 🌡️ 24°  | 💨 ↑ 9 kmh  | ☀️ 0.0 mm\n2
  1u  | 🌡️ 23°  | 💨 ↑ 10 kmh  | ☀️ 0.0 mm\n22u  | 🌡️ 22
- °  | 💨 ↗ 9 kmh  | ☀️ 0.0 mm\n23u  | 🌡️ 21°  | 💨 ↗ 9 k
- mh  | ☀️ 0.0 mm\n\nUpdated at: 2026-08-07 08:10:22 CEST\n\nData source
- : Open-Meteo (https://open-meteo.com/)
+ °  | 💨 ↑ 9 kmh  | ☀️ 0.0 mm\n23u  | 🌡️ 21°  | 💨 ↗ 12 
+ kmh  | ☀️ 0.0 mm\n\nUpdated at: 2026-08-07 13:41:03 CEST\n\nData sourc
+ e: Open-Meteo (https://open-meteo.com/)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🌡️ 15–29°C | 🌧️ 0.0mm
 DTSTART;VALUE=DATE:20260808
 UID:leuven-weather-20260808@myscript
 DESCRIPTION:Leuven\, Belgium Weather Forecast (hourly details): 2026-08-08
- \n00u  | 🌡️ 19°  | 💨 ↗ 9 kmh  | ☀️ 0.0 mm\n01u  | 🌡️ 1
- 8°  | 💨 ↗ 8 kmh  | ☀️ 0.0 mm\n02u  | 🌡️ 18°  | 💨 → 8 
- kmh  | ☀️ 0.0 mm\n03u  | 🌡️ 17°  | 💨 → 7 kmh  | ☀️ 0.0 
- mm\n04u  | 🌡️ 16°  | 💨 ↘ 6 kmh  | ☀️ 0.0 mm\n05u  | 🌡️
-  16°  | 💨 ↘ 4 kmh  | ☀️ 0.0 mm\n06u  | 🌡️ 15°  | 💨 ↘ 
- 1 kmh  | ☀️ 0.0 mm\n07u  | 🌡️ 15°  | 💨 ↘ 3 kmh  | ☀️ 0.
- 0 mm\n08u  | 🌡️ 17°  | 💨 ↘ 4 kmh  | ☀️ 0.0 mm\n09u  | 🌡
- ️ 19°  | 💨 ↘ 4 kmh  | ☀️ 0.0 mm\n10u  | 🌡️ 21°  | 💨 
- → 6 kmh  | ☀️ 0.0 mm\n11u  | 🌡️ 23°  | 💨 → 9 kmh  | ☀
- ️ 0.0 mm\n12u  | 🌡️ 24°  | 💨 → 8 kmh  | ☀️ 0.0 mm\n13u  |
-  🌡️ 26°  | 💨 → 8 kmh  | ☀️ 0.0 mm\n14u  | 🌡️ 27°  | 
- 💨 → 8 kmh  | ☀️ 0.0 mm\n15u  | 🌡️ 28°  | 💨 → 8 kmh  | 
- ☀️ 0.0 mm\n16u  | 🌡️ 29°  | 💨 → 7 kmh  | ☀️ 0.0 mm\n17u
-   | 🌡️ 29°  | 💨 → 7 kmh  | ☀️ 0.0 mm\n18u  | 🌡️ 29°  
- | 💨 ↗ 7 kmh  | ☀️ 0.0 mm\n19u  | 🌡️ 29°  | 💨 ↗ 8 kmh  
- | ☀️ 0.0 mm\n20u  | 🌡️ 29°  | 💨 ↗ 10 kmh  | ☀️ 0.0 mm\n
- 21u  | 🌡️ 27°  | 💨 ↗ 14 kmh  | ☀️ 0.0 mm\n22u  | 🌡️ 25
- °  | 💨 ↗ 10 kmh  | ☀️ 0.0 mm\n23u  | 🌡️ 24°  | 💨 ↑ 7 
- kmh  | ☀️ 0.0 mm\n\nUpdated at: 2026-08-07 08:10:22 CEST\n\nData sourc
- e: Open-Meteo (https://open-meteo.com/)
+ \n00u  | 🌡️ 19°  | 💨 ↗ 10 kmh  | ☀️ 0.0 mm\n01u  | 🌡️ 
+ 18°  | 💨 → 7 kmh  | ☀️ 0.0 mm\n02u  | 🌡️ 18°  | 💨 → 7
+  kmh  | ☀️ 0.0 mm\n03u  | 🌡️ 17°  | 💨 ↘ 8 kmh  | ☀️ 0.0
+  mm\n04u  | 🌡️ 16°  | 💨 ↘ 8 kmh  | ☀️ 0.0 mm\n05u  | 🌡
+ ️ 16°  | 💨 ↘ 6 kmh  | ☀️ 0.0 mm\n06u  | 🌡️ 15°  | 💨 
+ ↘ 2 kmh  | ☀️ 0.0 mm\n07u  | 🌡️ 15°  | 💨 ↘ 4 kmh  | ☀
+ ️ 0.0 mm\n08u  | 🌡️ 16°  | 💨 ↘ 3 kmh  | ☀️ 0.0 mm\n09u  |
+  🌡️ 19°  | 💨 ↘ 4 kmh  | ☀️ 0.0 mm\n10u  | 🌡️ 21°  | 
+ 💨 → 6 kmh  | ☀️ 0.0 mm\n11u  | 🌡️ 23°  | 💨 → 9 kmh  | 
+ ☀️ 0.0 mm\n12u  | 🌡️ 24°  | 💨 → 9 kmh  | ☀️ 0.0 mm\n13u
+   | 🌡️ 25°  | 💨 → 8 kmh  | ☀️ 0.0 mm\n14u  | 🌡️ 27°  
+ | 💨 → 9 kmh  | ☀️ 0.0 mm\n15u  | 🌡️ 28°  | 💨 → 8 kmh  
+ | ☀️ 0.0 mm\n16u  | 🌡️ 28°  | 💨 ↗ 8 kmh  | ☀️ 0.0 mm\n1
+ 7u  | 🌡️ 28°  | 💨 ↗ 8 kmh  | ☀️ 0.0 mm\n18u  | 🌡️ 29°
+   | 💨 ↗ 8 kmh  | ☀️ 0.0 mm\n19u  | 🌡️ 29°  | 💨 ↗ 8 kmh
+   | ☀️ 0.0 mm\n20u  | 🌡️ 28°  | 💨 ↗ 11 kmh  | ☀️ 0.0 mm
+ \n21u  | 🌡️ 26°  | 💨 ↗ 13 kmh  | ☀️ 0.0 mm\n22u  | 🌡️ 
+ 25°  | 💨 ↗ 11 kmh  | ☀️ 0.0 mm\n23u  | 🌡️ 23°  | 💨 ↗ 
+ 9 kmh  | ☀️ 0.0 mm\n\nUpdated at: 2026-08-07 13:41:03 CEST\n\nData sou
+ rce: Open-Meteo (https://open-meteo.com/)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🌡️ 17–30°C | 🌧️ 0.0mm
+SUMMARY:🌡️ 17–31°C | 🌧️ 0.1mm
 DTSTART;VALUE=DATE:20260809
 UID:leuven-weather-20260809@myscript
 DESCRIPTION:Leuven\, Belgium Weather Forecast (hourly details): 2026-08-09
- \n00u  | 🌡️ 23°  | 💨 ↑ 6 kmh  | ☀️ 0.0 mm\n01u  | 🌡️ 2
- 2°  | 💨 ↑ 4 kmh  | ☀️ 0.0 mm\n02u  | 🌡️ 21°  | 💨 ↖ 6 
- kmh  | ☀️ 0.0 mm\n03u  | 🌡️ 20°  | 💨 ↑ 4 kmh  | ☀️ 0.0 
- mm\n04u  | 🌡️ 19°  | 💨 ↖ 4 kmh  | ☀️ 0.0 mm\n05u  | 🌡️
-  18°  | 💨 ↓ 5 kmh  | ☀️ 0.0 mm\n06u  | 🌡️ 17°  | 💨 ↙ 
- 5 kmh  | ☀️ 0.0 mm\n07u  | 🌡️ 17°  | 💨 ↙ 6 kmh  | ☀️ 0.
- 0 mm\n08u  | 🌡️ 19°  | 💨 ↙ 8 kmh  | ☀️ 0.0 mm\n09u  | 🌡
- ️ 22°  | 💨 ↙ 8 kmh  | ☀️ 0.0 mm\n10u  | 🌡️ 25°  | 💨 
- ↙ 4 kmh  | ☀️ 0.0 mm\n11u  | 🌡️ 28°  | 💨 ↙ 4 kmh  | ☀
- ️ 0.0 mm\n12u  | 🌡️ 29°  | 💨 ↙ 10 kmh  | ☀️ 0.0 mm\n13u  
- | 🌡️ 29°  | 💨 ← 11 kmh  | ☀️ 0.0 mm\n14u  | 🌡️ 28°  |
-  💨 ← 12 kmh  | ☀️ 0.0 mm\n15u  | 🌡️ 28°  | 💨 ← 13 kmh 
-  | ☀️ 0.0 mm\n16u  | 🌡️ 29°  | 💨 ← 7 kmh  | ☀️ 0.0 mm\n
- 17u  | 🌡️ 30°  | 💨 ← 9 kmh  | ☀️ 0.0 mm\n18u  | 🌡️ 30
- °  | 💨 ← 8 kmh  | ☀️ 0.0 mm\n19u  | 🌡️ 30°  | 💨 ↖ 7 k
- mh  | ☀️ 0.0 mm\n20u  | 🌡️ 29°  | 💨 ↖ 3 kmh  | ☀️ 0.0 m
- m\n21u  | 🌡️ 27°  | 💨 ↑ 2 kmh  | ☀️ 0.0 mm\n22u  | 🌡️ 
- 26°  | 💨 → 2 kmh  | ☀️ 0.0 mm\n23u  | 🌡️ 25°  | 💨 ↘ 6
-  kmh  | ☀️ 0.0 mm\n\nUpdated at: 2026-08-07 08:10:22 CEST\n\nData sour
- ce: Open-Meteo (https://open-meteo.com/)
+ \n00u  | 🌡️ 22°  | 💨 ↑ 7 kmh  | ☀️ 0.0 mm\n01u  | 🌡️ 2
+ 1°  | 💨 ↑ 7 kmh  | ☀️ 0.0 mm\n02u  | 🌡️ 21°  | 💨 ↑ 6 
+ kmh  | ☀️ 0.0 mm\n03u  | 🌡️ 20°  | 💨 ↑ 5 kmh  | ☀️ 0.0 
+ mm\n04u  | 🌡️ 19°  | 💨 ↗ 2 kmh  | ☀️ 0.0 mm\n05u  | 🌡️
+  19°  | 💨 ↙ 1 kmh  | ☀️ 0.0 mm\n06u  | 🌡️ 18°  | 💨 ↙ 
+ 3 kmh  | ☀️ 0.0 mm\n07u  | 🌡️ 17°  | 💨 ↙ 5 kmh  | ☀️ 0.
+ 0 mm\n08u  | 🌡️ 18°  | 💨 ↙ 5 kmh  | ☀️ 0.0 mm\n09u  | 🌡
+ ️ 21°  | 💨 ↙ 3 kmh  | ☀️ 0.0 mm\n10u  | 🌡️ 24°  | 💨 
+ ← 4 kmh  | ☀️ 0.0 mm\n11u  | 🌡️ 26°  | 💨 ↖ 4 kmh  | ☀
+ ️ 0.0 mm\n12u  | 🌡️ 26°  | 💨 ↙ 8 kmh  | ☀️ 0.0 mm\n13u  |
+  🌡️ 25°  | 💨 ↙ 7 kmh  | 🌧️ 0.1 mm\n14u  | 🌡️ 26°  | 
+ 💨 ↙ 9 kmh  | ☀️ 0.0 mm\n15u  | 🌡️ 26°  | 💨 ↙ 5 kmh  | 
+ ☀️ 0.0 mm\n16u  | 🌡️ 29°  | 💨 ↙ 9 kmh  | ☀️ 0.0 mm\n17u
+   | 🌡️ 31°  | 💨 ↙ 9 kmh  | ☀️ 0.0 mm\n18u  | 🌡️ 31°  
+ | 💨 ↙ 9 kmh  | ☀️ 0.0 mm\n19u  | 🌡️ 30°  | 💨 ↙ 10 kmh 
+  | ☀️ 0.0 mm\n20u  | 🌡️ 30°  | 💨 ↓ 8 kmh  | ☀️ 0.0 mm\n
+ 21u  | 🌡️ 28°  | 💨 ↘ 5 kmh  | ☀️ 0.0 mm\n22u  | 🌡️ 26
+ °  | 💨 ↙ 3 kmh  | ☀️ 0.0 mm\n23u  | 🌡️ 24°  | 💨 ↘ 6 k
+ mh  | ☀️ 0.0 mm\n\nUpdated at: 2026-08-07 13:41:03 CEST\n\nData source
+ : Open-Meteo (https://open-meteo.com/)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🌡️ 20–28°C | 🌧️ 0.0mm
+SUMMARY:🌡️ 19–28°C | 🌧️ 0.0mm
 DTSTART;VALUE=DATE:20260810
 UID:leuven-weather-20260810@myscript
 DESCRIPTION:Leuven\, Belgium Weather Forecast (hourly details): 2026-08-10
- \n00u  | 🌡️ 24°  | 💨 → 2 kmh  | ☀️ 0.0 mm\n01u  | 🌡️ 2
- 3°  | 💨 ↘ 1 kmh  | ☀️ 0.0 mm\n02u  | 🌡️ 22°  | 💨 ↓ 2 
- kmh  | ☀️ 0.0 mm\n03u  | 🌡️ 21°  | 💨 ↓ 8 kmh  | ☀️ 0.0 
- mm\n04u  | 🌡️ 21°  | 💨 ↓ 9 kmh  | ☀️ 0.0 mm\n05u  | 🌡️
-  21°  | 💨 ↙ 10 kmh  | ☀️ 0.0 mm\n06u  | 🌡️ 20°  | 💨 ←
-  11 kmh  | ☀️ 0.0 mm\n07u  | 🌡️ 20°  | 💨 ← 11 kmh  | ☀️
-  0.0 mm\n08u  | 🌡️ 21°  | 💨 ↙ 9 kmh  | ☀️ 0.0 mm\n09u  | 
- 🌡️ 22°  | 💨 ← 11 kmh  | ☀️ 0.0 mm\n10u  | 🌡️ 24°  | 
- 💨 ← 12 kmh  | ☀️ 0.0 mm\n11u  | 🌡️ 25°  | 💨 ← 11 kmh  
- | ☀️ 0.0 mm\n12u  | 🌡️ 27°  | 💨 ↖ 12 kmh  | ☀️ 0.0 mm\n
- 13u  | 🌡️ 28°  | 💨 ↖ 13 kmh  | ☀️ 0.0 mm\n14u  | 🌡️ 28
- °  | 💨 ↖ 16 kmh  | ☀️ 0.0 mm\n15u  | 🌡️ 28°  | 💨 ↖ 17
-  kmh  | ☀️ 0.0 mm\n16u  | 🌡️ 27°  | 💨 ↖ 18 kmh  | ☀️ 0.
- 0 mm\n17u  | 🌡️ 27°  | 💨 ↖ 18 kmh  | ☀️ 0.0 mm\n18u  | 🌡
+ \n00u  | 🌡️ 23°  | 💨 ↓ 9 kmh  | ☀️ 0.0 mm\n01u  | 🌡️ 2
+ 2°  | 💨 ↙ 6 kmh  | ☀️ 0.0 mm\n02u  | 🌡️ 22°  | 💨 ↙ 8 
+ kmh  | ☀️ 0.0 mm\n03u  | 🌡️ 22°  | 💨 ↙ 10 kmh  | ☀️ 0.0
+  mm\n04u  | 🌡️ 21°  | 💨 ↙ 9 kmh  | ☀️ 0.0 mm\n05u  | 🌡
+ ️ 20°  | 💨 ↙ 9 kmh  | ☀️ 0.0 mm\n06u  | 🌡️ 20°  | 💨 
+ ← 8 kmh  | ☀️ 0.0 mm\n07u  | 🌡️ 19°  | 💨 ← 8 kmh  | ☀
+ ️ 0.0 mm\n08u  | 🌡️ 21°  | 💨 ↙ 8 kmh  | ☀️ 0.0 mm\n09u  |
+  🌡️ 22°  | 💨 ← 8 kmh  | ☀️ 0.0 mm\n10u  | 🌡️ 24°  | 
+ 💨 ← 8 kmh  | ☀️ 0.0 mm\n11u  | 🌡️ 26°  | 💨 ← 9 kmh  | 
+ ☀️ 0.0 mm\n12u  | 🌡️ 27°  | 💨 ← 10 kmh  | ☀️ 0.0 mm\n13
+ u  | 🌡️ 28°  | 💨 ↖ 12 kmh  | ☀️ 0.0 mm\n14u  | 🌡️ 28°
+   | 💨 ↖ 14 kmh  | ☀️ 0.0 mm\n15u  | 🌡️ 28°  | 💨 ↖ 15 k
+ mh  | ☀️ 0.0 mm\n16u  | 🌡️ 28°  | 💨 ↖ 16 kmh  | ☀️ 0.0 
+ mm\n17u  | 🌡️ 27°  | 💨 ↖ 17 kmh  | ☀️ 0.0 mm\n18u  | 🌡
  ️ 26°  | 💨 ↖ 17 kmh  | ☀️ 0.0 mm\n19u  | 🌡️ 24°  | 💨 
- ↖ 16 kmh  | ☀️ 0.0 mm\n20u  | 🌡️ 23°  | 💨 ↖ 14 kmh  | ☀
- ️ 0.0 mm\n21u  | 🌡️ 22°  | 💨 ↑ 13 kmh  | ☀️ 0.0 mm\n22u  
- | 🌡️ 21°  | 💨 ↑ 13 kmh  | ☀️ 0.0 mm\n23u  | 🌡️ 20°  |
-  💨 ↑ 12 kmh  | ☀️ 0.0 mm\n\nUpdated at: 2026-08-07 08:10:22 CEST\
+ ↖ 17 kmh  | ☀️ 0.0 mm\n20u  | 🌡️ 23°  | 💨 ↖ 16 kmh  | ☀
+ ️ 0.0 mm\n21u  | 🌡️ 22°  | 💨 ↑ 14 kmh  | ☀️ 0.0 mm\n22u  
+ | 🌡️ 21°  | 💨 ↑ 12 kmh  | ☀️ 0.0 mm\n23u  | 🌡️ 20°  |
+  💨 ↑ 11 kmh  | ☀️ 0.0 mm\n\nUpdated at: 2026-08-07 13:41:03 CEST\
  n\nData source: Open-Meteo (https://open-meteo.com/)
 END:VEVENT
 BEGIN:VEVENT
@@ -111,25 +111,25 @@ SUMMARY:🌡️ 15–25°C | 🌧️ 0.0mm
 DTSTART;VALUE=DATE:20260811
 UID:leuven-weather-20260811@myscript
 DESCRIPTION:Leuven\, Belgium Weather Forecast (hourly details): 2026-08-11
- \n00u  | 🌡️ 19°  | 💨 ↑ 11 kmh  | ☀️ 0.0 mm\n01u  | 🌡️ 
- 18°  | 💨 ↑ 10 kmh  | ☀️ 0.0 mm\n02u  | 🌡️ 17°  | 💨 ↑ 
- 10 kmh  | ☀️ 0.0 mm\n03u  | 🌡️ 16°  | 💨 ↗ 8 kmh  | ☀️ 0
- .0 mm\n04u  | 🌡️ 15°  | 💨 ↗ 7 kmh  | ☀️ 0.0 mm\n05u  | 🌡
- ️ 15°  | 💨 ↗ 6 kmh  | ☀️ 0.0 mm\n06u  | 🌡️ 15°  | 💨 
- ↗ 6 kmh  | ☀️ 0.0 mm\n07u  | 🌡️ 15°  | 💨 ↗ 7 kmh  | ☀
- ️ 0.0 mm\n08u  | 🌡️ 15°  | 💨 ↗ 8 kmh  | ☀️ 0.0 mm\n09u  |
+ \n00u  | 🌡️ 19°  | 💨 ↑ 10 kmh  | ☀️ 0.0 mm\n01u  | 🌡️ 
+ 18°  | 💨 ↗ 8 kmh  | ☀️ 0.0 mm\n02u  | 🌡️ 17°  | 💨 ↗ 7
+  kmh  | ☀️ 0.0 mm\n03u  | 🌡️ 17°  | 💨 ↗ 7 kmh  | ☀️ 0.0
+  mm\n04u  | 🌡️ 16°  | 💨 ↗ 8 kmh  | ☀️ 0.0 mm\n05u  | 🌡
+ ️ 15°  | 💨 ↗ 8 kmh  | ☀️ 0.0 mm\n06u  | 🌡️ 15°  | 💨 
+ ↗ 8 kmh  | ☀️ 0.0 mm\n07u  | 🌡️ 15°  | 💨 ↗ 8 kmh  | ☀
+ ️ 0.0 mm\n08u  | 🌡️ 16°  | 💨 ↗ 8 kmh  | ☀️ 0.0 mm\n09u  |
   🌡️ 17°  | 💨 ↗ 9 kmh  | ☀️ 0.0 mm\n10u  | 🌡️ 18°  | 
  💨 ↗ 10 kmh  | ☀️ 0.0 mm\n11u  | 🌡️ 20°  | 💨 ↗ 11 kmh  
- | ☀️ 0.0 mm\n12u  | 🌡️ 21°  | 💨 ↗ 12 kmh  | ☀️ 0.0 mm\n
- 13u  | 🌡️ 22°  | 💨 ↗ 12 kmh  | ☀️ 0.0 mm\n14u  | 🌡️ 24
- °  | 💨 ↗ 12 kmh  | ☀️ 0.0 mm\n15u  | 🌡️ 24°  | 💨 ↗ 12
+ | ☀️ 0.0 mm\n12u  | 🌡️ 21°  | 💨 ↗ 11 kmh  | ☀️ 0.0 mm\n
+ 13u  | 🌡️ 23°  | 💨 ↗ 10 kmh  | ☀️ 0.0 mm\n14u  | 🌡️ 24
+ °  | 💨 ↗ 10 kmh  | ☀️ 0.0 mm\n15u  | 🌡️ 24°  | 💨 ↗ 11
   kmh  | ☀️ 0.0 mm\n16u  | 🌡️ 25°  | 💨 ↗ 12 kmh  | ☀️ 0.
- 0 mm\n17u  | 🌡️ 25°  | 💨 ↗ 12 kmh  | ☀️ 0.0 mm\n18u  | 🌡
- ️ 25°  | 💨 ↗ 12 kmh  | ☀️ 0.0 mm\n19u  | 🌡️ 25°  | 💨 
- ↗ 13 kmh  | ☀️ 0.0 mm\n20u  | 🌡️ 24°  | 💨 ↗ 13 kmh  | ☀
- ️ 0.0 mm\n21u  | 🌡️ 23°  | 💨 ↗ 13 kmh  | ☀️ 0.0 mm\n22u  
- | 🌡️ 22°  | 💨 ↗ 13 kmh  | ☀️ 0.0 mm\n23u  | 🌡️ 21°  |
-  💨 ↗ 13 kmh  | ☀️ 0.0 mm\n\nUpdated at: 2026-08-07 08:10:22 CEST\
- n\nData source: Open-Meteo (https://open-meteo.com/)
+ 0 mm\n17u  | 🌡️ 25°  | 💨 ↗ 13 kmh  | ☀️ 0.0 mm\n18u  | 🌡
+ ️ 25°  | 💨 ↗ 14 kmh  | ☀️ 0.0 mm\n19u  | 🌡️ 24°  | 💨 
+ ↗ 14 kmh  | ☀️ 0.0 mm\n20u  | 🌡️ 23°  | 💨 ↗ 14 kmh  | ☀
+ ️ 0.0 mm\n21u  | 🌡️ 22°  | 💨 ↗ 13 kmh  | ☀️ 0.0 mm\n22u  
+ | 🌡️ 21°  | 💨 ↗ 11 kmh  | ☀️ 0.0 mm\n23u  | 🌡️ 20°  |
+  💨 ↗ 9 kmh  | ☀️ 0.0 mm\n\nUpdated at: 2026-08-07 13:41:03 CEST\n
+ \nData source: Open-Meteo (https://open-meteo.com/)
 END:VEVENT
 END:VCALENDAR
