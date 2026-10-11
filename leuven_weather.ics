@@ -19,65 +19,65 @@ DESCRIPTION:Leuven\, Belgium Weather Forecast (hourly details): 2026-10-11
  5 kmh  | ☀️ 0.0 mm\n12u  | 🌡️ 13°  | 💨 ← 15 kmh  | ☀️ 0
  .0 mm\n13u  | 🌡️ 14°  | 💨 ← 16 kmh  | ☀️ 0.0 mm\n14u  | 
  🌡️ 14°  | 💨 ← 15 kmh  | ☀️ 0.0 mm\n15u  | 🌡️ 15°  | 
- 💨 ← 14 kmh  | ☀️ 0.0 mm\n16u  | 🌡️ 15°  | 💨 ← 14 kmh  
- | ☀️ 0.0 mm\n17u  | 🌡️ 14°  | 💨 ← 11 kmh  | ☀️ 0.0 mm\n
- 18u  | 🌡️ 14°  | 💨 ← 9 kmh  | ☀️ 0.0 mm\n19u  | 🌡️ 13
- °  | 💨 ← 5 kmh  | ☀️ 0.0 mm\n20u  | 🌡️ 12°  | 💨 ↙ 5 k
- mh  | ☀️ 0.0 mm\n21u  | 🌡️ 12°  | 💨 ↙ 5 kmh  | ☀️ 0.0 m
- m\n22u  | 🌡️ 11°  | 💨 ↙ 6 kmh  | ☀️ 0.0 mm\n23u  | 🌡️ 
- 10°  | 💨 ↙ 5 kmh  | ☀️ 0.0 mm\n\nUpdated at: 2026-10-11 18:29:08
-  CEST\n\nData source: Open-Meteo (https://open-meteo.com/)
+ 💨 ← 14 kmh  | ☀️ 0.0 mm\n16u  | 🌡️ 14°  | 💨 ← 13 kmh  
+ | ☀️ 0.0 mm\n17u  | 🌡️ 14°  | 💨 ↖ 12 kmh  | ☀️ 0.0 mm\n
+ 18u  | 🌡️ 14°  | 💨 ↖ 8 kmh  | ☀️ 0.0 mm\n19u  | 🌡️ 13
+ °  | 💨 ↖ 5 kmh  | ☀️ 0.0 mm\n20u  | 🌡️ 12°  | 💨 ← 4 k
+ mh  | ☀️ 0.0 mm\n21u  | 🌡️ 11°  | 💨 ↙ 5 kmh  | ☀️ 0.0 m
+ m\n22u  | 🌡️ 10°  | 💨 ↓ 6 kmh  | ☀️ 0.0 mm\n23u  | 🌡️ 
+ 9°  | 💨 ↙ 5 kmh  | ☀️ 0.0 mm\n\nUpdated at: 2026-10-11 22:44:36 
+ CEST\n\nData source: Open-Meteo (https://open-meteo.com/)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🌡️ 7–19°C | 🌧️ 0.0mm
+SUMMARY:🌡️ 8–19°C | 🌧️ 0.0mm
 DTSTART;VALUE=DATE:20261012
 UID:leuven-weather-20261012@myscript
 DESCRIPTION:Leuven\, Belgium Weather Forecast (hourly details): 2026-10-12
- \n00u  | 🌡️ 9°  | 💨 ↓ 8 kmh  | ☀️ 0.0 mm\n01u  | 🌡️ 9
- °  | 💨 ↙ 8 kmh  | ☀️ 0.0 mm\n02u  | 🌡️ 8°  | 💨 ↙ 7 km
- h  | ☀️ 0.0 mm\n03u  | 🌡️ 8°  | 💨 ↓ 6 kmh  | ☀️ 0.0 mm\
- n04u  | 🌡️ 7°  | 💨 ↓ 6 kmh  | ☀️ 0.0 mm\n05u  | 🌡️ 7°
-   | 💨 ↓ 6 kmh  | ☀️ 0.0 mm\n06u  | 🌡️ 7°  | 💨 ↙ 6 kmh 
-  | ☀️ 0.0 mm\n07u  | 🌡️ 8°  | 💨 ↙ 8 kmh  | ☀️ 0.0 mm\n0
- 8u  | 🌡️ 9°  | 💨 ↓ 7 kmh  | ☀️ 0.0 mm\n09u  | 🌡️ 10° 
-  | 💨 ↓ 7 kmh  | ☀️ 0.0 mm\n10u  | 🌡️ 11°  | 💨 ↘ 8 kmh 
-  | ☀️ 0.0 mm\n11u  | 🌡️ 12°  | 💨 ↘ 8 kmh  | ☀️ 0.0 mm\n
- 12u  | 🌡️ 15°  | 💨 ↘ 8 kmh  | ☀️ 0.0 mm\n13u  | 🌡️ 16
- °  | 💨 ↓ 8 kmh  | ☀️ 0.0 mm\n14u  | 🌡️ 17°  | 💨 ↓ 10 
- kmh  | ☀️ 0.0 mm\n15u  | 🌡️ 18°  | 💨 ↓ 10 kmh  | ☀️ 0.0
-  mm\n16u  | 🌡️ 19°  | 💨 ↓ 12 kmh  | ☀️ 0.0 mm\n17u  | 🌡
- ️ 19°  | 💨 ↓ 12 kmh  | ☀️ 0.0 mm\n18u  | 🌡️ 18°  | 💨 
- ↓ 11 kmh  | ☀️ 0.0 mm\n19u  | 🌡️ 17°  | 💨 ↓ 9 kmh  | ☀
- ️ 0.0 mm\n20u  | 🌡️ 16°  | 💨 ↘ 8 kmh  | ☀️ 0.0 mm\n21u  |
-  🌡️ 15°  | 💨 ↘ 10 kmh  | ☀️ 0.0 mm\n22u  | 🌡️ 15°  | 
- 💨 ↘ 10 kmh  | ☀️ 0.0 mm\n23u  | 🌡️ 15°  | 💨 ↓ 12 kmh  
- | ☀️ 0.0 mm\n\nUpdated at: 2026-10-11 18:29:08 CEST\n\nData source: Op
- en-Meteo (https://open-meteo.com/)
+ \n00u  | 🌡️ 8°  | 💨 ↓ 6 kmh  | ☀️ 0.0 mm\n01u  | 🌡️ 9
+ °  | 💨 ↓ 6 kmh  | ☀️ 0.0 mm\n02u  | 🌡️ 9°  | 💨 ↓ 5 km
+ h  | ☀️ 0.0 mm\n03u  | 🌡️ 10°  | 💨 ↓ 6 kmh  | ☀️ 0.0 mm
+ \n04u  | 🌡️ 10°  | 💨 ↓ 8 kmh  | ☀️ 0.0 mm\n05u  | 🌡️ 1
+ 0°  | 💨 ↓ 5 kmh  | ☀️ 0.0 mm\n06u  | 🌡️ 11°  | 💨 ↓ 6 
+ kmh  | ☀️ 0.0 mm\n07u  | 🌡️ 11°  | 💨 ↓ 6 kmh  | ☀️ 0.0 
+ mm\n08u  | 🌡️ 11°  | 💨 ↓ 9 kmh  | ☀️ 0.0 mm\n09u  | 🌡️
+  11°  | 💨 ↘ 10 kmh  | ☀️ 0.0 mm\n10u  | 🌡️ 12°  | 💨 ↘
+  7 kmh  | ☀️ 0.0 mm\n11u  | 🌡️ 13°  | 💨 ↓ 8 kmh  | ☀️ 0
+ .0 mm\n12u  | 🌡️ 14°  | 💨 ↓ 9 kmh  | ☀️ 0.0 mm\n13u  | 🌡
+ ️ 17°  | 💨 ↓ 8 kmh  | ☀️ 0.0 mm\n14u  | 🌡️ 18°  | 💨 
+ ↓ 11 kmh  | ☀️ 0.0 mm\n15u  | 🌡️ 19°  | 💨 ↓ 13 kmh  | ☀
+ ️ 0.0 mm\n16u  | 🌡️ 19°  | 💨 ↓ 12 kmh  | ☀️ 0.0 mm\n17u  
+ | 🌡️ 19°  | 💨 ↓ 12 kmh  | ☀️ 0.0 mm\n18u  | 🌡️ 18°  |
+  💨 ↓ 12 kmh  | ☀️ 0.0 mm\n19u  | 🌡️ 17°  | 💨 ↘ 9 kmh  
+ | ☀️ 0.0 mm\n20u  | 🌡️ 16°  | 💨 ↓ 8 kmh  | ☀️ 0.0 mm\n2
+ 1u  | 🌡️ 16°  | 💨 ↘ 10 kmh  | ☀️ 0.0 mm\n22u  | 🌡️ 15
+ °  | 💨 ↘ 9 kmh  | ☀️ 0.0 mm\n23u  | 🌡️ 15°  | 💨 ↘ 11 
+ kmh  | ☀️ 0.0 mm\n\nUpdated at: 2026-10-11 22:44:36 CEST\n\nData sourc
+ e: Open-Meteo (https://open-meteo.com/)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🌡️ 14–18°C | 🌧️ 0.2mm
+SUMMARY:🌡️ 15–20°C | 🌧️ 0.0mm
 DTSTART;VALUE=DATE:20261013
 UID:leuven-weather-20261013@myscript
 DESCRIPTION:Leuven\, Belgium Weather Forecast (hourly details): 2026-10-13
- \n00u  | 🌡️ 14°  | 💨 ↓ 13 kmh  | ☀️ 0.0 mm\n01u  | 🌡️ 
+ \n00u  | 🌡️ 15°  | 💨 ↓ 13 kmh  | ☀️ 0.0 mm\n01u  | 🌡️ 
  15°  | 💨 ↓ 13 kmh  | ☀️ 0.0 mm\n02u  | 🌡️ 15°  | 💨 ↓ 
- 14 kmh  | ☀️ 0.0 mm\n03u  | 🌡️ 14°  | 💨 ↓ 15 kmh  | 🌧️
-  0.2 mm\n04u  | 🌡️ 15°  | 💨 ↓ 14 kmh  | ☀️ 0.0 mm\n05u  | 
- 🌡️ 15°  | 💨 ↓ 13 kmh  | ☀️ 0.0 mm\n06u  | 🌡️ 15°  | 
- 💨 ↓ 13 kmh  | ☀️ 0.0 mm\n07u  | 🌡️ 15°  | 💨 ↓ 14 kmh  
- | ☀️ 0.0 mm\n08u  | 🌡️ 15°  | 💨 ↓ 12 kmh  | ☀️ 0.0 mm\n
- 09u  | 🌡️ 15°  | 💨 ↓ 12 kmh  | ☀️ 0.0 mm\n10u  | 🌡️ 15
- °  | 💨 ↓ 15 kmh  | ☀️ 0.0 mm\n11u  | 🌡️ 16°  | 💨 ↙ 14
-  kmh  | ☀️ 0.0 mm\n12u  | 🌡️ 17°  | 💨 ↙ 16 kmh  | ☀️ 0.
+ 14 kmh  | ☀️ 0.0 mm\n03u  | 🌡️ 15°  | 💨 ↓ 15 kmh  | ☀️ 
+ 0.0 mm\n04u  | 🌡️ 15°  | 💨 ↓ 14 kmh  | ☀️ 0.0 mm\n05u  | 
+ 🌡️ 16°  | 💨 ↓ 14 kmh  | ☀️ 0.0 mm\n06u  | 🌡️ 16°  | 
+ 💨 ↓ 13 kmh  | ☀️ 0.0 mm\n07u  | 🌡️ 16°  | 💨 ↙ 11 kmh  
+ | ☀️ 0.0 mm\n08u  | 🌡️ 16°  | 💨 ↙ 14 kmh  | ☀️ 0.0 mm\n
+ 09u  | 🌡️ 16°  | 💨 ↓ 15 kmh  | ☀️ 0.0 mm\n10u  | 🌡️ 16
+ °  | 💨 ↙ 14 kmh  | ☀️ 0.0 mm\n11u  | 🌡️ 16°  | 💨 ↙ 15
+  kmh  | ☀️ 0.0 mm\n12u  | 🌡️ 17°  | 💨 ↙ 17 kmh  | ☀️ 0.
  0 mm\n13u  | 🌡️ 18°  | 💨 ↙ 16 kmh  | ☀️ 0.0 mm\n14u  | 🌡
- ️ 18°  | 💨 ↙ 14 kmh  | ☀️ 0.0 mm\n15u  | 🌡️ 18°  | 💨 
- ↙ 16 kmh  | ☀️ 0.0 mm\n16u  | 🌡️ 18°  | 💨 ↙ 15 kmh  | ☀
- ️ 0.0 mm\n17u  | 🌡️ 18°  | 💨 ↙ 15 kmh  | ☀️ 0.0 mm\n18u  
- | 🌡️ 18°  | 💨 ↙ 15 kmh  | ☀️ 0.0 mm\n19u  | 🌡️ 17°  |
-  💨 ↙ 13 kmh  | ☀️ 0.0 mm\n20u  | 🌡️ 16°  | 💨 ↙ 13 kmh 
-  | ☀️ 0.0 mm\n21u  | 🌡️ 16°  | 💨 ↙ 13 kmh  | ☀️ 0.0 mm\
- n22u  | 🌡️ 17°  | 💨 ↙ 12 kmh  | ☀️ 0.0 mm\n23u  | 🌡️ 1
- 7°  | 💨 ← 13 kmh  | ☀️ 0.0 mm\n\nUpdated at: 2026-10-11 18:29:08
+ ️ 18°  | 💨 ↙ 15 kmh  | ☀️ 0.0 mm\n15u  | 🌡️ 18°  | 💨 
+ ↙ 17 kmh  | ☀️ 0.0 mm\n16u  | 🌡️ 19°  | 💨 ↙ 15 kmh  | ☀
+ ️ 0.0 mm\n17u  | 🌡️ 20°  | 💨 ↙ 15 kmh  | ☀️ 0.0 mm\n18u  
+ | 🌡️ 20°  | 💨 ↙ 15 kmh  | ☀️ 0.0 mm\n19u  | 🌡️ 19°  |
+  💨 ↙ 13 kmh  | ☀️ 0.0 mm\n20u  | 🌡️ 18°  | 💨 ↙ 11 kmh 
+  | ☀️ 0.0 mm\n21u  | 🌡️ 18°  | 💨 ← 15 kmh  | ☀️ 0.0 mm\
+ n22u  | 🌡️ 17°  | 💨 ← 12 kmh  | ☀️ 0.0 mm\n23u  | 🌡️ 1
+ 7°  | 💨 ← 12 kmh  | ☀️ 0.0 mm\n\nUpdated at: 2026-10-11 22:44:36
   CEST\n\nData source: Open-Meteo (https://open-meteo.com/)
 END:VEVENT
 BEGIN:VEVENT
@@ -85,51 +85,51 @@ SUMMARY:🌡️ 10–18°C | 🌧️ 0.0mm
 DTSTART;VALUE=DATE:20261014
 UID:leuven-weather-20261014@myscript
 DESCRIPTION:Leuven\, Belgium Weather Forecast (hourly details): 2026-10-14
- \n00u  | 🌡️ 17°  | 💨 ← 12 kmh  | ☀️ 0.0 mm\n01u  | 🌡️ 
- 16°  | 💨 ← 10 kmh  | ☀️ 0.0 mm\n02u  | 🌡️ 15°  | 💨 ← 
- 9 kmh  | ☀️ 0.0 mm\n03u  | 🌡️ 14°  | 💨 ← 8 kmh  | ☀️ 0.
- 0 mm\n04u  | 🌡️ 12°  | 💨 ← 8 kmh  | ☀️ 0.0 mm\n05u  | 🌡
- ️ 12°  | 💨 ↙ 7 kmh  | ☀️ 0.0 mm\n06u  | 🌡️ 11°  | 💨 
- ↙ 8 kmh  | ☀️ 0.0 mm\n07u  | 🌡️ 11°  | 💨 ↙ 7 kmh  | ☀
- ️ 0.0 mm\n08u  | 🌡️ 10°  | 💨 ↙ 7 kmh  | ☀️ 0.0 mm\n09u  |
-  🌡️ 11°  | 💨 ↙ 8 kmh  | ☀️ 0.0 mm\n10u  | 🌡️ 12°  | 
+ \n00u  | 🌡️ 16°  | 💨 ← 12 kmh  | ☀️ 0.0 mm\n01u  | 🌡️ 
+ 15°  | 💨 ← 10 kmh  | ☀️ 0.0 mm\n02u  | 🌡️ 14°  | 💨 ↙ 
+ 7 kmh  | ☀️ 0.0 mm\n03u  | 🌡️ 14°  | 💨 ↙ 6 kmh  | ☀️ 0.
+ 0 mm\n04u  | 🌡️ 13°  | 💨 ↙ 8 kmh  | ☀️ 0.0 mm\n05u  | 🌡
+ ️ 12°  | 💨 ↙ 9 kmh  | ☀️ 0.0 mm\n06u  | 🌡️ 13°  | 💨 
+ ↙ 7 kmh  | ☀️ 0.0 mm\n07u  | 🌡️ 12°  | 💨 ↙ 6 kmh  | ☀
+ ️ 0.0 mm\n08u  | 🌡️ 11°  | 💨 ↙ 6 kmh  | ☀️ 0.0 mm\n09u  |
+  🌡️ 10°  | 💨 ↙ 8 kmh  | ☀️ 0.0 mm\n10u  | 🌡️ 12°  | 
  💨 ↙ 7 kmh  | ☀️ 0.0 mm\n11u  | 🌡️ 14°  | 💨 ↙ 5 kmh  | 
- ☀️ 0.0 mm\n12u  | 🌡️ 16°  | 💨 ↓ 6 kmh  | ☀️ 0.0 mm\n13u
-   | 🌡️ 17°  | 💨 ↙ 6 kmh  | ☀️ 0.0 mm\n14u  | 🌡️ 18°  
- | 💨 ↙ 7 kmh  | ☀️ 0.0 mm\n15u  | 🌡️ 18°  | 💨 ↙ 8 kmh  
+ ☀️ 0.0 mm\n12u  | 🌡️ 16°  | 💨 ↙ 4 kmh  | ☀️ 0.0 mm\n13u
+   | 🌡️ 17°  | 💨 ↓ 5 kmh  | ☀️ 0.0 mm\n14u  | 🌡️ 18°  
+ | 💨 ↙ 8 kmh  | ☀️ 0.0 mm\n15u  | 🌡️ 18°  | 💨 ↙ 7 kmh  
  | ☀️ 0.0 mm\n16u  | 🌡️ 18°  | 💨 ↙ 8 kmh  | ☀️ 0.0 mm\n1
- 7u  | 🌡️ 18°  | 💨 ↙ 7 kmh  | ☀️ 0.0 mm\n18u  | 🌡️ 16°
-   | 💨 ↓ 5 kmh  | ☀️ 0.0 mm\n19u  | 🌡️ 14°  | 💨 ↓ 6 kmh
-   | ☀️ 0.0 mm\n20u  | 🌡️ 13°  | 💨 ↓ 6 kmh  | ☀️ 0.0 mm\
- n21u  | 🌡️ 13°  | 💨 ↙ 7 kmh  | ☀️ 0.0 mm\n22u  | 🌡️ 12
- °  | 💨 ↓ 9 kmh  | ☀️ 0.0 mm\n23u  | 🌡️ 12°  | 💨 ↓ 9 k
- mh  | ☀️ 0.0 mm\n\nUpdated at: 2026-10-11 18:29:08 CEST\n\nData source
- : Open-Meteo (https://open-meteo.com/)
+ 7u  | 🌡️ 18°  | 💨 ↙ 7 kmh  | ☀️ 0.0 mm\n18u  | 🌡️ 17°
+   | 💨 ↓ 4 kmh  | ☀️ 0.0 mm\n19u  | 🌡️ 15°  | 💨 ↓ 6 kmh
+   | ☀️ 0.0 mm\n20u  | 🌡️ 14°  | 💨 ↙ 8 kmh  | ☀️ 0.0 mm\
+ n21u  | 🌡️ 13°  | 💨 ↙ 8 kmh  | ☀️ 0.0 mm\n22u  | 🌡️ 12
+ °  | 💨 ↓ 10 kmh  | ☀️ 0.0 mm\n23u  | 🌡️ 12°  | 💨 ↓ 9 
+ kmh  | ☀️ 0.0 mm\n\nUpdated at: 2026-10-11 22:44:36 CEST\n\nData sourc
+ e: Open-Meteo (https://open-meteo.com/)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🌡️ 11–21°C | 🌧️ 0.0mm
+SUMMARY:🌡️ 10–21°C | 🌧️ 0.0mm
 DTSTART;VALUE=DATE:20261015
 UID:leuven-weather-20261015@myscript
 DESCRIPTION:Leuven\, Belgium Weather Forecast (hourly details): 2026-10-15
- \n00u  | 🌡️ 11°  | 💨 ↓ 9 kmh  | ☀️ 0.0 mm\n01u  | 🌡️ 1
- 1°  | 💨 ↓ 9 kmh  | ☀️ 0.0 mm\n02u  | 🌡️ 11°  | 💨 ↓ 9 
- kmh  | ☀️ 0.0 mm\n03u  | 🌡️ 11°  | 💨 ↓ 10 kmh  | ☀️ 0.0
-  mm\n04u  | 🌡️ 11°  | 💨 ↓ 12 kmh  | ☀️ 0.0 mm\n05u  | 🌡
- ️ 12°  | 💨 ↓ 12 kmh  | ☀️ 0.0 mm\n06u  | 🌡️ 12°  | 💨 
- ↓ 12 kmh  | ☀️ 0.0 mm\n07u  | 🌡️ 12°  | 💨 ↓ 11 kmh  | ☀
- ️ 0.0 mm\n08u  | 🌡️ 12°  | 💨 ↓ 11 kmh  | ☀️ 0.0 mm\n09u  
- | 🌡️ 13°  | 💨 ↓ 11 kmh  | ☀️ 0.0 mm\n10u  | 🌡️ 15°  |
-  💨 ↓ 11 kmh  | ☀️ 0.0 mm\n11u  | 🌡️ 16°  | 💨 ↓ 11 kmh 
-  | ☀️ 0.0 mm\n12u  | 🌡️ 18°  | 💨 ↓ 12 kmh  | ☀️ 0.0 mm\
- n13u  | 🌡️ 19°  | 💨 ↙ 14 kmh  | ☀️ 0.0 mm\n14u  | 🌡️ 2
- 0°  | 💨 ↙ 15 kmh  | ☀️ 0.0 mm\n15u  | 🌡️ 21°  | 💨 ↙ 1
- 4 kmh  | ☀️ 0.0 mm\n16u  | 🌡️ 21°  | 💨 ↙ 12 kmh  | ☀️ 0
- .0 mm\n17u  | 🌡️ 20°  | 💨 ↓ 10 kmh  | ☀️ 0.0 mm\n18u  | 
- 🌡️ 19°  | 💨 ↓ 9 kmh  | ☀️ 0.0 mm\n19u  | 🌡️ 17°  | 
- 💨 ↓ 8 kmh  | ☀️ 0.0 mm\n20u  | 🌡️ 16°  | 💨 ↓ 8 kmh  | 
- ☀️ 0.0 mm\n21u  | 🌡️ 15°  | 💨 ↓ 8 kmh  | ☀️ 0.0 mm\n22u
-   | 🌡️ 15°  | 💨 ↓ 10 kmh  | ☀️ 0.0 mm\n23u  | 🌡️ 15° 
-  | 💨 ↓ 11 kmh  | ☀️ 0.0 mm\n\nUpdated at: 2026-10-11 18:29:08 CES
- T\n\nData source: Open-Meteo (https://open-meteo.com/)
+ \n00u  | 🌡️ 11°  | 💨 ↓ 10 kmh  | ☀️ 0.0 mm\n01u  | 🌡️ 
+ 11°  | 💨 ↓ 9 kmh  | ☀️ 0.0 mm\n02u  | 🌡️ 10°  | 💨 ↓ 9
+  kmh  | ☀️ 0.0 mm\n03u  | 🌡️ 10°  | 💨 ↓ 10 kmh  | ☀️ 0.
+ 0 mm\n04u  | 🌡️ 10°  | 💨 ↓ 10 kmh  | ☀️ 0.0 mm\n05u  | 🌡
+ ️ 10°  | 💨 ↓ 10 kmh  | ☀️ 0.0 mm\n06u  | 🌡️ 10°  | 💨 
+ ↓ 10 kmh  | ☀️ 0.0 mm\n07u  | 🌡️ 10°  | 💨 ↓ 11 kmh  | ☀
+ ️ 0.0 mm\n08u  | 🌡️ 10°  | 💨 ↓ 11 kmh  | ☀️ 0.0 mm\n09u  
+ | 🌡️ 12°  | 💨 ↓ 11 kmh  | ☀️ 0.0 mm\n10u  | 🌡️ 14°  |
+  💨 ↓ 9 kmh  | ☀️ 0.0 mm\n11u  | 🌡️ 16°  | 💨 ↓ 9 kmh  |
+  ☀️ 0.0 mm\n12u  | 🌡️ 17°  | 💨 ↓ 10 kmh  | ☀️ 0.0 mm\n1
+ 3u  | 🌡️ 19°  | 💨 ↓ 12 kmh  | ☀️ 0.0 mm\n14u  | 🌡️ 20
+ °  | 💨 ↓ 13 kmh  | ☀️ 0.0 mm\n15u  | 🌡️ 21°  | 💨 ↓ 12
+  kmh  | ☀️ 0.0 mm\n16u  | 🌡️ 21°  | 💨 ↓ 12 kmh  | ☀️ 0.
+ 0 mm\n17u  | 🌡️ 20°  | 💨 ↓ 11 kmh  | ☀️ 0.0 mm\n18u  | 🌡
+ ️ 19°  | 💨 ↓ 11 kmh  | ☀️ 0.0 mm\n19u  | 🌡️ 17°  | 💨 
+ ↓ 12 kmh  | ☀️ 0.0 mm\n20u  | 🌡️ 16°  | 💨 ↓ 12 kmh  | ☀
+ ️ 0.0 mm\n21u  | 🌡️ 15°  | 💨 ↓ 13 kmh  | ☀️ 0.0 mm\n22u  
+ | 🌡️ 15°  | 💨 ↓ 14 kmh  | ☀️ 0.0 mm\n23u  | 🌡️ 15°  |
+  💨 ↓ 14 kmh  | ☀️ 0.0 mm\n\nUpdated at: 2026-10-11 22:44:36 CEST\
+ n\nData source: Open-Meteo (https://open-meteo.com/)
 END:VEVENT
 END:VCALENDAR
